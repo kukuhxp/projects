@@ -1,0 +1,133 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CSS Property Table</title>
+  <link href="src/style.css" rel="stylesheet" />
+</head>
+<body>
+  <h2>Cascading Style Sheet Property Table</h2>
+  <div class="search-box">
+    <input type="text" id="searchInput" onkeyup="filterTable()" placeholder="Cari entitas...">
+  </div>
+  <div class="controls">
+    <button onclick="exportCSV()">Export CSV</button>
+    <input type="file" id="csvInput" accept=".csv" onchange="importCSV(event)">
+  </div>
+  <div class="table-container">
+    <table border="1" colspan="">
+      <thead>
+        <tr>
+          <th>Kategori</th>
+          <th>Properti CSS</th>
+          <th>Fungsi</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td rowspan="8">Layout & Box Model</td>
+          <td>display</td>
+          <td>Tipe tampilan elemen</td>
+        </tr>
+        <tr><td>position</td><td>Posisi relatif terhadap induk</td></tr>
+        <tr><td>top, right, bottom, left</td><td>Jarak dari sisi tertentu</td></tr>
+        <tr><td>z-index</td><td>Urutan tumpukan elemen</td></tr>
+        <tr><td>float</td><td>Mengatur elemen mengambang</td></tr>
+        <tr><td>clear</td><td>Mengatur posisi terhadap float</td></tr>
+        <tr><td>overflow</td><td>Perilaku saat konten meluap</td></tr>
+        <tr><td>box-sizing</td><td>Perhitungan ukuran box</td></tr>
+
+        <tr>
+          <td rowspan="3">Ukuran</td>
+          <td>width, height</td>
+          <td>Ukuran elemen</td>
+        </tr>
+        <tr><td>max-width, max-height</td><td>Batas ukuran maksimal</td></tr>
+        <tr><td>min-width, min-height</td><td>Batas ukuran minimal</td></tr>
+
+        <tr>
+          <td rowspan="4">Margin & Padding</td>
+          <td>margin, padding</td>
+          <td>Jarak luar & dalam elemen</td>
+        </tr>
+        <tr><td>margin-top/bottom/etc</td><td>Jarak luar sisi tertentu</td></tr>
+        <tr><td>padding-top/bottom/etc</td><td>Jarak dalam sisi tertentu</td></tr>
+        <tr><td>gap (Grid/Flex)</td><td>Jarak antar elemen di layout</td></tr>
+
+        <tr>
+          <td rowspan="4">Border & Outline</td>
+          <td>border, outline</td>
+          <td>Garis tepi elemen</td>
+        </tr>
+        <tr><td>border-radius</td><td>Membulatkan sudut</td></tr>
+        <tr><td>box-shadow</td><td>Bayangan di belakang elemen</td></tr>
+        <tr><td>outline-style/width/color</td><td>Garis luar tanpa pengaruh layout</td></tr>
+
+        <tr>
+          <td rowspan="9">Typography</td>
+          <td>font-family</td>
+          <td>Jenis huruf</td>
+        </tr>
+        <tr><td>font-size</td><td>Ukuran teks</td></tr>
+        <tr><td>font-weight</td><td>Ketebalan huruf</td></tr>
+        <tr><td>line-height</td><td>Jarak antar baris</td></tr>
+        <tr><td>letter-spacing</td><td>Spasi antar huruf</td></tr>
+        <tr><td>text-align</td><td>Perataan teks</td></tr>
+        <tr><td>text-transform</td><td>Ubah kapitalisasi</td></tr>
+        <tr><td>text-decoration</td><td>Garis bawah, coret, dll</td></tr>
+        <tr><td>white-space</td><td>Kontrol pemisahan spasi</td></tr>
+
+        <tr>
+          <td rowspan="6">Warna & Background</td>
+          <td>color</td>
+          <td>Warna teks</td>
+        </tr>
+        <tr><td>background-color</td><td>Warna latar belakang</td></tr>
+        <tr><td>background-image</td><td>Gambar latar</td></tr>
+        <tr><td>background-size</td><td>Ukuran gambar latar</td></tr>
+        <tr><td>background-position</td><td>Posisi gambar latar</td></tr>
+        <tr><td>background-repeat</td><td>Pola pengulangan gambar</td></tr>
+
+        <tr>
+          <td rowspan="5">Flexbox</td>
+          <td>display: flex</td>
+          <td>Mengaktifkan flexbox layout</td>
+        </tr>
+        <tr><td>flex-direction</td><td>Arah utama baris/kolom</td></tr>
+        <tr><td>justify-content</td><td>Perataan horizontal</td></tr>
+        <tr><td>align-items</td><td>Perataan vertikal</td></tr>
+        <tr><td>flex-wrap</td><td>Membungkus elemen</td></tr>
+
+        <tr>
+          <td rowspan="5">Grid</td>
+          <td>display: grid</td>
+          <td>Mengaktifkan grid layout</td>
+        </tr>
+        <tr><td>grid-template-columns</td><td>Definisi kolom</td></tr>
+        <tr><td>grid-template-rows</td><td>Definisi baris</td></tr>
+        <tr><td>gap / row-gap</td><td>Jarak antar kolom/baris</td></tr>
+        <tr><td>grid-column / row</td><td>Posisi item di grid</td></tr>
+
+        <tr>
+          <td rowspan="4">Transisi & Animasi</td>
+          <td>transition</td>
+          <td>Efek transisi properti</td>
+        </tr>
+        <tr><td>transform</td><td>Rotasi, skala, gerak</td></tr>
+        <tr><td>animation</td><td>Menjalankan animasi</td></tr>
+        <tr><td>@keyframes</td><td>Mendefinisikan langkah animasi</td></tr>
+
+        <tr>
+          <td rowspan="4">Efek & Interaksi</td>
+          <td>opacity</td>
+          <td>Transparansi</td>
+        </tr>
+        <tr><td>visibility</td><td>Kontrol tampilan elemen</td></tr>
+        <tr><td>cursor</td><td>Bentuk kursor saat hover</td></tr>
+        <tr><td>pointer-events</td><td>Akses interaksi elemen</td></tr>
+      </tbody>
+    </table>
+  </div>
+</body>
+<script src="src/index.js"></script>
+</html>

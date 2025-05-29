@@ -1,0 +1,147 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CSS Selector Table</title>
+  <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+  <h2>Cascading Style Sheet Selector Table</h2>
+  <div class="search-box">
+    <input type="text" id="searchInput" onkeyup="filterTable()" placeholder="Cari entitas...">
+  </div>
+  <div class="controls">
+    <button onclick="exportCSV()">Export CSV</button>
+    <input type="file" id="csvInput" accept=".csv" onchange="importCSV(event)">
+  </div>
+  <div class="table-container">
+  <table>
+      <thead>
+        <tr>
+          <th>Jenis Selector</th>
+          <th>Contoh</th>
+          <th>Fungsi</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Universal Selector</td>
+          <td>*</td>
+          <td>Memilih semua elemen</td>
+        </tr>
+        <tr>
+          <td>Type Selector</td>
+          <td>p, h1, div</td>
+          <td>Memilih elemen berdasarkan nama tag</td>
+        </tr>
+        <tr>
+          <td>Class Selector</td>
+          <td>.judul</td>
+          <td>Memilih elemen dengan class tertentu</td>
+        </tr>
+        <tr>
+          <td>ID Selector</td>
+          <td>#header</td>
+          <td>Memilih elemen berdasarkan ID</td>
+        </tr>
+        <tr>
+          <td>Descendant Selector</td>
+          <td>div p</td>
+          <td>Memilih p di dalam div</td>
+        </tr>
+        <tr>
+          <td>Child Selector</td>
+          <td>ul > li</td>
+          <td>Memilih li yang merupakan anak langsung dari ul</td>
+        </tr>
+        <tr>
+          <td>Adjacent Sibling</td>
+          <td>h1 + p</td>
+          <td>Memilih p yang langsung setelah h1</td>
+        </tr>
+        <tr>
+          <td>General Sibling</td>
+          <td>h1 ~ p</td>
+          <td>Memilih semua p yang bersaudara dengan h1</td>
+        </tr>
+        <tr>
+          <td>Attribute Selector</td>
+          <td>[type="text"]</td>
+          <td>Memilih elemen input dengan tipe teks</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>[href^="https"]</td>
+          <td>Memilih elemen dengan atribut href diawali "https"</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>[href$=".pdf"]</td>
+          <td>Memilih elemen dengan atribut href diakhiri ".pdf"</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>[title*="tips"]</td>
+          <td>Memilih elemen dengan atribut title mengandung "tips"</td>
+        </tr>
+        <tr>
+          <td>Pseudo-class: State</td>
+          <td>a:hover, input:focus</td>
+          <td>Memilih elemen dalam kondisi tertentu (hover, focus, dll)</td>
+        </tr>
+        <tr>
+          <td>Pseudo-class: Posisi</td>
+          <td>li:first-child, li:last-child</td>
+          <td>Memilih elemen berdasarkan posisi</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>li:nth-child(2)</td>
+          <td>Memilih elemen anak ke-2</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>li:nth-of-type(odd)</td>
+          <td>Memilih elemen berjenis sama di posisi ganjil</td>
+        </tr>
+        <tr>
+          <td>:not(selector)</td>
+          <td>:not(.aktif)</td>
+          <td>Memilih elemen yang bukan class .aktif</td>
+        </tr>
+        <tr>
+          <td>:is(), :where()</td>
+          <td>:is(h1, h2)</td>
+          <td>Memilih elemen yang cocok dari daftar selector</td>
+        </tr>
+        <tr>
+          <td>Pseudo-element</td>
+          <td>::before, ::after</td>
+          <td>Menyisipkan konten sebelum/sesudah elemen</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>::first-line</td>
+          <td>Mengatur baris pertama dari teks</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>::placeholder</td>
+          <td>Mengatur style teks placeholder input</td>
+        </tr>
+        <tr>
+          <td>@media Query</td>
+          <td>@media (max-width: 768px)</td>
+          <td>Menentukan style khusus untuk ukuran layar tertentu (responsif)</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>@media screen and (orientation: portrait)</td>
+          <td>Menerapkan style saat layar dalam mode potret</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</body>
+<script src="index.js"></script>
+</html>

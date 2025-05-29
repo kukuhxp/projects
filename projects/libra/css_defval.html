@@ -1,0 +1,147 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CSS Default Value Table</title>
+  <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+  <h2>CSS Default Value of HTML Tag Table</h2>
+  <div class="search-box">
+    <input type="text" id="searchInput" list="suggestions" placeholder="Searching for a HTML Tag...">
+    <span id="clearBtn" onclick="clearSearch()">x</span>
+    <datalist id="suggestions"></datalist>
+    <ul id="customSuggestions"></ul>
+  </div>
+  <div class="controls">
+    <button onclick="exportCSV()">Export CSV</button>
+    <input type="file" id="csvInput" accept=".csv" onchange="importCSV(event)">
+  </div>
+  <div class="table-container">
+<table>
+  <thead>
+    <tr>
+      <th>Tag HTML</th>
+      <th>Default display</th>
+      <th>Default margin</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>&lt;a&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;abbr&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;address&gt;</td><td>block</td><td>1em 0</td></tr>
+    <tr><td>&lt;area&gt;</td><td>none</td><td>0</td></tr>
+    <tr><td>&lt;article&gt;</td><td>block</td><td>0</td></tr>
+    <tr><td>&lt;aside&gt;</td><td>block</td><td>0</td></tr>
+    <tr><td>&lt;audio&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;b&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;base&gt;</td><td>none</td><td>0</td></tr>
+    <tr><td>&lt;bdi&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;bdo&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;blockquote&gt;</td><td>block</td><td>1em 40px</td></tr>
+    <tr><td>&lt;body&gt;</td><td>block</td><td>8px</td></tr>
+    <tr><td>&lt;br&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;button&gt;</td><td>inline-block</td><td>0</td></tr>
+    <tr><td>&lt;canvas&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;caption&gt;</td><td>table-caption</td><td>0</td></tr>
+    <tr><td>&lt;cite&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;code&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;col&gt;</td><td>table-column</td><td>0</td></tr>
+    <tr><td>&lt;colgroup&gt;</td><td>table-column-group</td><td>0</td></tr>
+    <tr><td>&lt;data&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;datalist&gt;</td><td>none</td><td>0</td></tr>
+    <tr><td>&lt;dd&gt;</td><td>block</td><td>0 40px</td></tr>
+    <tr><td>&lt;del&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;details&gt;</td><td>block</td><td>0</td></tr>
+    <tr><td>&lt;dfn&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;dialog&gt;</td><td>block</td><td>0</td></tr>
+    <tr><td>&lt;div&gt;</td><td>block</td><td>0</td></tr>
+    <tr><td>&lt;dl&gt;</td><td>block</td><td>1em 0</td></tr>
+    <tr><td>&lt;dt&gt;</td><td>block</td><td>0</td></tr>
+    <tr><td>&lt;em&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;embed&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;fieldset&gt;</td><td>block</td><td>0</td></tr>
+    <tr><td>&lt;figcaption&gt;</td><td>block</td><td>0</td></tr>
+    <tr><td>&lt;figure&gt;</td><td>block</td><td>1em 40px</td></tr>
+    <tr><td>&lt;footer&gt;</td><td>block</td><td>0</td></tr>
+    <tr><td>&lt;form&gt;</td><td>block</td><td>0</td></tr>
+    <tr><td>&lt;h1&gt;</td><td>block</td><td>0.67em 0</td></tr>
+    <tr><td>&lt;h2&gt;</td><td>block</td><td>0.83em 0</td></tr>
+    <tr><td>&lt;h3&gt;</td><td>block</td><td>1em 0</td></tr>
+    <tr><td>&lt;h4&gt;</td><td>block</td><td>1.33em 0</td></tr>
+    <tr><td>&lt;h5&gt;</td><td>block</td><td>1.67em 0</td></tr>
+    <tr><td>&lt;h6&gt;</td><td>block</td><td>2.33em 0</td></tr>
+    <tr><td>&lt;head&gt;</td><td>none</td><td>0</td></tr>
+    <tr><td>&lt;header&gt;</td><td>block</td><td>0</td></tr>
+    <tr><td>&lt;hgroup&gt;</td><td>block</td><td>0</td></tr>
+    <tr><td>&lt;hr&gt;</td><td>block</td><td>0.5em auto</td></tr>
+    <tr><td>&lt;html&gt;</td><td>block</td><td>0</td></tr>
+    <tr><td>&lt;i&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;iframe&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;img&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;input&gt;</td><td>inline-block</td><td>0</td></tr>
+    <tr><td>&lt;ins&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;kbd&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;label&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;legend&gt;</td><td>block</td><td>0</td></tr>
+    <tr><td>&lt;li&gt;</td><td>list-item</td><td>0</td></tr>
+    <tr><td>&lt;link&gt;</td><td>none</td><td>0</td></tr>
+    <tr><td>&lt;main&gt;</td><td>block</td><td>0</td></tr>
+    <tr><td>&lt;map&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;mark&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;menu&gt;</td><td>block</td><td>1em 0</td></tr>
+    <tr><td>&lt;meta&gt;</td><td>none</td><td>0</td></tr>
+    <tr><td>&lt;meter&gt;</td><td>inline-block</td><td>0</td></tr>
+    <tr><td>&lt;nav&gt;</td><td>block</td><td>0</td></tr>
+    <tr><td>&lt;noscript&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;object&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;ol&gt;</td><td>block</td><td>1em 0</td></tr>
+    <tr><td>&lt;optgroup&gt;</td><td>none</td><td>0</td></tr>
+    <tr><td>&lt;option&gt;</td><td>none</td><td>0</td></tr>
+    <tr><td>&lt;output&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;p&gt;</td><td>block</td><td>1em 0</td></tr>
+    <tr><td>&lt;param&gt;</td><td>none</td><td>0</td></tr>
+    <tr><td>&lt;picture&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;pre&gt;</td><td>block</td><td>1em 0</td></tr>
+    <tr><td>&lt;progress&gt;</td><td>inline-block</td><td>0</td></tr>
+    <tr><td>&lt;q&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;rp&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;rt&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;ruby&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;s&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;samp&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;script&gt;</td><td>none</td><td>0</td></tr>
+    <tr><td>&lt;section&gt;</td><td>block</td><td>0</td></tr>
+    <tr><td>&lt;select&gt;</td><td>inline-block</td><td>0</td></tr>
+    <tr><td>&lt;slot&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;small&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;source&gt;</td><td>none</td><td>0</td></tr>
+    <tr><td>&lt;span&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;strong&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;style&gt;</td><td>none</td><td>0</td></tr>
+    <tr><td>&lt;sub&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;summary&gt;</td><td>block</td><td>0</td></tr>
+    <tr><td>&lt;sup&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;svg&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;table&gt;</td><td>table</td><td>1em 0</td></tr>
+    <tr><td>&lt;tbody&gt;</td><td>table-row-group</td><td>0</td></tr>
+    <tr><td>&lt;td&gt;</td><td>table-cell</td><td>0</td></tr>
+    <tr><td>&lt;template&gt;</td><td>none</td><td>0</td></tr>
+    <tr><td>&lt;textarea&gt;</td><td>inline-block</td><td>0</td></tr>
+    <tr><td>&lt;tfoot&gt;</td><td>table-footer-group</td><td>0</td></tr>
+    <tr><td>&lt;th&gt;</td><td>table-cell</td><td>0</td></tr>
+    <tr><td>&lt;thead&gt;</td><td>table-header-group</td><td>0</td></tr>
+    <tr><td>&lt;time&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;title&gt;</td><td>none</td><td>0</td></tr>
+    <tr><td>&lt;tr&gt;</td><td>table-row</td><td>0</td></tr>
+    <tr><td>&lt;track&gt;</td><td>none</td><td>0</td></tr>
+    <tr><td>&lt;u&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;ul&gt;</td><td>block</td><td>1em 0</td></tr>
+    <tr><td>&lt;var&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;video&gt;</td><td>inline</td><td>0</td></tr>
+    <tr><td>&lt;wbr&gt;</td><td>inline</td><td>0</td></tr>
+  </tbody>
+</table>
+  </body>
+<script src="index.js"></script>
+</html>

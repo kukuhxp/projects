@@ -1,0 +1,125 @@
+/* Nav with Block Style */
+a {
+    text-decoration: none;
+    font-family: Arial;
+}
+a:hover {
+    opacity: 0.8;
+}
+/* Nav with Inline-Block Style */
+.inline-block-nav {
+    padding: 0;
+    margin: auto;
+    width: 960px;
+    background-color: #333;
+    list-style: none;
+}
+.inline-block-nav li {
+    display: inline-block;
+    width: 80px;
+    line-height: 35px;
+    text-align: center;
+
+}
+.inline-block-nav a {
+    display: block;
+    color: #b4b4b4;
+}
+/* Nav with Block Style */
+.block-nav {
+    padding: 0;
+    margin: auto;
+    width: 960px;
+    list-style: none;
+    background-color: #185fa0;
+    overflow: auto;
+}
+.block-nav li {
+    display: block;
+    float: left;
+    margin-right: 3px;
+    width: 80px;
+    line-height: 35px;
+    text-align: center;
+}
+.block-nav a {
+    display: block;
+    color: #95c4f4;
+}
+/* Nav with Inline Table Style */
+.inline-table-nav {
+    padding: 0;
+    margin: auto;
+    width: 960px;
+    list-style: none;
+    background-color: #a07c18;
+}
+.inline-table-nav li {
+    display: inline-table;
+    width: 80px;
+    line-height: 35px;
+    text-align: center;
+}
+.inline-table-nav a {
+    display: table-cell;
+    color: #f4d495;
+}
+.inline-nav {
+    padding: 0;
+    margin: auto;
+    width: 960px;
+    list-style: none;
+    background-color: #20a61e;
+    overflow: auto;
+}
+.inline-nav li {
+    display: inline;
+}
+.inline-nav a {
+    display: block;
+    margin-right: 3px;
+    float: left;
+    width: 80px;
+    line-height: 35px;
+    text-align: center;
+    color: #a5f495;
+}
+.table-cell-nav {
+    display: table;
+    padding: 0;
+    margin: auto;
+    width: 960px;
+    line-height: 35px;
+    list-style: none;
+    background-color: #20a61e;
+    text-align: center;
+}
+.table-cell-nav li {
+    display: table-cell;
+}
+.table-cell-nav a {
+    display: block;
+    color: #a5f495;
+}
+
+.flex-nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 960px;
+    padding: 0;
+    margin: auto;
+
+}
+.flex-nav li {
+    width: 100%;
+    line-height: 35px;
+    list-style: none;
+    text-align: center;
+    
+}
+.flex-nav a {
+    display: block;
+    background: #ed5bce;
+    color: #fbdbf7d4;
+}

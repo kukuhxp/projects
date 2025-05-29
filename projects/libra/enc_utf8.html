@@ -1,0 +1,68 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UTF-8 Encoding Table</title>
+  <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+  <h2>Unicode Transformation Format-8 (UTF-8) Table</h2>
+  <div class="search-box">
+    <input type="text" id="searchInput" onkeyup="filterTable()" placeholder="Searching for a character...">
+  </div>
+  <div class="controls">
+    <button onclick="exportCSV()">Export CSV</button>
+    <input type="file" id="csvInput" accept=".csv" onchange="importCSV(event)">
+  </div>
+  <div class="table-container">
+    <table>
+  <thead>
+    <tr>
+      <th>Character</th>
+      <th>Description</th>
+      <th>Unicode (U+)</th>
+      <th>Decimal</th>
+      <th>Hex</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>A</td><td>Huruf besar A</td><td>U+0041</td><td>65</td><td>0x41</td></tr>
+    <tr><td>a</td><td>Huruf kecil a</td><td>U+0061</td><td>97</td><td>0x61</td></tr>
+    <tr><td>0</td><td>Angka 0</td><td>U+0030</td><td>48</td><td>0x30</td></tr>
+    <tr><td>9</td><td>Angka 9</td><td>U+0039</td><td>57</td><td>0x39</td></tr>
+    <tr><td>.</td><td>Titik</td><td>U+002E</td><td>46</td><td>0x2E</td></tr>
+    <tr><td>,</td><td>Koma</td><td>U+002C</td><td>44</td><td>0x2C</td></tr>
+    <tr><td>:</td><td>Titik dua</td><td>U+003A</td><td>58</td><td>0x3A</td></tr>
+    <tr><td>;</td><td>Titik koma</td><td>U+003B</td><td>59</td><td>0x3B</td></tr>
+    <tr><td>(</td><td>Kurung buka</td><td>U+0028</td><td>40</td><td>0x28</td></tr>
+    <tr><td>)</td><td>Kurung tutup</td><td>U+0029</td><td>41</td><td>0x29</td></tr>
+    <tr><td>[</td><td>Siku buka</td><td>U+005B</td><td>91</td><td>0x5B</td></tr>
+    <tr><td>]</td><td>Siku tutup</td><td>U+005D</td><td>93</td><td>0x5D</td></tr>
+    <tr><td>{</td><td>Kurawal buka</td><td>U+007B</td><td>123</td><td>0x7B</td></tr>
+    <tr><td>}</td><td>Kurawal tutup</td><td>U+007D</td><td>125</td><td>0x7D</td></tr>
+    <tr><td>"</td><td>Petik ganda</td><td>U+0022</td><td>34</td><td>0x22</td></tr>
+    <tr><td>'</td><td>Petik tunggal</td><td>U+0027</td><td>39</td><td>0x27</td></tr>
+    <tr><td>!</td><td>Tanda seru</td><td>U+0021</td><td>33</td><td>0x21</td></tr>
+    <tr><td>?</td><td>Tanda tanya</td><td>U+003F</td><td>63</td><td>0x3F</td></tr>
+    <tr><td>@</td><td>Simbol at</td><td>U+0040</td><td>64</td><td>0x40</td></tr>
+    <tr><td>#</td><td>Pagar</td><td>U+0023</td><td>35</td><td>0x23</td></tr>
+    <tr><td>$</td><td>Dolar</td><td>U+0024</td><td>36</td><td>0x24</td></tr>
+    <tr><td>%</td><td>Persen</td><td>U+0025</td><td>37</td><td>0x25</td></tr>
+    <tr><td>^</td><td>Topi (caret)</td><td>U+005E</td><td>94</td><td>0x5E</td></tr>
+    <tr><td>&</td><td>Dan (&)</td><td>U+0026</td><td>38</td><td>0x26</td></tr>
+    <tr><td>*</td><td>Bintang</td><td>U+002A</td><td>42</td><td>0x2A</td></tr>
+    <tr><td>-</td><td>Minus</td><td>U+002D</td><td>45</td><td>0x2D</td></tr>
+    <tr><td>_</td><td>Garis bawah</td><td>U+005F</td><td>95</td><td>0x5F</td></tr>
+    <tr><td>=</td><td>Sama dengan</td><td>U+003D</td><td>61</td><td>0x3D</td></tr>
+    <tr><td>+</td><td>Plus</td><td>U+002B</td><td>43</td><td>0x2B</td></tr>
+    <tr><td>/</td><td>Garis miring</td><td>U+002F</td><td>47</td><td>0x2F</td></tr>
+    <tr><td>\</td><td>Garis miring balik</td><td>U+005C</td><td>92</td><td>0x5C</td></tr>
+    <tr><td>~</td><td>Tilde</td><td>U+007E</td><td>126</td><td>0x7E</td></tr>
+    <tr><td>`</td><td>Backtick</td><td>U+0060</td><td>96</td><td>0x60</td></tr>
+    <tr><td>&nbsp;</td><td>Spasi</td><td>U+0020</td><td>32</td><td>0x20</td></tr>
+    </tbody>
+    </table>
+  </div>
+</body>
+<script src="index.js"></script>
+</html>

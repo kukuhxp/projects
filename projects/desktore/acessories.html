@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css"  href="css/style.css">
+    <link rel="stylesheet" type="text/css"  href="css/produk.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+    <script src="https://unpkg.com/feather-icons"></script>
+    <title>Sehad Store | Produk Kami</title>
+</head>
+<body>
+    <header>
+        <a class="logo" href="index.html"><b style="color: red; ">SEHAD </b> <b style="color: white;">STORE</b></a>
+        <nav class="nav">
+            <a class="active-nav" href="index.html">Home</a>
+            <a href="kontak.html">Contact</a>
+            <a class="drop-nav">Product <i class="fa fa-caret-down"></i></a>
+            <nav class="active-drop-nav">
+                <a href="rubik.html">Rubik's Cube</a>
+                <a href="acessories.html">Accesories</a>
+            </nav>
+            <a href="about.html">About</a>
+            <a href="tips&trick.html">Tips & Trick </a>
+        </nav>
+        <button class="toggle-btn"><i class="fa fa-bars"></i></button>
+    </header>
+    <!-- Service -->
+    <div class="container">
+            <form action="#" method="post" id="forms">
+                <input type="text" name="keyword" size="200"
+     autofocus placeholder="masukkan pencarian..." autocomplete="off"
+     id="keyword">
+     <h2>OUR PRODUCTS</h2>
+    <!-- <img src="img/loader.gif" alt=""> -->
+    <!-- <button type="submit" name="cari" id="tombol-cari"> Search!</button> -->
+    </form>
+    <ul>
+        <li class="col">
+            <h4>3x3 Gan RS Ultimate</h4>
+            <div class="prd"><img src="img/new_product/gan_rs.jpg" alt=""></div>
+            <h4>3x3 Gan RS Ultimate</h4>
+            <p>Rp<del>550.000,00</del><br>Rp 9.999,99</p>
+            <button onclick="flashsale()"><i class="fa fa-cart-shopping"></i> BUY NOW</button>
+            <div class="clr"></div>
+        </li>
+        <li class="col">
+            <div class="prd"><img src="img/prd/333.jfif" alt=""></div>
+            <h4>3x3 moyu Yan3 White</h4>
+            <p>Rp<del>550.000,00</del><br>Rp 9.999,99</p>
+            <button onclick="flashsale()"><i class="fa fa-cart-shopping"></i> BUY NOW</button>
+            <div class="clr"></div>
+        </li>
+        <li class="col">
+            <div class="prd"><img src="img/prd/444.webp" alt=""></div>
+            <h4>4x4 Qiyi Wuque</h4>
+            <p>Rp<del>550.000,00</del><br>Rp 9.999,99</p>
+            <button onclick="flashsale()"><i class="fa fa-cart-shopping"></i> BUY NOW</button>
+            <div class="clr"></div>
+        </li>
+        <li class="col" id="brng">
+            <div class="prd"><img src="img/prd/ws.jfif" alt=""></div>
+            <h4>5x5 Qiyi Wushuang</h4>
+            <p>Rp<del>550.000,00</del><br>Rp 9.999,99</p>
+            <button onclick="flashsale()"><i class="fa fa-cart-shopping"></i> BUY NOW</button>
+            <div class="clr"></div>
+        </li>
+        <li class="col">
+            <div class="prd"><img src="img/prd/44333.jfif" alt=""></div>
+            <h4>2x2 Yong jun Black Base</h4>
+            <p>Rp<del>550.000,00</del><br>Rp 9.999,99</p>
+            <button onclick="flashsale()"><i class="fa fa-cart-shopping"></i> BUY NOW</button>
+            <div class="clr"></div>
+        </li>
+        <li class="col">
+            <div class="prd"><img src="img/prd/pyrr.png" alt=""></div>
+            <h4> Yongjun Pyraminx Stikerless</h4>
+            <p>Rp<del>550.000,00</del><br>Rp 9.999,99</p>
+            <button onclick="flashsale()"><i class="fa fa-cart-shopping"></i> BUY NOW</button>
+            <div class="clr"></div>
+        </li>
+        <li class="col">
+            <div class="prd"><img src="img/prd/moyum3.jfif" alt=""></div>
+            <h4>3x3 moyu M3 Black</h4>
+            <p>Rp<del>550.000,00</del><br>Rp 9.999,99</p>
+            <button onclick="flashsale()"><i class="fa fa-cart-shopping"></i> BUY NOW</button>
+            <div class="clr"></div>
+        </li>
+        <li class="col">
+            <div class="prd"><img src="img/new_product/tas.jpg" alt=""></div>
+            <h4>Tas Rubik Qiyi</h4>
+            <p>Rp<del>550.000,00</del><br>Rp 9.999,99</p>
+            <button onclick="flashsale()"><i class="fa fa-cart-shopping"></i> BUY NOW</button>
+            <div class="clr"></div>
+        </li>
+        <li class="col">
+            <div class="prd"><img src="img/new_product/moyu_timer.jpg" alt=""></div>
+            <h4>Moyu Timer</h4>
+            <p>Rp<del>550.000,00</del><br>Rp 9.999,99</p>
+            <button onclick="flashsale()"><i class="fa fa-cart-shopping"></i> BUY NOW</button>
+            <div class="clr"></div>
+        </li>
+        <li class="col">
+            <div class="prd"><img src="img/new_product/gan_rs.jpg" alt=""></div>
+            <h4>3x3 Gan RS Ultimate</h4>
+            <p>Rp<del>550.000,00</del><br>Rp 9.999,99</p>
+            <button onclick="flashsale()"><i class="fa fa-cart-shopping"></i> BUY NOW</button>
+            <div class="clr"></div>
+        </li>
+        <li class="col">
+            <div class="prd"><img src="img/new_product/gan_rs.jpg" alt=""></div>
+            <h4>3x3 Gan RS Ultimate</h4>
+            <p>Rp<del>550.000,00</del><br>Rp 9.999,99</p>
+            <button onclick="flashsale()"><i class="fa fa-cart-shopping"></i> BUY NOW</button>
+            <div class="clr"></div>
+        </li>
+        <li class="col">
+            <div class="prd"><img src="img/new_product/gan_rs.jpg" alt=""></div>
+            <h4>3x3 Gan RS Ultimate</h4>
+            <p>Rp<del>550.000,00</del><br>Rp 9.999,99</p>
+            <button onclick="flashsale()"><i class="fa fa-cart-shopping"></i> BUY NOW</button>
+            <div class="clr"></div>
+        </li>
+        <div class="clr"></div>
+    </ul>
+</div>
+    <!-- Footer -->
+    <footer>
+        <a href="#"><i class="fab fa-facebook"></i></a>
+        <a href="https://www.youtube.com/@sehadofficial2233"><i class="fab fa-youtube"></i></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></i></a>
+        <p>Copyright &copy; <span id="date"></span> - Setya Hadi Nugroho all right reserved <a href="mailto:222112358@stis.ac.id" >(222112358@stis.ac.id)</a></p>
+    </footer>
+    <script src="js/script.js"></script>
+    <script src="js/rubik.js"></script>
+    <script>
+        let y = new Date().getFullYear();
+        document.querySelector('#date').innerHTML = y;
+    </script>
+</body>
+</html>

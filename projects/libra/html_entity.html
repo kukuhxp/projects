@@ -1,0 +1,64 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HTML Entities Table</title>
+  <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+  <h2>HTML Entities Table</h2>
+  <div class="search-box">
+    <input type="text" id="searchInput" onkeyup="filterTable()" placeholder="Searching for a character...">
+  </div>
+  <div class="controls">
+    <button onclick="exportCSV()">Export CSV</button>
+    <input type="file" id="csvInput" accept=".csv" onchange="importCSV(event)">
+  </div>
+  <div class="table-container">
+    <table>
+      <thead>
+        <tr>
+          <th>Character</th>
+          <th>Code</th>
+          <th>Code Number</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>&nbsp;</td><td><code>&amp;nbsp;</code></td><td><code>&#160;</code></td><td>Spasi tanpa putus</td></tr>
+        <tr><td>&lt;</td><td><code>&amp;lt;</code></td><td><code>&#60;</code></td><td>Tanda kurang dari</td></tr>
+        <tr><td>&gt;</td><td><code>&amp;gt;</code></td><td><code>&#62;</code></td><td>Tanda lebih dari</td></tr>
+        <tr><td>&amp;</td><td><code>&amp;amp;</code></td><td><code>&#38;</code></td><td>Ampersand</td></tr>
+        <tr><td>&quot;</td><td><code>&amp;quot;</code></td><td><code>&#34;</code></td><td>Kutip ganda</td></tr>
+        <tr><td>&apos;</td><td><code>&amp;apos;</code></td><td><code>&#39;</code></td><td>Kutip tunggal</td></tr>
+        <tr><td>&cent;</td><td><code>&amp;cent;</code></td><td><code>&#162;</code></td><td>Simbol cent</td></tr>
+        <tr><td>&pound;</td><td><code>&amp;pound;</code></td><td><code>&#163;</code></td><td>Simbol pound</td></tr>
+        <tr><td>&yen;</td><td><code>&amp;yen;</code></td><td><code>&#165;</code></td><td>Simbol yen</td></tr>
+        <tr><td>&euro;</td><td><code>&amp;euro;</code></td><td><code>&#8364;</code></td><td>Simbol euro</td></tr>
+        <tr><td>&copy;</td><td><code>&amp;copy;</code></td><td><code>&#169;</code></td><td>Hak cipta</td></tr>
+        <tr><td>&reg;</td><td><code>&amp;reg;</code></td><td><code>&#174;</code></td><td>Merek dagang terdaftar</td></tr>
+        <tr><td>&trade;</td><td><code>&amp;trade;</code></td><td><code>&#8482;</code></td><td>Simbol merek dagang</td></tr>
+        <tr><td>&times;</td><td><code>&amp;times;</code></td><td><code>&#215;</code></td><td>Perkalian</td></tr>
+        <tr><td>&divide;</td><td><code>&amp;divide;</code></td><td><code>&#247;</code></td><td>Pembagian</td></tr>
+        <tr><td>&plusmn;</td><td><code>&amp;plusmn;</code></td><td><code>&#177;</code></td><td>Plus-minus</td></tr>
+        <tr><td>&sect;</td><td><code>&amp;sect;</code></td><td><code>&#167;</code></td><td>Seksi</td></tr>
+        <tr><td>&para;</td><td><code>&amp;para;</code></td><td><code>&#182;</code></td><td>Paragraf</td></tr>
+        <tr><td>&middot;</td><td><code>&amp;middot;</code></td><td><code>&#183;</code></td><td>Titik tengah</td></tr>
+        <tr><td>&laquo;</td><td><code>&amp;laquo;</code></td><td><code>&#171;</code></td><td>Kutip ganda kiri</td></tr>
+        <tr><td>&raquo;</td><td><code>&amp;raquo;</code></td><td><code>&#187;</code></td><td>Kutip ganda kanan</td></tr>
+        <tr><td>&hellip;</td><td><code>&amp;hellip;</code></td><td><code>&#8230;</code></td><td>Elipsis</td></tr>
+        <tr><td>&mdash;</td><td><code>&amp;mdash;</code></td><td><code>&#8212;</code></td><td>Garis panjang</td></tr>
+        <tr><td>&ndash;</td><td><code>&amp;ndash;</code></td><td><code>&#8211;</code></td><td>Garis pendek</td></tr>
+        <tr><td>&ldquo;</td><td><code>&amp;ldquo;</code></td><td><code>&#8220;</code></td><td>Kutip ganda kiri</td></tr>
+        <tr><td>&rdquo;</td><td><code>&amp;rdquo;</code></td><td><code>&#8221;</code></td><td>Kutip ganda kanan</td></tr>
+        <tr><td>&bull;</td><td><code>&amp;bull;</code></td><td><code>&#8226;</code></td><td>Titik untuk daftar</td></tr>
+        <tr><td>&spades;</td><td><code>&amp;spades;</code></td><td><code>&#9824;</code></td><td>Simbol sekop</td></tr>
+        <tr><td>&hearts;</td><td><code>&amp;hearts;</code></td><td><code>&#9829;</code></td><td>Simbol hati</td></tr>
+        <tr><td>&clubs;</td><td><code>&amp;clubs;</code></td><td><code>&#9827;</code></td><td>Simbol klub</td></tr>
+        <tr><td>&diams;</td><td><code>&amp;diams;</code></td><td><code>&#9830;</code></td><td>Simbol wajik</td></tr>
+      </tbody>
+    </table>
+  </div>
+</body>
+<script src="index.js"></script>
+</html>

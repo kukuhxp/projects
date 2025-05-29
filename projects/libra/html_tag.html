@@ -1,0 +1,209 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HTML Tag Table</title>
+  <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+  <h2>HTML Tag Table</h2>
+  <div class="search-box">
+    <input type="text" id="searchInput" list="suggestions" placeholder="Searching for a HTML Tag...">
+    <span id="clearBtn" onclick="clearSearch()">x</span>
+    <datalist id="suggestions"></datalist>
+    <ul id="customSuggestions"></ul>
+  </div>
+  <div class="controls">
+    <button onclick="exportCSV()">Export CSV</button>
+    <input type="file" id="csvInput" accept=".csv" onchange="importCSV(event)">
+  </div>
+  <div class="table-container">
+    <table>
+      <thead>
+        <tr>
+          <th>Category</th>
+          <th>Tag</th>
+          <th>Descriotion</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Root</td>
+          <td><code>&lt;html&gt;</code></td>
+          <td>Elemen akar dari dokumen HTML</td>
+        </tr>
+        <tr>
+          <td rowspan="5">Metadata</td>
+          <td><code>&lt;head&gt;</code></td>
+          <td>Kontainer untuk metadata dokumen</td>
+        </tr>
+        <tr>
+          <td><code>&lt;title&gt;</code></td>
+          <td>Judul dokumen yang ditampilkan di tab browser</td>
+        </tr>
+        <tr>
+          <td><code>&lt;base&gt;</code></td>
+          <td>Menentukan URL dasar untuk semua URL relatif dalam dokumen</td>
+        </tr>
+        <tr>
+          <td><code>&lt;link&gt;</code></td>
+          <td>Menentukan hubungan antara dokumen saat ini dan sumber daya eksternal</td>
+        </tr>
+        <tr>
+          <td><code>&lt;meta&gt;</code></td>
+          <td>Menyediakan metadata seperti deskripsi, kata kunci, dan penulis dokumen</td>
+        </tr>
+        <tr>
+          <td rowspan="6">Struktur</td>
+          <td><code>&lt;body&gt;</code></td>
+          <td>Menentukan isi utama dokumen HTML</td>
+        </tr>
+        <tr>
+          <td><code>&lt;header&gt;</code></td>
+          <td>Menentukan bagian header untuk dokumen atau bagian</td>
+        </tr>
+        <tr>
+          <td><code>&lt;nav&gt;</code></td>
+          <td>Menentukan navigasi utama dalam dokumen</td>
+        </tr>
+        <tr>
+          <td><code>&lt;section&gt;</code></td>
+          <td>Menentukan bagian dalam dokumen</td>
+        </tr>
+        <tr>
+          <td><code>&lt;article&gt;</code></td>
+          <td>Menentukan konten independen seperti artikel</td>
+        </tr>
+        <tr>
+          <td><code>&lt;footer&gt;</code></td>
+          <td>Menentukan bagian footer untuk dokumen atau bagian</td>
+        </tr>
+        <tr>
+          <td rowspan="5">Konten Teks</td>
+          <td><code>&lt;h1&gt;</code> - <code>&lt;h6&gt;</code></td>
+          <td>Menentukan heading tingkat 1 hingga 6</td>
+        </tr>
+        <tr>
+          <td><code>&lt;p&gt;</code></td>
+          <td>Menentukan paragraf teks</td>
+        </tr>
+        <tr>
+          <td><code>&lt;blockquote&gt;</code></td>
+          <td>Menentukan kutipan blok dari sumber lain</td>
+        </tr>
+        <tr>
+          <td><code>&lt;ol&gt;</code></td>
+          <td>Menentukan daftar bernomor (ordered list)</td>
+        </tr>
+        <tr>
+          <td><code>&lt;ul&gt;</code></td>
+          <td>Menentukan daftar berpoin (unordered list)</td>
+        </tr>
+
+        <!-- Inline Text Semantics -->
+        <tr>
+          <td rowspan="5">Semantik Teks Inline</td>
+          <td><code>&lt;a&gt;</code></td>
+          <td>Menentukan hyperlink</td>
+        </tr>
+        <tr>
+          <td><code>&lt;strong&gt;</code></td>
+          <td>Menentukan teks dengan penekanan kuat (biasanya tebal)</td>
+        </tr>
+        <tr>
+          <td><code>&lt;em&gt;</code></td>
+          <td>Menentukan teks dengan penekanan (biasanya miring)</td>
+        </tr>
+        <tr>
+          <td><code>&lt;mark&gt;</code></td>
+          <td>Menyoroti teks</td>
+        </tr>
+        <tr>
+          <td><code>&lt;span&gt;</code></td>
+          <td>Kontainer umum untuk mengelompokkan teks untuk tujuan styling</td>
+        </tr>
+        <tr>
+          <td rowspan="3">Gambar dan Multimedia</td>
+          <td><code>&lt;img&gt;</code></td>
+          <td>Menyisipkan gambar</td>
+        </tr>
+        <tr>
+          <td><code>&lt;audio&gt;</code></td>
+          <td>Menyisipkan konten audio</td>
+        </tr>
+        <tr>
+          <td><code>&lt;video&gt;</code></td>
+          <td>Menyisipkan konten video</td>
+        </tr>
+        <tr>
+          <td rowspan="5">Formulir</td>
+          <td><code>&lt;form&gt;</code></td>
+          <td>Menentukan formulir untuk input pengguna</td>
+        </tr>
+        <tr>
+          <td><code>&lt;input&gt;</code></td>
+          <td>Menentukan kontrol input (teks, radio, checkbox, dll)</td>
+        </tr>
+        <tr>
+          <td><code>&lt;textarea&gt;</code></td>
+          <td>Area input teks multiline</td>
+        </tr>
+        <tr>
+          <td><code>&lt;button&gt;</code></td>
+          <td>Tombol untuk submit atau aksi lainnya</td>
+        </tr>
+        <tr>
+          <td><code>&lt;select&gt;</code> & <code>&lt;option&gt;</code></td>
+          <td>Dropdown pilihan dan item pilihannya</td>
+        </tr>
+        <tr>
+          <td rowspan="5">Tabel</td>
+          <td><code>&lt;table&gt;</code></td>
+          <td>Membuat tabel</td>
+        </tr>
+        <tr>
+          <td><code>&lt;tr&gt;</code></td>
+          <td>Baris dalam tabel</td>
+        </tr>
+        <tr>
+          <td><code>&lt;td&gt;</code></td>
+          <td>Sel data dalam tabel</td>
+        </tr>
+        <tr>
+          <td><code>&lt;th&gt;</code></td>
+          <td>Sel header dalam tabel</td>
+        </tr>
+        <tr>
+          <td><code>&lt;thead&gt;</code>, <code>&lt;tbody&gt;</code>, <code>&lt;tfoot&gt;</code></td>
+          <td>Bagian kepala, isi, dan kaki tabel</td>
+        </tr>
+        <tr>
+          <td rowspan="2">Skrip</td>
+          <td><code>&lt;script&gt;</code></td>
+          <td>Menyisipkan atau merujuk ke JavaScript</td>
+        </tr>
+        <tr>
+          <td><code>&lt;noscript&gt;</code></td>
+          <td>Konten alternatif saat JavaScript tidak didukung</td>
+        </tr>
+        <tr>
+          <td rowspan="4">Lainnya</td>
+          <td><code>&lt;iframe&gt;</code></td>
+          <td>Menyisipkan dokumen HTML lain</td>
+        </tr>
+        <tr>
+          <td><code>&lt;canvas&gt;</code></td>
+          <td>Area gambar dinamis melalui JavaScript</td>
+        </tr>
+        <tr>
+          <td><code>&lt;details&gt;</code> & <code>&lt;summary&gt;</code></td>
+          <td>Elemen interaktif untuk membuka/tutup konten</td>
+        </tr>
+        <tr>
+          <td><code>&lt;template&gt;</code></td>
+          <td>Menentukan fragment HTML untuk digunakan nanti (JavaScript)</td>
+        </tr>
+  </div>
+</body>
+<script src="index.js"></script>
+</html>

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Evaluation</title>
+    <link rel="stylesheet" href="css/registrasi.css">
+    <style>
+        .form-group{
+            margin: 10px 0;
+        }
+        button{
+            margin-top: 50px
+        }
+        #rubik1 input{
+            margin: 10px;
+        }
+        #rubik2 label{
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <h1 style="text-align: center;">Saran & Masukan</h1>
+
+        <form action="#" method="post">
+            <div class="form-group">
+                <label for="nama">Masukkan Nama Lengkap</label>
+                <input type="text" name="name" id="nama">
+            </div>
+
+            <div class="form-group">
+                <label for="email"> Masukkan Email</label>
+                <input type="email" name="email" id="email">
+            </div>
+            <div class="form-group">
+             <label for="pesan">  Masukkan Saran & Masukan</label>
+             <textarea name="pesan" id="pesan" cols="30" rows="5"></textarea>
+            </div>
+
+            <div class="form-group">
+                <label for="bayar">Alasan anda memilih Sehad Store </label>
+                <select name="bayar" id="bayar">
+                    <option value="b1">Harganya murah dan terjangkau </option>
+                    <option value="b2"> Kualitasnya paling top </option>
+                    <option value="b3">Mencari Promo </option>
+                    <option value="b4"> Barangnya lengkap dan terjamin </option>
+                </select>
+            </div>
+            
+            <div class="form-group" id="rubik1">
+                <label>Rubik yang pernah anda mainkan selama ini</label> <br>
+                <input type="checkbox" name="checkbox" id="2x2"> 
+                <label for="2x2"> 2x2</label> 
+                <input type="checkbox" name="checkbox" id="3x3">
+                <label for="3x3"> 3x3</label>
+                <input type="checkbox" name="checkbox" id="4x4"> 
+                <label for="4x4"> 4x4 </label> 
+                <input type="checkbox" name="checkbox" id="5x5"> 
+                <label for="5x5"> 5x5 </label> 
+                <input type="checkbox" name="checkbox" id="6x6"> 
+                <label for="6x6"> 6x6 </label> 
+                <input type="checkbox" name="checkbox" id="7x7"> 
+                <label for="7x7"> 7x7 </label> 
+                <br>
+                
+                <div class="form-group" id="rubik2">
+                    <label>Tingkat kepuasan anda terhadap Sehad Store</label> <br>
+                    <input type="radio" name="radio" id="tidak"> 
+                    <label for="tidak"> tidak cukup </label> 
+                    <input type="radio" name="radio" id="cukup">
+                    <label for="cukup"> Cukup</label>
+                    <input type="radio" name="radio" id="puas"> 
+                    <label for="puas"> Sangat Puas </label>  
+                    <br>
+                </div>
+            </div>
+        
+            <div class="form-group">
+                <button type="submit" class="submit">Submit</button>
+            </div>
+        </form>
+    </div>
+</body>
+
+</html>

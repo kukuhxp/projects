@@ -1,0 +1,84 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JS Escape Characters Table</title>
+  <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+  <h2>JavaScript Escape Characters Table</h2>
+  <div class="search-box">
+    <input type="text" id="searchInput" onkeyup="filterTable()" placeholder="Searching for a Character...">
+  </div>
+  <div class="controls">
+    <button onclick="exportCSV()">Export CSV</button>
+    <input type="file" id="csvInput" accept=".csv" onchange="importCSV(event)">
+  </div>
+  <div class="table-container">
+  <table>
+    <thead>
+      <tr>
+        <th>Escape Sequence</th>
+        <th>Character</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>\'</td><td>'</td><td>Tanda kutip tunggal</td></tr>
+      <tr><td>\"</td><td>"</td><td>Tanda kutip ganda</td></tr>
+      <tr><td>\\</td><td>\</td><td>Backslash</td></tr>
+      <tr><td>\n</td><td>Line feed</td><td>Baris baru</td></tr>
+      <tr><td>\r</td><td>Carriage return</td><td>Kembali ke awal baris</td></tr>
+      <tr><td>\t</td><td>Tab</td><td>Tabulasi horizontal</td></tr>
+      <tr><td>\b</td><td>Backspace</td><td>Menghapus karakter sebelumnya</td></tr>
+      <tr><td>\f</td><td>Form feed</td><td>Pengganti halaman (jarang dipakai)</td></tr>
+      <tr><td>\v</td><td>Vertical tab</td><td>Tabulasi vertikal (jarang dipakai)</td></tr>
+      <tr><td>\0</td><td>NULL</td><td>Karakter null (bukan angka nol)</td></tr>
+      <tr><td>\ + newline</td><td>(lanjut baris)</td><td>Memecah string ke baris berikutnya tanpa spasi tambahan</td></tr>
+    </tbody>
+    </table>
+      <details>
+    <summary>\xXX (ASCII Characters)</summary>
+    <ul>
+      <li><code>\x41</code> = A</li>
+      <li><code>\x42</code> = B</li>
+      <li><code>\x43</code> = C</li>
+      <li><code>\x30</code> = 0</li>
+      <li><code>\x31</code> = 1</li>
+      <li><code>\x7A</code> = z</li>
+      <li><code>\x20</code> = (spasi)</li>
+      <li><code>\x2E</code> = .</li>
+      <li><code>\x3F</code> = ?</li>
+      <li>... dan lainnya dari <code>\x00</code> sampai <code>\x7F</code></li>
+    </ul>
+  </details>
+  <details>
+    <summary>\uXXXX (Unicode Characters)</summary>
+    <ul>
+      <li><code>\u00A9</code> = ©</li>
+      <li><code>\u00AE</code> = ®</li>
+      <li><code>\u2122</code> = ™</li>
+      <li><code>\u20AC</code> = €</li>
+      <li><code>\u03A9</code> = Ω</li>
+      <li><code>\u2022</code> = •</li>
+      <li><code>\u2665</code> = ♥</li>
+      <li><code>\u2192</code> = →</li>
+      <li><code>\u25B6</code> = ▶</li>
+      <li>... dan banyak lagi sampai <code>\uFFFF</code></li>
+    </ul>
+  </details>
+    <details>
+    <summary>\u{XXXXXX} (Unicode ES6+)</summary>
+    <ul>
+      <li><code>\u{1F600}</code> = 😀</li>
+      <li><code>\u{1F680}</code> = 🚀</li>
+      <li><code>\u{1F4A1}</code> = 💡</li>
+      <li><code>\u{1F525}</code> = 🔥</li>
+      <li><code>\u{1F512}</code> = 🔒</li>
+      <li>... untuk karakter Unicode dengan lebih dari 4 digit</li>
+    </ul>
+    </details>
+    </div>
+</body>
+<script src="index.js"></script>
+</html>

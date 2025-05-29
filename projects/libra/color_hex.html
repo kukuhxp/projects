@@ -1,0 +1,153 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CSS Selector Table</title>
+  <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+  <h2>Cascading Style Sheet Selector Table</h2>
+  <div class="search-box">
+    <input type="text" id="searchInput" onkeyup="filterTable()" placeholder="Cari entitas...">
+  </div>
+  <div class="controls">
+    <button onclick="exportCSV()">Export CSV</button>
+    <input type="file" id="csvInput" accept=".csv" onchange="importCSV(event)">
+  </div>
+  <div class="table-container">
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Nama Warna</th>
+      <th>Kode HEX</th>
+      <th>Preview</th>
+      <th>Deskripsi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Soft Peach</td>
+      <td><span class="copyCode">#FFD6D6</span></td>
+      <td style="background-color:#FFD6D6;"></td>
+      <td>Peach lembut, manis dan cerah</td>
+    </tr>
+    <tr>
+      <td>Baby Blue</td>
+      <td><span class="copyCode">#AEE2FF</span></td>
+      <td style="background-color:#AEE2FF;"></td>
+      <td>Biru muda yang tenang</td>
+    </tr>
+    <tr>
+      <td>Lavender Blush</td>
+      <td><span class="copyCode">#EED7F5</span></td>
+      <td style="background-color:#EED7F5;"></td>
+      <td>Ungu pastel lembut</td>
+    </tr>
+    <tr>
+      <td>Sage Green</td>
+      <td><span class="copyCode">#B2C8BA</span></td>
+      <td style="background-color:#B2C8BA;"></td>
+      <td>Hijau earthy yang soft</td>
+    </tr>
+    <tr>
+      <td>Dusty Rose</td>
+      <td><span class="copyCode">#D8A7B1</span></td>
+      <td style="background-color:#D8A7B1;"></td>
+      <td>Pink tua elegan dan romantis</td>
+    </tr>
+    <tr>
+      <td>Warm Beige</td>
+      <td><span class="copyCode">#F5E8C7</span></td>
+      <td style="background-color:#F5E8C7;"></td>
+      <td>Beige hangat natural</td>
+    </tr>
+    <tr>
+      <td>Sky Mist</td>
+      <td><span class="copyCode">#DFF6FF</span></td>
+      <td style="background-color:#DFF6FF;"></td>
+      <td>Biru pucat segar</td>
+    </tr>
+    <tr>
+      <td>Mauve</td>
+      <td><span class="copyCode">#CDB4DB</span></td>
+      <td style="background-color:#CDB4DB;"></td>
+      <td>Ungu muda stylish</td>
+    </tr>
+    <tr>
+      <td>Buttercream</td>
+      <td><span class="copyCode">#FFF2CC</span></td>
+      <td style="background-color:#FFF2CC;"></td>
+      <td>Kuning pucat seperti krim manis</td>
+    </tr>
+    <tr>
+      <td>Ocean Gray</td>
+      <td><span class="copyCode">#A1B5D8</span></td>
+      <td style="background-color:#A1B5D8;"></td>
+      <td>Biru keabu-abuan yang kalem</td>
+    </tr>
+    <tr>
+      <td>Midnight Navy</td>
+      <td><span class="copyCode">#2C3E50</span></td>
+      <td style="background-color:#2C3E50;"></td>
+      <td>Biru gelap elegan, cocok untuk dark mode</td>
+    </tr>
+    <tr>
+      <td>Charcoal</td>
+      <td><span class="copyCode">#36454F</span></td>
+      <td style="background-color:#36454F;"></td>
+      <td>Abu gelap netral dan modern</td>
+    </tr>
+    <tr>
+      <td>Dusty Lavender</td>
+      <td><span class="copyCode">#AC9FBB</span></td>
+      <td style="background-color:#AC9FBB;"></td>
+      <td>Ungu vintage yang hangat</td>
+    </tr>
+    <tr>
+      <td>Terracotta</td>
+      <td><span class="copyCode">#D98E73</span></td>
+      <td style="background-color:#D98E73;"></td>
+      <td>Oranye bata klasik dan hangat</td>
+    </tr>
+    <tr>
+      <td>Olive Drab</td>
+      <td><span class="copyCode">#A3B18A</span></td>
+      <td style="background-color:#A3B18A;"></td>
+      <td>Hijau zaitun dengan nuansa alami</td>
+    </tr>
+    <tr>
+      <td>Cocoa Brown</td>
+      <td><span class="copyCode">#A9746E</span></td>
+      <td style="background-color:#A9746E;"></td>
+      <td>Cokelat tua hangat dan lembut</td>
+    </tr>
+    <tr>
+      <td>Moonlight Blue</td>
+      <td><span class="copyCode">#3B4D61</span></td>
+      <td style="background-color:#3B4D61;"></td>
+      <td>Biru keabu-abuan gelap, cocok untuk malam</td>
+    </tr>
+    <tr>
+      <td>Pale Mint</td>
+      <td><span class="copyCode">#D0F0C0</span></td>
+      <td style="background-color:#D0F0C0;"></td>
+      <td>Hijau muda segar dan alami</td>
+    </tr>
+    <tr>
+      <td>Blush Pink</td>
+      <td><span class="copyCode">#FADADD</span></td>
+      <td style="background-color:#FADADD;"></td>
+      <td>Pink muda yang feminin dan manis</td>
+    </tr>
+    <tr>
+      <td>Cream White</td>
+      <td><span class="copyCode">#FFFDE1</span></td>
+      <td style="background-color:#FFFDE1;"></td>
+      <td>Putih kekuningan lembut dan netral</td>
+    </tr>
+  </tbody>
+</table>
+  </div>
+</body>
+<script src="index.js"></script>
+</html>

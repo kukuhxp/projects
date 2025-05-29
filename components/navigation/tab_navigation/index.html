@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+    <title>Tab Navigation</title>
+    <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+  
+    <div class="tabs">
+        <button class="tab-link active" onclick="openTab(event, 'tab1')">Tab 1</button>
+        <button class="tab-link" onclick="openTab(event, 'tab2')">Tab 2</button>
+        <button class="tab-link" onclick="openTab(event, 'tab3')">Tab 3</button>
+    </div>
+  
+    <div id="tab1" class="tab-content active">Konten Tab 1</div>
+    <div id="tab2" class="tab-content">Konten Tab 2</div>
+    <div id="tab3" class="tab-content">Konten Tab 3</div>
+  
+</body>
+<script src="index.js"></script>
+</html>
