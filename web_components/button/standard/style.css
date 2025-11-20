@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  background: #f3f4f6;
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+.btn {
+  width: 109px;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 25px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: opacity 0.3s;
+  margin: 10px 0;
+  display: inline-block;
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
+
+.btn-primary { background: linear-gradient(to right, #3b82f6, #9333ea); }
+.btn-success { background: linear-gradient(to right, #34d399, #059669); }
+.btn-danger { background: linear-gradient(to right, #ef4444, #ec4899); }
+
+.btn-warning {
+  background: linear-gradient(to right, #facc15, #f97316);
+  color: black;
+}
+
+.btn-info { background: linear-gradient(to right, #22d3ee, #3b82f6); }
+.btn-dark { background: linear-gradient(to right, #374151, #111827); }

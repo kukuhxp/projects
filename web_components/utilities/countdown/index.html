@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Countdown</title>
+  <style>
+  #time {
+    padding: 20px;
+    font-size: 10vw;
+    font-weight: 600;
+    font-style: italic;
+    color: #ff0000;
+    animation: animate 1.5s linear infinite
+  }
+  </style>
+</head>
+<body>
+  <p id="time"></p>
+</body>
+<script>
+// Flashsale deadline
+var txt = document.getElementById('time');
+var countTime = setInterval(function() {
+    var now = new Date();
+    var deadLine = new Date('2027-06-06T12:00:00');
+    var different = deadLine - now;
+    if (different <= 0) {
+        clearInterval(countTime);
+        txt.innerHTML = 'Flash sale telah Berakhir';
+    } else {
+        var day = Math.floor(different/ (1000 * 60 *60 *24));
+        var hour = Math.floor(different % (1000 * 60 *60 *24)/(1000*60*60));
+        var minute = Math.floor(different % (1000 * 60 *60 )/(1000*60));
+        var second = Math.floor(different % (1000 * 60 )/(1000));
+        txt.innerHTML = '<i class="fa fa-bolt"></i> Flash sale berakhir pada: '+ day + ' day '+ hour + ':'+ minute + ':'+ second;
+    }
+}, 1000);
+</script>
+</html>

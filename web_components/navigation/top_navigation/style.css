@@ -1,0 +1,96 @@
+ul {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    background-color: #555555;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+ul li {
+    list-style: none;
+    width: 24%;
+    line-height: 35px;
+}
+
+ul li a {
+    text-align: center;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    color: #c8c8c8;
+}
+
+a:hover {
+    opacity: 0.8;
+}
+
+/* Inline-block Style */
+.inline-block-nav li {
+    display: inline-block;
+}
+
+.inline-block-nav a {
+    display: block;
+}
+
+/* Block Style */
+.block-nav li {
+    display: block;
+    float: left;
+    margin-right: 3px;
+    text-align: center;
+}
+
+.block-nav li a {
+    display: block;
+}
+
+/* Inline-table Style */
+.inline-table-nav li {
+    display: inline-table;
+}
+
+.inline-table-nav li a {
+    display: table-cell;
+}
+
+/* Inline Style */
+.inline-nav li {
+    display: inline;
+}
+
+.inline-nav a {
+    display: block;
+    margin-right: 3px;
+    float: left;
+    width: 24%;
+    line-height: 35px;
+}
+
+/* Table-cell Style */
+.table-cell-nav {
+    display: table;
+}
+
+.table-cell-nav li {
+    display: table-cell;
+}
+
+.table-cell-nav a {
+    display: block;
+}
+
+/* Fkexbox Style */
+.flex-nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.flex-nav li {
+    width: 100%;
+}
+
+.flex-nav a {
+    display: block;
+}
