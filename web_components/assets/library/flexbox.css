@@ -1,0 +1,118 @@
+div {
+    margin: 0 10px 10px 0;
+    background: #b1adad;
+}
+
+div div {
+    margin: 10px;
+    width: 50px;
+    line-height: 50px;
+    background: #d5d2d2;
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    display: flex;
+    flex-direction: column;
+    float: left;
+    width:fit-content;
+    height: 210px;
+}
+
+.flex-col-reverse {
+    display: flex;
+    flex-direction: column-reverse;
+    float: left;
+    width: fit-content;
+    height: 210px;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    width: auto;
+}
+
+.flex-row div, .flex-row-reverse div{
+    width: 80px;
+    line-height: 80px;
+}
+
+.flex-row-reverse {
+    display: flex;
+    flex-direction: row-reverse;
+    width: auto;
+}
+
+.flex-wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flex-wrap-reverse {
+    display: flex;
+    flex-wrap: wrap-reverse;
+}
+
+.flex-flow {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+/* Set to height of layout */
+.layout-flex ~ div {
+    height: 100px;
+}
+
+/* Horizontal Layout */
+.flexbox-hl-start {
+    display: flex;
+    justify-content: start;
+}
+
+.flexbox-hl-end {
+    display: flex;
+    justify-content: end;
+}
+
+.flexbox-hl-space-around {
+    display: flex;
+    justify-content: space-around;
+}
+
+.flexbox-hl-space-between {
+    display: flex;
+    justify-content: space-between;
+}
+
+.flexbox-hl-center {
+    display: flex;
+    justify-content: center;
+}
+
+/* Vertical Layout */
+.flexbox-vl-start {
+    display: flex;
+    align-items: start;
+}
+
+.flexbox-vl-end {
+    display: flex;
+    align-items: end;
+}
+
+.flexbox-vl-center {
+    display: flex;
+    align-items: center;
+}
+
+.flexbox-vl-stretch {
+    display: flex;
+    align-items: stretch;
+}

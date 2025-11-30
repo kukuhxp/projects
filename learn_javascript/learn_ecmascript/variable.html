@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+    <title>Variable</title>
+    <link href="../lins/style.css" rel="stylesheet"/>
+</head>
+<body></body>
+<script src="../libs/script.js"></script>
+<script>
+print("h1", "VARIABLE");
+print("h2", "Boxing & Unboxing");
+print("p", 'str = "Some text"');
+let str = "Some text";
+print("pre", `
+// Boxing The Variable
+str.valueOf(): ${str.valueOf()}
+`);
+print("pre", `
+// Boxing The Value
+txt = new String("Some text"):
+`);
+let txt = new String("Some text");
+print("pre", `
+// Unboxing The Value
+txt.valueOf(): ${txt.valueOf()}
+`);
+
+print("h2", "Implicit Casting");
+print("p", `true + true = ${true + true}`);
+print("p", `false - null = ${false - null}`);
+print("p", `"5" * 2 = ${"5" * 2}`);
+print("p", `100 / false = ${100 / false}`);
+
+print("h2", "Explicit Casting");
+print("p", `Number("77") + Number("23") = ${Number("77") + Number("23")}`);
+print("p", `"88" + (13).toString() = ${"88" + (13).toString()}`);
+print("p", `Number(true) = ${Number(true)}`);
+print("p", `Number(null) = ${Number(null)}`);
+print("p", 'fruits = ["Grape", "Banana", "Orange", "Melon"]');
+const fruits = ["Grape", "Banana", "Orange", "Melon"];
+print("p", `fruits.toString(): ${fruits.toString()}`);
+
+print("h2", "Null Vs Undefinied");
+print("p", "a = null");
+print("p", "b = undefinied");
+const a = null;
+const b = undefined;
+print("p", `a == b: ${Boolean(a == b)}`);;
+print("p", `a === b: ${Boolean(a === b)}`);
+
+print("h2", "Falsy Value Comparison");
+print("p", `a == 0: ${Boolean(a == 0)}`);
+print("p", `a == "": ${Boolean(a == "")}`);
+print("p", `b == 0: ${Boolean(b == 0)}`);
+print("p", `b == "": ${Boolean(b == "")}`);
+</script>
+</html>

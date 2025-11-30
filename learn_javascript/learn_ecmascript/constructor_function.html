@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+    <title>Constructor Function</title>
+    <link href="../libs/style.css" rel="stylesheet"/>
+</head>
+<body></body>
+<script src="../libs/script.js"></script>
+<script>
+print("h1", "CONSTRUCTOR FUNCTION");
+print("h2", "Declaration");
+print("pre", `
+function Name(naem, age) {
+  this.name = name;
+  this.age = age;
+  this.speak = function() {
+    const greeting = "Hi, nice to meet you";
+    return greeting;
+  }
+}`);
+function Person(name, age) {
+  this.name = name;
+  this.age = age;
+  this.speak = function() {
+    const greeting = "Hi, nice to meet you";
+    return greeting;
+  }
+}
+
+print("h2", "Instance Object");
+print("p", 'person = new Person("Kukuh", 28)');
+const person = new Person("Kukuh", 28);
+
+print("h2", "Using The Property & Method");
+for (let key in person) {
+  if (typeof person[key] === "function") {
+    print("p", `${key}(): ${person[key]()}`);
+  } else {
+    print("p", `${key}: ${person[key]}`);
+  }
+}
+
+print("h2", "Default Property");
+print("pre", `
+function Name(race) {
+  this.nationality = "United State";
+  this.race = race;
+}
+
+people = new People("Asia");
+`);
+
+function People(race) {
+    this.nationality = "United State";
+    this.race = race;
+  }
+let people = new People("Asia");
+for(let i in people) {
+    print("p", `people.${i}: ${people[i]}`);
+}
+
+print("h2", "Adding a Property & Method to The Constructor");
+print("p", `People.prototype.skin = ${People.prototype.skin = "white"}`);
+print("p", `people.skin: ${people.skin}`);
+print("pre", `
+People.prototype.greeting = function() {
+  const text = "Welcome to America";
+  return text;
+}
+`);
+People.prototype.greeting = function() {
+    const text = "Welcome to America";
+    return text;
+}
+print("p", `people.greeting(): ${people.greeting()}`);
+</script>
+</html>

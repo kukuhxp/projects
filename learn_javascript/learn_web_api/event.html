@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Event Target</title>
+    <link href="../libs/style.css" rel="stylesheet" />
+    <style>
+      pre {margin-left: -20px;}
+      #container {
+          display: flex;
+          justify-content: center;
+          gap: 20px;
+          padding: 20px;
+          background-color: #d8d8d8;
+      }
+    </style>
+</head>
+	<body></body>
+<script src="../libs/script.js"></script>
+<body>
+    <script>
+    print("h1", "EVENT OBJECT");
+    print("h2", "Instance Methods");
+    print("b", "Example:");
+    print("pre", `
+    let bool = false;
+    element = document.getElementById("6");
+    element.addEventListener("click", function(event) {
+        if(!bool) {
+            print("p", \`Event: \${event}\`);
+            print("p", \`Event Type: \${event.type}\`);
+            print("p", \`Event Target: \${event.target}\`);
+            bool = true;
+        }
+    });
+    `);
+    print("button", "Show The Object", {id: "button"})
+    br(2);
+    print("b", "Output:");
+    let bool = false;
+    element = document.getElementById("button");
+    element.addEventListener("click", function(event) {
+        if(!bool) {
+            print("p", `Event: ${event}`);
+            print("p", `Event Type: ${event.type}`);
+            print("p", `Event Target: ${event.target}`);
+            bool = true;
+        }
+    });
+        </script>
+</body>
+</html>

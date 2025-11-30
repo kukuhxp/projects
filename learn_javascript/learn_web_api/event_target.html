@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Event Target</title>
+    <link href="../libs/style.css" rel="stylesheet" />
+    <style>
+      pre {margin-left: -20px;}
+      #container {
+          display: flex;
+          justify-content: center;
+          gap: 20px;
+          padding: 20px;
+          background-color: #d8d8d8;
+      }
+    </style>
+</head>
+	<body></body>
+<script src="../libs/script.js"></script>
+<body>
+    <h1>EVENT TARGET</h1>
+    <h2>HTML Event Attributes</h2>
+    <p>&lt;button onclick="alert('This is a JavaScript alert popup')"&gt;Show Message&lt;/button&gt;
+</p>
+    <button onclick="alert('This is a JavaScript alert pop up')">Show Message</button>
+    <script>
+    hr();
+    let element;
+    print("h2", "Event Expression");
+    print("pre", `
+    element = document.getElementById("1");
+    element.onclick = function() {
+        alert("Kira and lacus is a best couple in the fiction world");
+    }
+    
+    const show = function() {
+        alert("Hi guys! I love you so much :)");
+    }
+    
+    element = document.getElementById("2");
+    element.onclick = show;
+    `);
+    </script>
+    <button id="1">Open Message 1</button>
+    <button id="2">Greet</button>
+    <script>
+    element = document.getElementById("1");
+    element.onclick = function() {
+        alert("Kira and lacus is a best couple in the fiction world");
+    }
+    
+    const show = function() {
+        alert("Hi guys! I love you so much :)");
+    }
+    
+    element = document.getElementById("2");
+    element.onclick = show;
+    hr();
+    </script>
+    <script>
+    print("h2", "Event Listener");
+    print("pre", `
+    element = document.getElementById("3");
+    element.addEventListener("click", function() {
+      alert("Dear player, please delete your account now!");
+    });
+    
+    element = document.getElementById("4");
+    element.addEventListener("click", show);
+    
+    function deleteGreet() {
+        button = document.getElementById("4");
+        button.removeEventListener("click", show);
+    }
+    
+    element = document.getElementById("5");
+    element.addEventListener("click", deleteGreet);
+    `);
+    </script>
+    <button id="3">Open Message 2</button>
+    <button id="4">Greet</button>
+    <button id="5">Delete Greet Alert</button>
+    <script>
+    element = document.getElementById("3");
+    element.addEventListener("click", function() {
+      alert("Dear player, please delete your account now!");
+    });
+    
+    element = document.getElementById("4");
+    element.addEventListener("click", show);
+    
+    function deleteGreet() {
+        button = document.getElementById("4");
+        button.removeEventListener("click", show);
+    }
+    
+    element = document.getElementById("5");
+    element.addEventListener("click", deleteGreet);
+    hr();
+    
+    print("h2", "Event Bubbling & Capturing");
+    </script>
+    <div id="container">
+        <button id="bubbling">Bubble Event</button>
+        <button id="capturing">Capture Event</button>
+    </div>
+    <script>
+    const container = document.getElementById("container");
+    const bubbling = document.getElementById("bubbling");
+    const capturing = document.getElementById("capturing");
+    
+    container.addEventListener("click", function(e) {
+      alert("Container clicked (bubbling)");
+    });
+  
+    bubbling.addEventListener("click", function(e) {
+      alert("Button clicked (bubbling)");
+    });
+      
+    container.addEventListener("click", function(e) {
+      alert("Container clicked (capturing)");
+    }, true);
+  
+    capturing.addEventListener("click", function(e) {
+      alert("Button clicked (capturing)");
+    }, true);
+    hr();
+    </script>
+</body>
+</html>

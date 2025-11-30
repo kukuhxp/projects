@@ -1,0 +1,27 @@
+<html>
+<head>
+    <title>Window Interfaces</title>
+    <link href="../libs/style.css" rel="stylesheet" />
+</head>
+	<body></body>
+<script src="../libs/script.js"></script>
+	<script>
+print("h1", "WINDOW");
+print("h2", "Instance Properties");
+const windowProperties = [
+    ["window.screen", window.screen],
+    ["window.location", window.location],
+    ["window.URL", window.URL],
+]
+
+for (let [label, val] of windowProperties) {
+    print("p", `${label} → type: ${typeof val} → value: ${val}`);
+}
+
+print("h2", "Instance Methods");
+for (let [label, val] of windowMethods) {
+    print("p", `${label} → type: ${typeof val} → value: ${val}`);
+}
+
+	</script>	
+</html>

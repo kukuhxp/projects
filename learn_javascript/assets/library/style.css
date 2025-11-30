@@ -1,0 +1,32 @@
+body {
+  line-height: 1.5;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: #eee;
+}
+
+h1, h2 {
+  font-family: 'Oswald', sans-serif;
+}
+
+p,
+span{
+  font-family: monospace;
+}
+
+pre {
+  font-family: monospace;
+  margin-top: -17px;
+}
+
+code {
+  font-weight: bold;
+  color: #888;
+  margin: 0 2.5px;
+  padding: 0 5px;
+  background-color: #dbdbdb;
+}
+
+b + pre {
+  margin-top: 1px;
+}

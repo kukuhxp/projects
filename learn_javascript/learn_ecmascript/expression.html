@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+    <title>Expressions</title>
+    <link href="../libs/style.css" rel="stylesheet"/>
+</head>
+<body></body>
+<script src="../libs/script.js"></script>
+<script>
+print("h1", "EXPRESSION");
+print("h2", "Primary Expression");
+print("p", "= { } // Object");
+print("p", "= [ ] // Array");
+print("p", "= ( ) { } // Constructor & Function");
+print("p", "= ( ) => { } // Arrow function");
+
+print("h2", "Unary Expression");
+print("p", `typeof 12: ${typeof 12}`);
+print("span", 'if(x) {print("p", "true")}else if(!x) {print("p", "false")}');
+let x = null;
+if(x) {print("p", "true")}else if(!x) {print("span", " // !x: false")}
+let name = void prompt("What's your name?");
+print("p", `void alert("What's your name"): ${name}`);
+
+print("h2", "Expression Grouping");
+print("p", `(10 + 5) / 4 = ${(10 + 5) / 4}`);
+print("p", `(typeof (13).toString()) = ${(typeof (13).toString())}`);
+print("p", `parseInt((10 + 5) / 4) = ${parseInt((10 + 5) / 4)}`);
+
+print("h2", "Concatenate Expression");
+print("p", `"String: " + "string" = ${"String: " + "string"}`);
+print("p", `"String: " + 123 = ${"String: " + 123}`);
+print("p", `"Title: " + document.title = ${"String: " + document.title}`);
+</script>
+</html>

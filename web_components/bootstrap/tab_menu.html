@@ -1,0 +1,28 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap Framework -->
+    <link rel="stylesheet" href="src/css/bootstrap.min.css">
+    <script src="src/js/bootstrap.min.js"></script>
+    <title>BS - Tab Menu</title>
+</head>
+<body>
+    <h3>Tab navigation</h3>
+    <nav>
+        <div class="nav nav-tabs" role="tablist">
+            <button id="css-tab" class="active nav-link" data-bs-toggle="tab" data-bs-target="#css-content" aria-controls="css-content" aria-selected="true" role="tab" type="button">CSS</button>
+            <button id="js-tab" class="nav-link" data-bs-toggle="tab" data-bs-target="#js-content" aria-controls="js-content" aria-selected="false" role="tab" type="button">JavaScript</button>
+            <button id="php-tab" class="nav-link" data-bs-toggle="tab" data-bs-target="#php-content" aria-controls="php-content" aria-selected="false" role="tab" type="button">PHP</button>
+            <button id="sql-tab" class="nav-link" data-bs-toggle="tab" data-bs-target="#sql-content" aria-controls="sql-content" aria-selected="false" role="tab" type="button">SQL</button>
+        </div>
+        <div class="tab-content">
+            <div id="css-content" class="tab-pane fade show active" aria-labelledby="css-tab" tabindex="0" role="tabpanel">This is CSS.</div>
+            <div id="js-content" class="tab-pane" aria-labelledby="js-tab" tabindex="0" role="tabpanel">This is JavaScript.</div>
+            <div id="php-content" class="tab-pane" aria-labelledby="php-tab" tabindex="0" role="tabpanel">This is PHP.</div>
+            <div id="sql-content" class="tab-pane" aria-labelledby="sql-tab" tabindex="0" role="tabpanel">This is SQL.</div>
+        </div>
+    </nav>
+</body>
+</html>

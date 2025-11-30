@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+    <title>Function</title>
+    <link href="../libs/style.css" rel="stylesheet"/>
+</head>
+<body></body>
+<script src="../libs/script.js"></script>
+<script>
+print("h1", "FUNCTION");
+print("h2", "Function Declaration");
+print("pre", `
+function add(a, b) {
+    let c = a + b;
+    return c;
+}
+`);
+
+function add(a, b) {
+    let c = a + b;
+    return c;
+};
+
+print("h2", "Invocation");
+print("p", `add(10, 2): ${add(10, 2)}`);
+
+print("h2", "Function as Value");
+print("b", "Example:");
+print("p", `x = add(33, 18)`);
+let x = add(33, 18);
+print("p", `100 + x =...`);
+print("b", "Output:");
+print("p", `${add(33, 18)}`);
+print("p", `${100 + x}`);
+
+print("h2", "Named Function Expression (NFE)");
+print("b", "Example:");
+print("pre", `
+const factorial = function fact(n) {
+  return n <= 1 ? 1 : n * fact(n - 1);
+}
+`);
+const factorial = function fact(n) {
+  return n <= 1 ? 1 : n * fact(n - 1);
+}
+print("p", `factorial(5)`);
+print("b", "Output:");
+print("p", `${factorial(5)}`);
+
+print("h2", "Anonymous Function Expression");
+print("b", "Example:");
+print("pre", `                                                                
+const sub = function(a, b) {
+    let c = a - b;
+    return c;
+}
+`);
+const sub = function(a, b) {
+    let c = a - b;
+    return c;
+};
+print("p", "sub(24, 17)");
+print("b", "Output:");
+print("p", `${sub(24, 17)}`);
+
+print("h2", "Arrow Function");
+print("b", "Example:");
+print("pre", `
+const divide = (a, b) => {
+    let c = a / b;
+    return c;
+}
+`);
+const divide = (a, b) => {
+    let c = a / b;
+    return c;
+};
+print("p", `divide(24, 5)`);
+print("b", "Output:");
+print("p", `${divide(24, 5)}`);
+
+print("h2", "Immediately Invoked Function Expression (IIFE)");
+print("b", "Example");
+print("pre", `
+(function() {
+    print("p", "IIFE is running...")
+})();
+`);
+print("b", "Output:");
+(function() {
+    print("p", "IIFE is running...")
+})();
+
+print("h2", "Generator Function");
+print("b", "Example:");
+print("pre", `
+function* greet() {
+  yield "Hi";
+  yield "Nice to meet you!";
+  return "Welcome";
+}
+const gen = greet();
+print("p", \`\${JSON.stringify(gen.next())}\`);
+print("p", \`\${JSON.stringify(gen.next())}\`);
+print("p", \`\${JSON.stringify(gen.next())}\`);
+`);
+print("b", "Output:");
+function* greet() {
+  yield "Hi";
+  yield "Nice to meet you!";
+  return "Welcome";
+}
+const gen = greet();
+print("p", `${JSON.stringify(gen.next())}`);
+print("p", `${JSON.stringify(gen.next())}`);
+print("p", `${JSON.stringify(gen.next())}`);
+
+print("h1", "ASYNCHRONOUS");
+print("h2", "async/await");
+print("b", "Example:");
+print("pre", `
+async function processing() {
+  print("p", "1. Start");
+  await new Promise(resolve => setTimeout(resolve, 2000));
+  print("p", "3. FINISH!");
+}
+processing();
+print("p", "2. Running...");
+`);
+print("b", "Output:");
+async function processing() {
+  print("p", "1. Start");
+  await new Promise(resolve => setTimeout(resolve, 2000));
+  print("p", "3. FINISH!");
+}
+processing();
+print("p", "2. Running...");
+
+print("h2", "setTimeout()");
+print("b", "Example:");
+print("pre", `
+print("p", "Ready");
+setTimeout(function() {
+    print("p", "Processing...");
+}, 2000);
+`);
+print("b", "Output:");
+print("p", "Ready");
+setTimeout(function() {
+    print("p", "Processing...");
+}, 2000);
+print("p", "Complete!");
+
+print("h1", "CALLBACK");
+print("h2", "Named Callback");
+print("b", "Example:");
+print("pre", `
+function phoneNumber(code, callback) {
+    callback();
+    return code + " (555) 555-1234";
+}
+function say() {
+    print("span", "My phone number is ");
+}
+`);
+function phoneNumber(code, callback) {
+    callback();
+    return code + " (555) 555-1234";
+}
+function say() {
+    print("p", "My phone number is ");
+}
+print("p", 'phoneNumber("+1", say)');
+print("b", "Output:");
+print("p", `${phoneNumber("+1", say)}`);
+
+print("h2", "Anonymous Callback");
+print("b", "Example:");
+print("pre", `
+function greet(name, callback) {
+    print("p", \`Hello my name is \${name}\`);
+    callback();
+}
+greet("John", function() {
+    print("p", "Nice to meet you!");
+});
+`);
+function speak(name, callback) {
+    print("p", `Hello my name is ${name}`);
+    callback();
+}
+print("b", "Output:");
+speak("John", function() {
+    print("p", "Nice to meet you!");
+});
+</script>
+</html>

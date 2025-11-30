@@ -1,0 +1,126 @@
+<html>
+<head>
+    <title>String</title>
+    <link href="../libs/style.css" rel="stylesheet" />
+</head>
+	<body></body>
+<script src="../libs/script.js"></script>
+	<script>
+print("h1", "STRING TYPE");
+print("h2", "Concatenation");
+print("p", `"2" + "a" = ${"2" + "a"}`);
+print("p", `"2" - "a" = ${"2" - "a"}`);
+print("p", `"2" * "a" = ${"2" * "a"}`);
+print("p", `"2" / "a" = ${"2" / "a"}`);
+print("p", `"2" + "2" = ${"2" + "2"}`);
+print("p", `"2" - "2" = ${"2" - "2"}`);
+print("p", `"2" * "2" = ${"2" * "2"}`);
+print("p", `"2" / "2" = ${"2" / "2"}`);
+print("p", `"2" + 2 = "2" + 2`);
+print("p", `"2" - 2 = "2" - 2`);
+print("p", `"2" * 2 = "2" * 2`);
+print("p", `"2" / 2 = "2" / 2`);
+
+print("h2", "Concat Method");
+let a = "Hello";
+let b = 5;
+let c = a.concat(b);
+let strTemplate = `Ini adalah contoh template literal
+dan tidak terpengaruh dengan multiple line.`;
+const arr = [
+  "A = 'Hello'",
+  "B = 5",
+  "C = A.concat(B)",
+  "C = " + a.concat(b),
+]
+for(let i of arr) {
+  print("p", i);
+}
+
+print("h2", "Interpolation");
+print("pre", `\`A + B = \${A + B} \// Output: ${a+b}\``);
+
+print("h2", "String DeclaratioN");
+const str = "It's very nice day";
+print("p", `str = ${str}`);
+for(let i in str) {
+    print("span", `[${i}]: ${str[i]}`);
+    if(i < str.length - 1) print("", ", ");
+    if(i == str.length - 1) br();
+}
+const strRev = Object.values(str).reverse();
+for(let i in strRev) {
+    print("span", `[${-1 -Number(i)}]: ${strRev[i]}`);
+    if(i < strRev.length -1) print("", ", ");
+    if(i == strRev.length - 1) br();
+}
+const txt = "JavaScript";
+print("p", `txt = ${txt}`);
+for(let i in txt) {
+    print("span", `[${i}]: ${txt[i]}`);
+    if(i < txt.length - 1) print("", ", ");
+    if(i == txt.length - 1) br();
+}
+const txtRev = Object.values(txt).reverse();
+for(let i in txtRev) {
+    print("span", `[${-1 -Number(i)}] ${txtRev[i]}`);
+    if(i < txtRev.length - 1) print("", ", ");
+    if(i == txtRev.length - 1) br();
+}
+const text = "  Some Text   ";
+print("p", 'text = "     Some Text     "');
+const list = "Apple, Orange, Grape, Banana";
+print("p", `list = ${list}`);
+const listArr = list.split(",");
+for(let i in listArr) {
+    print("span", `[${i}]: ${listArr[i]}`);
+    if(i < listArr.length - 1) print("", ", ");
+    if(i == listArr.length - 1) br();
+} 
+const word = "day of the day";
+print("p", `word = ${word}`);
+for(let i in word) {
+    print("span", `[${i}]: ${word[i]}`);
+    if(i < word.length - 1) print("", ", ");
+    if(i == word.length - 1) br();
+}
+const words = "The rain in SPAIN stays mainly in the plain";
+print("p", `words = ${words}`);
+    
+let instanceMethods = [
+  // STRING EXTRACTION
+  "str.slice(5): " + str.slice(5),
+  "str.slice(-8, -4): " + str.slice(-8, -4),
+  "str.slice(2, -4): " + str.slice(2, -4),
+  "str.slice(2, -4): " + str.slice(2, -4),
+  "txt.slice(0, 4): " + txt.slice(0, 4),
+  "txt.slice(0, 4): " + txt.slice(0, 4),
+  "txt.substring(-5, 4): " + txt.substring(-5, 4),
+  "txt.substring(-5, -6): " + txt.substring(-5, -6),
+  "txt.substring(3, -5): " + txt.substring(3, -5),
+  "txt.substring(5, 1): " + txt.substring(5, 1),
+  "text.trim(): " + text.trim().length,
+  "text.repeat(3): " + text.repeat(3),
+  'text.replace("Some", "Replaced"): ' + text.replace("Some", "Replaced"),
+  'list.split(","): ' + list.split(","),
+  // STRING SEARCH
+  'word.indexOf("day"): ' + word.indexOf("day"),
+  'word.indexOf("Day"): ' + word.indexOf("Day"),
+  'word.lastIndexOf("day"): ' + word.lastIndexOf("day"),
+  'word.search(/day/): ' + word.search(/day/),
+  'words.match("ain"): ' + words.match("ain"),
+  'words.match(/ain/): ' + words.match(/ain/),
+  'words.match(/ain/g): ' + words.match(/ain/g),
+  'words.match(/ain/gi): ' + words.match(/ain/gi),
+  'words.includes("rain"): ' + words.includes("rain"),
+  'words.startsWith("The"): ' + words.startsWith("The"),
+  'words.endsWith("the"): ' + words.endsWith("the"),
+]
+for(let i in instanceMethods) {
+    if(i == 0) print("h2", "String Extraction");
+    if(i > 0 && i < 14) print("p", `${instanceMethods[i]}`);
+    if(i == 13) print("h2", "String Search");
+    if(i > 14 && i < instanceMethods.length) print("p", `${instanceMethods[i]}`);
+}
+	</script>
+</html>

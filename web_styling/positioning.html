@@ -1,0 +1,50 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Positioning</title>
+    <style>
+      .box {
+          display: inline-block;
+          position: relative;
+          width: 100px;
+          text-align: center;
+          padding: 50px 0;
+          opacity: 0.8;
+          font: 10px Helvetica;
+      }
+      .box-1 {background-color: rgb(62, 207, 220);}
+      .box-2 {background-color: rgb(247, 71, 238);}
+      #margin {margin-left: 100px;}
+      #direct {
+          z-index: 2;
+          left: 50px;
+      }
+    
+      #float img {
+          float: left;
+          margin-right: 10px;
+          width: auto;
+          height: 80px;
+      }
+    </style>
+</head>
+<body>
+    <h1>POSITIONING</h1>  
+    <h2>Margin Vs Direction</h2>
+    <div id="margin" class="box box-1">margin-left: 100px</div>
+    <div class="box box-2">It does moved.</div>
+    <br>
+    <div id="direct" class="box box-1">left: 100px</div>
+    <div class="box box-2">It doesn't moved.</div>
+    <h2>Float</h2>
+    
+    <div id="float">
+        <img src="../assets/01.jpg">
+        <p>
+            Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book. It usually begins with
+        </p>
+    </div>
+</body>
+</html>

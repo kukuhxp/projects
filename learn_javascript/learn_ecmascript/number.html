@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+    <title>Number</title>
+    <link href="../libs/style.css" rel="stylesheet"/>
+</head>
+<body></body>
+<script src="../libs/script.js"></script>
+<script>
+print("h1", "NUMBER TYPES");
+print("h2", "Special Value");
+let x = Infinity;
+let y = NaN;
+print("p", `"0" / 0 = ${"0" / 0}`);
+print("p", `1 / 0 = ${1 / 0}`);
+    
+print("h2", "Number Instance Methods");
+print("p", "numbers = 123456");
+let numbers = 123456;
+for(let i = 0; i < 3; i++) {
+    print("p", `numbers.toExponential(${i}): ${numbers.toExponential(i)}`);
+}
+print("p", "num = 8.5996");
+let num = 8.5996;
+    
+for(let i = 0; i < 3; i++) {
+    print("p", `num.toFixed(${i}): ${num.toFixed(i)}`);
+}       
+for(let i = 1; i < 4; i++) {
+    print("p", `num.toPrecision(${i}): ${num.toPrecision(i)}`);
+}
+print("p", `(25).toString(): "${(25).toString()}"`);
+print("p", `(-75).toString(): "${(-75).toString()}"`);
+print("p", `(10).toString(2): "${(10).toString(2)}"`);
+print("p", `(255).toString(16): "${(255).toString(16)}"`);
+</script>
+</html>

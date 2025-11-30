@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+    <title>Iteration</title>
+    <link href="../libs/style.css" rel="stylesheet"/>
+</head>
+<body></body>
+<script src="../libs/script.js"></script>
+<script>
+print("h1", "ITERATION");
+print("h2", "Looping Combination");
+print("b", "Example:");
+print("pre", `
+const x = false;
+let i = 0;
+const alphabet ="abcde";
+do {
+    while( i < alphabet.length) {
+        print("p", \`\${i}:\`);    
+        for(let x = 0; x < alphabet.length; x++) {
+          print("span", \`\${i + alphabet[x]}\`);
+          if(x < alphabet.length - 1) print("span", ", ");
+        }
+        i++;
+    }
+} while(x);
+`);
+print("b", "OUTPUT");
+const x = false;
+let i = 0;
+const alphabet ="abcde";
+do {
+    while( i < alphabet.length) {
+        print("p", `${i}:`);    
+        for(let x = 0; x < alphabet.length; x++) {
+          print("span", `${i + alphabet[x]}`);
+          if(x < alphabet.length - 1) print("span", ", ");
+        }
+        i++;
+    }
+} while(x);
+
+print("h2", "Looping Control Flow");
+print("b", "Example:");
+print("pre", `
+for(let i = 0; i < 10; i++) {
+    if(i > 2 && i < 5) {
+        continue;
+    } else if(i == 8) {
+        break;
+    }
+    print("p", \`Looping at \${i + 1} of 10\`);
+}
+`);
+print("b", "Output:");
+for(let i = 0; i < 10; i++) {
+    if(i > 2 && i < 5) continue;
+    else if(i == 8) break;
+    print("p", `Looping at ${i + 1} of 10`);
+}
+</script>
+</html>

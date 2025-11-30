@@ -1,0 +1,109 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CSS Tricky Facts Demo</title>
+  <link href="../libs/tricky.css" rel="stylesheet" />
+</head>
+<body>
+  <h1>Demo: Tricky CSS Facts</h1>
+  <div class="fact">
+    <h2>1. Tinggi Nav Tidak Muncul Jika Semua Elemen di Dalamnya Inline</h2>
+    <p>Elemen inline seperti <code>&lt;a&gt;</code> tidak membuat tinggi kontainer terisi. Solusinya adalah atur display elemen menjadi <code>inline-block</code> atau <code>block</code>.</p>
+    <div class="inline-element">Link</div>
+  </div>
+  <div class="fact">
+    <h2>2. Inline Elements Tidak Memiliki Tinggi dan Lebar</h2>
+    <p>Tag seperti <code>&lt;a&gt;</code> tidak bisa diberi tinggi/lebar kecuali diubah menjadi <code>inline-block</code>.</p>
+  </div>
+  <div class="fact">
+    <h2>3. Mengatasi Float dengan Overflow: Hidden</h2>
+    <p>Kontainer yang isinya elemen float bisa menghilang. Tambahkan <code>overflow: hidden</code> atau gunakan clearfix untuk menampilkan tinggi kontainer.</p>
+    <div style="overflow: hidden;">
+      <div class="box"></div>
+      <div class="box"></div>
+    </div>
+  </div>
+  <div class="fact">
+    <h2>4. Clearfix Hack</h2>
+    <p>Selain <code>overflow: hidden</code>, gunakan <code>::after</code> clearfix hack agar container membungkus float di dalamnya.</p>
+    <div class="clearfix">
+      <div class="box"></div>
+      <div class="box"></div>
+    </div>
+  </div>
+  <div class="fact">
+    <h2>5. Margin Auto Tidak Akan Bekerja Tanpa Width</h2>
+    <p>Untuk membuat elemen horizontal center dengan <code>margin: auto</code>, kamu harus menetapkan <code>width</code>.</p>
+    <div style="width: 200px; margin: auto; background: lightgray; padding: 10px;">Centered Box</div>
+  </div>
+  <div class="fact">
+    <h2>6. Height 100% Tidak Akan Berfungsi Tanpa Height dari Parent</h2>
+    <p>Jika kamu memberi <code>height: 100%</code>, pastikan parent-nya punya height yang ditentukan, misalnya <code>100vh</code> atau fixed height.</p>
+  </div>
+  <div class="fact">
+    <h2>7. Z-index Hanya Bekerja di Elemen Posisi</h2>
+    <p><code>z-index</code> hanya berlaku jika elemen memiliki posisi <code>relative</code>, <code>absolute</code>, atau <code>fixed</code>.</p>
+  </div>
+  <div class="fact">
+    <h2>8. Display: Inline-block Menyebabkan Whitespace</h2>
+    <p>Jika beberapa elemen <code>inline-block</code> sejajar, spasi antar tag HTML akan dihitung sebagai spasi visual.</p>
+  </div>
+  <div class="fact">
+    <h2>9. Position Absolute Mengacu ke Parent yang Berposisi</h2>
+    <p>Elemen <code>absolute</code> akan mengacu pada parent terdekat yang memiliki <code>position: relative</code> atau <code>absolute</code>.</p>
+  </div>
+  <div class="fact">
+    <h2>10. Display: None vs Visibility: Hidden</h2>
+    <p><code>display: none</code> menghilangkan elemen sepenuhnya dari layout, sedangkan <code>visibility: hidden</code> hanya menyembunyikan visual, tapi tetap menyimpan ruangnya.</p>
+  </div>
+  <div class="fact">
+    <h2>11. Margin: Auto Hanya Bekerja pada Elemen Block</h2>
+    <p>Elemen inline tidak akan bisa center menggunakan <code>margin: auto</code>. Harus <code>display: block</code> atau <code>inline-block</code> dan memiliki <code>width</code>.</p>
+  </div>
+  <div class="fact">
+    <h2>12. Position: Fixed Menempel ke Viewport</h2>
+    <p>Elemen dengan <code>position: fixed</code> akan selalu menempel pada viewport, bukan pada parent-nya.</p>
+    <div class="fixed-box">Saya fixed!</div>
+  </div>
+  <div class="fact">
+    <h2>13. Satuan VH dan VW Bisa Terganggu oleh Address Bar di Mobile</h2>
+    <p>Gunakan <code>100svh</code> untuk memastikan tinggi 100% viewport sebenarnya di mobile modern.</p>
+    <div class="vh-box">Ini 100vh (bisa tidak presisi di mobile)</div>
+  </div>
+  <div class="fact">
+    <h2>14. Transform Tidak Memicu Reflow, Top/Left Memicu</h2>
+    <p><code>transform</code> lebih baik untuk animasi karena tidak menyebabkan layout ulang.</p>
+    <div class="translate-box">Transform</div>
+    <div class="top-box">Top / Left</div>
+  </div>
+  <div class="fact">
+    <h2>15. Tidak Semua Properti Bisa Dianimasikan</h2>
+    <p>Misalnya <code>display</code> tidak bisa dianimasikan. Gunakan <code>opacity</code> atau <code>transform</code> sebagai gantinya.</p>
+    <div class="transition-box">Hover saya!</div>
+  </div>
+  <div class="fact">
+    <h2>16. Initial, Inherit, dan Unset</h2>
+    <p><code>initial</code> akan mengembalikan ke nilai default CSS.<br>
+       <code>inherit</code> akan mewarisi dari parent.<br>
+       <code>unset</code> akan memilih antara initial/inherit tergantung sifat properti.</p>
+    <div class="initial-inherit-unset">Parent (bold)
+      <div class="initial-demo">Initial</div>
+      <div class="inherit-demo">Inherit</div>
+      <div class="unset-demo">Unset</div>
+    </div>
+  </div>
+    <div class="fact">
+    <h2>17. Posisi Teks Tengah Vertikal: Gunakan Line-Height, Bukan Height</h2>
+    <p>Untuk memposisikan teks secara vertikal di tengah dalam elemen, gunakan <code>line-height</code> yang sama dengan tinggi elemen. Menggunakan <code>height</code> saja tidak akan menengahkan teks secara vertikal.</p>
+    <div class="nav-demo">
+      <div class="box-height">Teks</div>
+      <div class="box-lineheight">Teks</div>
+    </div>
+    <div style="margin-top: 10px;">
+      <span style="display:inline-block; width: 100px;">← hanya height</span>
+      <span style="display:inline-block; width: 160px;">← height + line-height</span>
+    </div>
+  </div>
+</body>
+</html>

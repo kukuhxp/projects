@@ -1,0 +1,134 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap Framework -->
+    <link rel="stylesheet" href="src/css/bootstrap.min.css">
+    <script type="text/javascript" src="src/js/bootstrap.bundle.min.js"></script>
+    <title>BS - Grid System</title>
+    <style>
+        body {padding: 5% !important;}
+        .row > div {border: 2px solid #555 !important;}
+        .row {background: #eeeeee;}
+        h3:first-child {margin-top: 0;}
+        h3 {margin-top: 30px;}
+    </style>
+</head>
+<body>
+    <div class="container text-center">
+        <h3>Equal Width Column</h3>
+        <div class="row">
+            <div class="col">1 of 4</div><div class="col">2 of 4</div><div class="col">3 of 4</div><div class="col">4 of 4</div>
+        </div>
+        <div class="row">
+            <div class="col">1 of 2</div><div class="col">2 of 2</div>
+        </div>
+        <div class="row">
+            <div class="col">1 of 1</div>
+        </div>
+        <h3>Setting One Column Width</h3>
+        <div class="row">
+            <div class="col">1 of 3</div><div class="col-5">2 of 3</div><div class="col">3 of 3</div>
+        </div>
+        <div class="row">
+            <div class="col">1 of 3</div><div class="col-6">2 of 3</div><div class="col">3 of 3</div>
+        </div>
+        <h3>Variable Width Content</h3>
+        <div class="row justify-content-md-center">
+            <div class="col col-lg-2">1 of 3</div><div class="col-md-auto">Variable Width Content</div><div class="col col-lg-2">3 of 3</div>
+        </div>
+        <div class="row">
+            <div class="col">1 of 3</div><div class="col-md-auto">Variable Width Content</div><div class="col col-lg-2">3 of 3</div>
+        </div>
+        <h3>Responsive Class</h3>
+        <div class="row">
+            <div class="col-sm">.col-sm</div><div class="col-sm">.col-sm</div><div class="col-sm">.col-sm</div>
+        </div>
+        <div class="row">
+            <div class="col-sm-4">.col-sm-4</div><div class="col-sm-8">.col-sm-8</div>
+        </div>
+        <h3>Mix and Match</h3>
+        <div class="row">
+            <div class="col-md-8">.col-md-8</div><div class="col-6 col-md-4">.col-6 .col-md-4</div>
+        </div>
+        <div class="row">
+            <div class="col-6 col-md-4">.col-6 .col-md-4</div><div class="col-6 col-md-4">.col-6 .col-md-4</div><div class="col-6 col-md-4">.col-6 .col-md-4</div>
+        </div>
+        <div class="row">
+            <div class="col-6">.col-6</div><div class="col-6">.col-6</div>
+        </div>
+        <h3>Row Columns</h3>
+        <div class="row row-cols-2">
+            <div class="col">1 of 4</div><div class="col">2 of 4</div><div class="col">3 of 4</div><div class="col">4 of 4</div>
+        </div>
+        <div class="row row-cols-3">
+            <div class="col">1 of 4</div><div class="col">2 of 4</div><div class="col">3 of 4</div><div class="col">4 of 4</div>
+        </div>
+        <div class="row row-cols-auto">
+            <div class="col">1 of 4</div><div class="col">2 of 4</div><div class="col">3 of 4</div><div class="col">4 of 4</div>
+        </div>
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4">
+            <div class="col">1 of 4</div><div class="col">2 of 4</div><div class="col">3 of 4</div><div class="col">4 of 4</div>
+        </div>
+        <h3>Nesting Column</h3>
+        <div class="row">
+            <div class="col-sm-4">Level 1: .col-sm-4</div>
+            <div class="col-sm-8">
+                <div class="row">
+                    <div class="col-sm-6">Level 2: .col-sm-6</div>
+                    <div class="col-sm-6">Level 2: .col-sm-6</div>
+                </div>
+            </div>
+        </div>
+        <h3>Horizontal Alignment</h3>
+        <div class="row justify-content-start">
+            <div class="col-3">1 of 3</div><div class="col-3">2 of 3</div><div class="col-3">3 of 3</div>
+        </div><br>
+        <div class="row justify-content-center">
+            <div class="col-3">1 of 3</div><div class="col-3">2 of 3</div><div class="col-3">3 of 3</div>
+        </div><br>
+        <div class="row justify-content-end">
+            <div class="col-3">1 of 3</div><div class="col-3">2 of 3</div><div class="col-3">3 of 3</div>
+        </div>
+        <h3>Vertical Alignment</h3>
+        <div class="row align-items-start" style="height: 100px">
+            <div class="col">1 of 3</div><div class="col">2 of 3</div><div class="col">3 of 3</div>
+        </div><br>
+        <div class="row align-items-center" style="height: 100px">
+            <div class="col">1 of 3</div><div class="col">2 of 3</div><div class="col">3 of 3</div>
+        </div><br>
+        <div class="row align-items-end" style="height: 100px">
+            <div class="col">1 of 3</div><div class="col">2 of 3</div><div class="col">3 of 3</div>
+        </div>
+        <h3>Column Break</h3>
+        <div class="row">
+            <div class="col-3">1 of 2</div><div class="col-3">2 of 2</div>
+            <div class="w-100"></div>
+            <div class="col-4">1 of 2</div><div class="col-4">2 of 2</div>
+            <div class="w-100 d-none d-md-block"></div>
+            <div class="col-3">1 of 2</div><div class="col-3">2 of 2</div>
+        </div>
+        <h3>Reordering Column</h3>
+        <div class="row">
+            <div class="col order-2">First Column</div><div class="col order-3">Second Column</div><div class="col order-1">Third Column</div>
+        </div>
+        <div class="row">
+            <div class="col">First Column</div><div class="col order-last">Second Column</div><div class="col order-first">Third Column</div>
+        </div>
+        <h3>Offset Column</h3>
+        <div class="row">
+            <div class="col-sm-3 col-md-6 ">1 of 2</div><div class="col-sm-3 col-md-6 offset-sm-6 offset-md-0">2 of 2</div>
+        </div>
+        <h3>Margin Column</h3>
+        <div class="row">
+            <div class="col-4">1 of 2</div><div class="col-4 ms-auto">2 of 2</div>
+        </div>
+        <h3>Padding Column</h3>
+        <div class="row">
+            <div class="col-12 p-2">Column</div>
+        </div>
+    <!-- End of Container -->
+    </div>
+</body>
+</html>

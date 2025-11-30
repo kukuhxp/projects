@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+    <title>Control Flow</title>
+    <link href="../libs/style.css" rel="stylesheet"/>
+</head>
+<body></body>
+<script src="../libs/script.js"></script>
+<script>
+print("h1", "CONTROL FLOW");
+print("h2", "Checking Your Age");
+print("pre", `
+age = prompt("Masukkan usia Anda di sini:");
+while (!age || isNaN(age) || age <= 0) {
+    age = prompt("Masukkan usia yang valid:");
+}
+if(age > 0 && age <= 12) {
+    print("p", "You're a kid");
+} else if(age > 12 && age < 18) {
+    print("p", "You're a teen");
+} else if(age >= 18) {
+    print("p", "You're an adult");  
+} else {
+  while (!age || isNaN(age) || age <= 0) {
+    age = prompt("Masukkan usia yang valid:");
+  } 
+}
+`);
+let age = prompt("Masukkan usia Anda di sini:");
+while (!age || isNaN(age) || age <= 0) {
+    age = prompt("Masukkan usia yang valid:");
+}
+if(age > 0 && age <= 12) {
+    print("p", "You're a kid");
+} else if(age > 12 && age < 18) {
+    print("p", "You're a teen");
+} else if(age >= 18) {
+    print("p", "You're an adult");  
+} else {
+    while (!age || isNaN(age) || age <= 0) {
+        age = prompt("Masukkan usia yang valid:");
+    } 
+}
+
+print("h2", "Checking The Weather");
+let weather = prompt("What's the weather today?");
+weather = weather ? weather.toLowerCase().trim() : "";
+
+switch(weather) {
+    case "cloudy":
+        print("p", "It's too cloudy...");
+        break;
+    case "rainy":
+        print("p", "It's raining today!");
+        break;
+    case "sunny":
+        print("p", "The sun is shining!");
+        break;
+    default:
+        print("p", "Unknown input or normal day!");
+}
+
+</script>
+</html>

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+    <title>Object Literal</title>
+    <link href="../libs/style.css" rel="stylesheet" />
+    <style>
+      body {padding-bottom: 50px}
+    </style>
+</head>
+<body></body>
+<script src="../libs/script.js"></script>
+<script>
+print("h1", "OBJECT LITERAL");
+print("h2", "Add/Remove The Key");
+print("b", "Example:");
+print("pre", `
+const person = {
+  fullName: "Kukuh Prihastomo",
+  age: 28,
+  speak: function() {
+  const jobText = this.job ? \`and my job is \${this.job}\` : \`and I don't have a job\`;
+  print("p", \`Hello my name is \${this.fullName}, I am \${this.age} years old \${jobText}\`);
+}
+`);
+const person = {
+    fullName: "Kukuh Prihastomo",
+		    age: 28,
+		    speak: function() {
+		        const jobText = this.job ? `and my job is ${this.job}` : `and I don't have a job`;
+		        const greet = `Hello my name is ${this.fullName}, I am ${this.age} years old ${jobText}`;
+		        return greet;
+    }
+}
+print("b", "Output:");
+person.addData = function() {
+		    this.job = "entrepreneur";
+		    return person;
+}
+person.addData();
+print("p", `Full Nams: ${person.fullName}`);
+print("p", `Age: ${person.age}`);
+print("p", `Job: ${person.job}`, {id: "job"});
+print("p", `${person.speak()}`, {id: "speak"});
+function deleteData(propKey) {
+    const elem = document.getElementById("job");
+    if (Object.hasOwn(person, propKey)) {
+        delete person[propKey];
+        elem.textContent = person.job;
+    } else {
+        alert("Property tidak ditemukan");
+    }
+}
+print("button", "Add Data", {id:"addBtn"});
+print("button", "Remove Data", {id:"removeBtn"});
+document.getElementsByTagName("button")[0].onclick = () => deleteData("job");
+
+print("h2", "This Keyword");
+print("b", "Example:");
+print("pre", `
+account = {
+    income: 1000,
+    outcome: null,
+    checkBalance: function() {
+        let balance = this.income - this.outcome;
+        return balance;
+    }
+}
+`);
+const account = {
+    income: 1000,
+    outcome: null,
+    checkBalance: function() {
+        let balance = this.income - this.outcome;
+        return balance;
+    }
+}
+print("b", "Output:");
+print("p", `account.income: ${account.income}`);
+print("p", `account.outcome: ${account.outcome = 200}`);
+print("p", `account.checkBalance(): ${account.checkBalance()}`);
+
+print("h2", "Static Methods");
+print("b", "Example:");
+print("p", "Fruits = {Bananas: 300, Grapes: 400, Melon: 500}");
+const fruits = {Bananas: 300, Grapes: 400, Melon: 500}
+print("b", "Output:");
+br();
+const staticMethods = [
+  Object.entries(fruits),
+  Object.values(fruits),
+]
+print("span", "Object.entries(fruits): ");
+for(let [fruit, amount] of staticMethods[0]) {
+  print("span", `${fruit}: ${amount}, `);
+}
+for(let i = 1; i < staticMethods.length; i++) {
+  print("p", `Object.values(fruits): ${staticMethods[i]}`);
+}
+</script>
+		</html>

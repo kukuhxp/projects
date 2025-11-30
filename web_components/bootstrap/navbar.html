@@ -1,0 +1,71 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap Framework -->
+    <link rel="stylesheet" href="src/css/bootstrap.min.css">
+    <script src="src/js/bootstrap.bundle.js"></script>
+    <title>BS - Navbar</title>
+    <style>
+        h3:first-child {margin-top: 0;}
+        h3 {margin-top: 20px;}
+    </style>
+</head>
+<body>
+    <h3 class="p-2">Simple Navbar</h3>
+    <nav class="navbar navbar-expand-lg">
+        <div class="container-fluid">
+            <!-- Your Brand -->
+            <a class="navbar-brand">NAVBAR</a>
+            <!-- Toogle Button -->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#simpleNav" aria-controls="simpleNav" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <!-- Menu List -->
+            <div class="collapse navbar-collapse justify-content-end me-5" id="simpleNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link active" aria-current="page" href="#">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Features</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Pricing</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">About</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <h3 class="p-2">Dropdown Navbar</h3>
+    <nav class="navbar navbar-expand-lg">
+        <div class="container-fluid">
+            <!-- Your Brand -->
+            <a class="navbar-brand">NAVBAR</a>
+            <!-- Toogle Button -->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#dropdownNav" aria-controls="dropdownNav" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <!-- Menu List -->
+            <div class="collapse navbar-collapse justify-content-center" id="dropdownNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false" role="button" href="#">Front-End Developer</a>
+                        <!-- Dropdown Menu -->
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="#">HTML</a></li>
+                            <li><a class="dropdown-item" href="#">CSS</a></li>
+                            <li><a class="dropdown-item" href="#">JavaScript</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false" role="button" href="#">Back-End Developer</a>
+                        <!-- Dropdown Menu -->
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="#">PHP</a></li>
+                            <li><a class="dropdown-item" href="#">SQL</a></li>
+                            <li><a class="dropdown-item" href="#">Python</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <script>
+        var navElem = document.getElementsByTagName('nav');
+        for (i=0;i<navElem.length;i++){navElem[i].style.backgroundColor='e5e5e5';}
+    </script>
+</body>
+</html>

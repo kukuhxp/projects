@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+    <title>Arrays</title>
+    <link href="../libs/style.css" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap" rel="stylesheet">
+</head>
+<body></body>
+<script src="../libs/script.js"></script>
+<script>
+print("h1", "ARRAY");
+print("h2", "Adding The Items To Enpty Array");
+print("b", "Example:");
+print("pre", `
+const gameConsole = [ ]
+gameConsole[0] = "Playstation";
+gameConsole[1] = "XBOX";
+gameConsole[2] = "Ninetendo Switch";
+gameConsole[3] = "Steam";
+`);
+const gameConsole = [ ]
+gameConsole[0] = "Playstation";
+gameConsole[1] = "XBOX";
+gameConsole[2] = "Ninetendo Switch";
+gameConsole[3] = "Steam";
+print("b", "Output:");
+print("p", `${gameConsole}`);
+
+print("h2", "Changing The Item");
+print("b", "Example:");
+print("p", 'cars = ["BMW", "Porsche", "Toyota", "Mitsubishi"]');
+const cars = ["BMW", "Porsche", "Toyota", "Mitsubishi"]
+print("p", `cars[0] = "Ford"`);
+cars[0] = "Ford";
+print("b", "Output:");
+print("p", `${cars}`);
+
+print("h2", "Mixed Items");
+print("b", "Example:");
+print("pre", `
+const age = 20;
+const yearOfBirth = new Date().getFullYear() - age;
+const bio = ["Lavenza", age, yearOfBirth]
+`);
+const age = 20;
+const yearOfBirth = new Date().getFullYear() - age;
+const bio = ["Lavenza", age, yearOfBirth]
+print("b", "Output:");
+print("p", `${bio}`);
+
+print("h2", "Length Property");
+print("b", "Example:");
+print("p", `cars.length`);
+print("b", "Output:");
+print("p", `${cars.length}`);
+
+print("h2", "Recognizing Array");
+print("b", "Example:");
+print("p", `Array.isArray(cars)`);
+print("p", `cars instanceof Array`);
+print("b", "Output:");
+print("p", `${Array.isArray(cars)}`);
+print("p", `${cars instanceof Array}`);
+
+print("h2", "Array with For Iteration");
+print("b", "Example:");
+print("pre", `
+for(let i = 0; i < cars.length; i++) {
+    print("p", \`cars[\${i}]: \${cars[i]}\`);
+}
+`);
+print("b", "Output:");
+for(let i = 0; i < cars.length; i++) {
+    print("p", `cars[${i}]: ${cars[i]}`);
+}
+    
+print("h2", "Array with For...Of Iteration");
+print("b", "Example:");
+print("pre", `
+for(const [index, value] of cars.entries()) {
+    print("p", \`cars[\${index}]: \${value}\`);
+}    
+`);
+print("b", "Output:");
+for(const [index, value] of cars.entries()) {
+    print("p", `cars[${index}]: ${value}`);
+}
+    
+print("h2", "Array with For...In Iteration");
+print("b", "Example:");
+print("pre", `
+for(let i in cars) {
+   print("p", \`cars[\${i}]: \${cars[i]}\`); 
+}
+`);
+print("b", "Output:");
+for(let i in cars) {
+   print("p", `cars[${i}]: ${cars[i]}`); 
+}
+    
+print("h2", "Array with Foreach Iteration");
+print("b", "Example:");
+print("pre", `
+cars.forEach((value, index) => {
+    print("p", \`cars[\${index}]: \${value}\`);
+});
+`);
+print("b", "Output:");
+cars.forEach((value, index) => {
+    print("p", `cars[${index}]: ${value}`);
+});
+    
+print("h2", "Multi-dimensional Array");
+print("b", "Example:");
+print("pre", `
+const person = {
+    name: "Jack",
+    age: 28,
+    cars: [
+      {brand: "Ford", models: ["Fiesta", "Focus", "Mustang"]},
+      {brand: "BMW", models: ["M3", "X3", "X5"]},
+      {brand: "Toyota", models: ["MPV", "SUV"]}
+    ]
+}
+    
+for(let i in person.cars) {
+    print("p", \`person.cars[\${i}] \`);
+    print("b", \`\${person.cars[i].brand}: \`);
+    for(let j in person.cars[i].models) {
+       print("i", \`\${person.cars[i].models[j]}\`);
+       if(j < person.cars[i].models.length - 1) print("span", ", ");
+    }
+}
+`);
+print("b", "Output:");
+const person = {
+    name: "Jack",
+    age: 28,
+    cars: [
+      {brand: "Ford", models: ["Fiesta", "Focus", "Mustang"]},
+      {brand: "BMW", models: ["M3", "X3", "X5"]},
+      {brand: "Toyota", models: ["MPV", "SUV"]}
+    ]
+}
+    for(let i in person.cars) {
+        print("p", `person.cars[${i}] `);
+        print("span", `${person.cars[i].brand}: `);
+        for(let j in person.cars[i].models) {
+            print("i", `${person.cars[i].models[j]}`);
+            if(j < person.cars[i].models.length - 1) print("span", ", ");
+    }
+}
+    
+print("h1", "ARRAY MANIPULATION");
+print("h2", "Array Declaration");
+const fruits = ["Banana", "Grape", "Orange", "Melon"]
+print("p", `fruits = [${fruits.join(", ")}]`);
+for(let i in fruits) {
+    print("span", `[${i}]: ${fruits[i]}`);
+    if(i < fruits.length - 1) print("span", ", ");
+}
+let fruitsRev = [ ]
+const randNumber = [10, 3, 22, 120, 314, 5]
+print("p", `randNumber = ${randNumber.join(", ")}`);
+const number = [1, 2, 3, 4, 5, 6]
+print("p", `number = ${number.join(", ")}`);
+const numbers = [[1, 2], [3, 4], [5, 6]];
+print("p", `numbers = ${JSON.stringify(numbers).replace(/,/g, ', ')}`);
+const japanCars = ["Toyota", "Honda", "Mazda"]
+print("p", `japanCars = [${japanCars.join(", ")}]`);
+const germanCars = ["BMW", "Porsche", "Volkswagen"]
+print("p", `germanCars = [${germanCars.join(", ")}]`);
+const italyCars = ["Ferrari", "Lamborghini"]
+print("p", `italyCars = [${italyCars.join(", ")}]`);
+
+const instanceMethods = [
+  // Array Extraction
+  `fruits.toString(): ${fruits.toString()}`,
+  `fruits.at(2): ${fruits.at(2)}`,
+  // Array ADDITION
+  `fruits.join("*"): ${fruits.join("*")}`,
+  `fruits.push("Watermelon"): ${fruits.push("Watermelon")}`,
+  `fruits: ${fruits}`,
+  `fruits[fruits.length] = "${fruits[fruits.length] = "Cherry"}"`,
+  `fruits: ${fruits}`,
+  `fruits.unshift("lemon"): ${fruits.unshift("lemon")}`,
+  `fruits: ${fruits}`,
+  `fruits.splice(2, 0, "Strawberry", "Blueberry"): ${fruits.splice(2, 0, "Strawberry", "Blueberry")}`,
+  `fruits: ${fruits}`,
+  `fruits.splice(2, 4, "Manggo", "Avocado"): ${fruits.splice(2, 4, "Manggo", "Avocado")}`,
+  `fruits: ${fruits}`,
+  // Array DELETION
+  `fruits.splice(0, 1): ${fruits.splice(0, 1)}`,
+  `fruits: ${fruits}`,
+  `fruitsRev = fruits.toSpliced(0, 1): ${fruitsRev = fruits.toSpliced(0, 1)}`,
+  `fruitsR: ${fruitsRev}`,
+  `fruits.slice(0, 5): ${fruits.slice(0, 5)}`,
+  `fruits.pop(): ${fruits.pop()}`,
+  `fruits: ${fruits}`,
+  `fruits.shift(): ${fruits.shift()}`,
+  `fruits: ${fruits}`,
+  `delete fruits[2] ${delete fruits[2]}`,
+  `fruits[2]: ${fruits[2]}`,
+  `fruits: ${fruits}`,
+  // Array DUPLICATION
+  `fruits.copyWithin(2, 0, 2): ${fruits.copyWithin(2, 0, 2)}`,
+  // Array CONCATENATION
+  `japanCars.concat(germanCars, italyCars): ${japanCars.concat(germanCars, italyCars)}`,
+  `numbers.flat(): ${numbers.flat()}`,
+  `numbers.flatMap(); ${number.flatMap(num => [num, num * 100])}`,
+  // ARRAY SEARXH
+  `fruits.indexOf("Avocado"): ${fruits.indexOf("Avocado")}`,
+  `fruits.lastIndexOf("Avocado"): ${fruits.lastIndexOf("Avocado")}`,
+  `fruits.includes("Manggo"): ${fruits.includes("Manggo")}`,
+  `number.find((number) => number > 2): ${number.find((number) => number > 2)}`,
+  `number.findIndex((number) => number > 2): ${number.findIndex((number) => number > 2)}`,
+  `number.findLast((number) => number > 2): ${number.findLast((number) => number > 2)}`,
+  `number.findLastIndex((number) => number > 2): ${number.findLastIndex((number) => number > 2)}`,
+  // ARRAY SORT
+  `fruits.sort(): ${fruits.sort()}`,
+  `randNumber.sort(): ${randNumber.sort((a, b) => a - b)}`,
+  `fruits.reverse(): ${fruits.reverse()}`,
+  `randNumber.reverse(): ${randNumber.reverse((a, b) => a - b)}`,
+  `fruitsRev = fruits.toSorted(): ${fruitsRev = fruits.toSorted()}`,
+  `fruitsRev = fruits.toReversed(): ${fruitsRev = fruits.toReversed()}`,
+]
+
+print("h2", "Array Instance Methods Length");
+print("p", `Instance methods count: ${instanceMethods.length}`);
+
+for(let i in instanceMethods) {
+    if(i == 0) print("h2", "Array Extraction");
+    if(i == 2) print("h2", "Array Addition");
+    if(i == 13  ) print("h2", "Array Deletion");
+    if(i == 25) print("h2", "Array Duplication");
+    if(i == 26) print("h2", "Array Concatenation");
+    if(i == 29) print("h2", "Array Search");
+    if(i == 36) print("h2", "Array Sort");
+    print("p", `${instanceMethods[i]}`);
+}
+</script>
+</html>

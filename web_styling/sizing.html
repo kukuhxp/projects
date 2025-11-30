@@ -1,0 +1,34 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sizing</title>
+    <style>
+        .box-sizing {
+            display: table-cell;
+            text-align: center;
+            vertical-align: middle;
+            width: 200px;
+            height: 200px;
+            padding: 10px;
+            border: 10px solid #555555;
+            background-color: #e8e8e8;            
+        }
+        div:first-child {box-sizing: border-box;}
+        div:last-child {box-sizing: content-box;}
+    </style>
+</head>
+<body>
+    <h1>SIZING</h1>
+    <h2>Box Sizing</h2>
+    <div class="box-sizing">
+        <p>The box size is 200 x 200px</p>
+        <code>box-sizing: border-box</code>
+    </div>
+    <div class="box-sizing">
+        <p>The box size is 240 x 240px</p>
+        <code>box-sizing: content-box</code>
+    </div>
+</body>
+</html>

@@ -1,0 +1,56 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selectors</title>
+    <style>
+      div {
+          padding: 10px;
+          background-color: #e8e8e8;
+      }
+      p {padding: 10px;}
+      form {
+          margin-top: 10px;
+          width: 100%
+      }
+    
+      /* Adjacent sibling */
+      h2 + p {background-color: #c8c8c8;}
+    
+      #gs ~ p {background: #bef5ba;}
+      input[type="text"] {
+          width: 80vw;
+          padding: 7px 5px;
+      }
+      input[type="submit"] {
+          width: 15vw;
+          line-height: 32px;
+          background: #c8c8c8;
+          border: none;
+      }
+    </style>
+</head>
+<body>
+    <h1>SELECTORS</h1>
+    <h2>Adjacent Sibling</h2>
+    Select all first &lt;p&gt; after &lt;div&gt;: h2 + p
+    <p>Paragraph 1</p>
+    <p>Paragraph 2</p>
+    
+    <h2 id="gs">General Sibling</h2>
+    Select all &lt;p&gt; after #gs: #gs ~ p
+    <p>Paragraph 1</p>
+    <p>Paragraph 2</p>  
+    
+    <h2>Attribute Element</h2> 
+    Select all input[type="text"] & input[type="submit"]
+    <form>
+        <input type="text" placeholder="Type your email here">
+        <input type="submit" value="Login">
+    </form>
+    
+    <h2>Direct Child</h2>
+    <h2>Psuedo Class</h2>
+</body>
+</html>
