@@ -13,12 +13,13 @@ print("h1", "ARRAY");
 print("h2", "Adding The Items To Enpty Array");
 print("b", "Example:");
 print("pre", `
-const gameConsole = [ ]
-gameConsole[0] = "Playstation";
-gameConsole[1] = "XBOX";
-gameConsole[2] = "Ninetendo Switch";
-gameConsole[3] = "Steam";
+    const gameConsole = [ ]
+    gameConsole[0] = "Playstation";
+    gameConsole[1] = "XBOX";
+    gameConsole[2] = "Ninetendo Switch";
+    gameConsole[3] = "Steam";
 `);
+
 const gameConsole = [ ]
 gameConsole[0] = "Playstation";
 gameConsole[1] = "XBOX";
@@ -43,6 +44,7 @@ const age = 20;
 const yearOfBirth = new Date().getFullYear() - age;
 const bio = ["Lavenza", age, yearOfBirth]
 `);
+
 const age = 20;
 const yearOfBirth = new Date().getFullYear() - age;
 const bio = ["Lavenza", age, yearOfBirth]
@@ -133,6 +135,7 @@ for(let i in person.cars) {
     }
 }
 `);
+
 print("b", "Output:");
 const person = {
     name: "Jack",
@@ -143,23 +146,26 @@ const person = {
       {brand: "Toyota", models: ["MPV", "SUV"]}
     ]
 }
-    for(let i in person.cars) {
-        print("p", `person.cars[${i}] `);
-        print("span", `${person.cars[i].brand}: `);
-        for(let j in person.cars[i].models) {
-            print("i", `${person.cars[i].models[j]}`);
-            if(j < person.cars[i].models.length - 1) print("span", ", ");
-    }
+
+for(let i in person.cars) {
+  print("p", `person.cars[${i}] `);
+  print("span", `${person.cars[i].brand}: `);
+  for(let j in person.cars[i].models) {
+    print("i", `${person.cars[i].models[j]}`);
+    if(j < person.cars[i].models.length - 1) print("span", ", ");
+  }
 }
     
 print("h1", "ARRAY MANIPULATION");
 print("h2", "Array Declaration");
 const fruits = ["Banana", "Grape", "Orange", "Melon"]
 print("p", `fruits = [${fruits.join(", ")}]`);
+
 for(let i in fruits) {
     print("span", `[${i}]: ${fruits[i]}`);
     if(i < fruits.length - 1) print("span", ", ");
 }
+
 let fruitsRev = [ ]
 const randNumber = [10, 3, 22, 120, 314, 5]
 print("p", `randNumber = ${randNumber.join(", ")}`);
