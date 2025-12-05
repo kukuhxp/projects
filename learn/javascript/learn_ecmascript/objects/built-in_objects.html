@@ -1,0 +1,26 @@
+<html>
+<head>
+    <title>JavaScript Built-in Objects</title>
+    <link href="../../libs/config.css" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap" rel="stylesheet">
+</head>
+	<body></body>
+<script src="../../libs/editor.js"></script>
+	<script>
+print("h1", "BUILT-IN OBJECTS");
+	const objects = [
+    ["Math", Math],
+    ["Date", Date],
+    ["RegExp", RegExp],
+	];
+
+for (let [label, val] of objects) {
+    print("h2", `${label} `);
+    print("b", "type: ");
+    print("span", `${typeof val} `);
+    print("b", " → value: ");
+    print("span", `${val}`);
+    br();
+}
+	</script>	
+</html>

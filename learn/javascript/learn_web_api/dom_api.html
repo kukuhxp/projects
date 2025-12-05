@@ -1,40 +1,40 @@
 <html>
 <head>
     <title>Document Interface</title>
-    <link href="../libs/style.css" rel="stylesheet" />
+    <link href="../../libs/config.css" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap" rel="stylesheet">
 </head>
 	<body></body>
-<script src="../libs/script.js"></script>
+  <script src="../../libs/editor.js"></script>
 	<script>
-print("h3", "CONSTRUCTOR");
-print("p", "new Document()");
-
-print("h3", "INSTANCE CLASS");
-print("p", "document");
-
-print("h3", "PROPERTIES");
-
-const documentProperties = [
-    ["document.baseURL", document.baseURL],
-    ["document.documentURL", document.documentURL],
-    ["document.referrer", document.referrer],
-    ["document.cookie", document.cookie],
-    ["document.domain", document.domain],
-    ["document.doctype", document.doctype],
-    ["document.documentElement", document.documentElement],
-    ["document.heas", document.head],
-    ["document.title", document.title],
-    ["document.scripts", document.scripts],
-    ["document.body", document.body],
-    ["document.links", document.links],
-    ["document.forms", document.forms],
-    ["document.forms", document.images],
-    ["document.embeds", document.embeds],
-    ["document.readyState", document.readyState],
-]
-
-for (let [label, val] of documentProperties) {
-    print("p", `${label} → type: ${typeof val} → value: ${val}`);
-}
+  print("h3", "CONSTRUCTOR");
+  print("p", "new Document()");
+  
+  print("h3", "INSTANCE CLASS");
+  print("p", "document");
+  
+  print("h3", "PROPERTIES");
+  const documentProperties = [
+      ["document.baseURL", document.baseURL],
+      ["document.documentURL", document.documentURL],
+      ["document.referrer", document.referrer],
+      ["document.cookie", document.cookie],
+      ["document.domain", document.domain],
+      ["document.doctype", document.doctype],
+      ["document.documentElement", document.documentElement],
+      ["document.heas", document.head],
+      ["document.title", document.title],
+      ["document.scripts", document.scripts],
+      ["document.body", document.body],
+      ["document.links", document.links],
+      ["document.forms", document.forms],
+      ["document.forms", document.images],
+      ["document.embeds", document.embeds],
+      ["document.readyState", document.readyState],
+  ]
+  
+  for (let [label, val] of documentProperties) {
+      print("p", `${label} → type: ${typeof val} → value: ${val}`);
+  }
 	</script>	
 </html>
