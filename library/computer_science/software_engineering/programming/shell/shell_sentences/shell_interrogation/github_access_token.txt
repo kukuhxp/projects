@@ -1,0 +1,7 @@
+------------------------------------------------------------------
+GETTING THE PASSWORD OF REPOSITORY
+------------------------------------------------------------------
+1. Go to: https://github.com/settings/tokens
+2. Select "Personal access tokens" > "Tokens classic" -> "Generate new token (classic)"
+3. In "Select scopes", checking the "repo" option
+4. Click "Generate token"

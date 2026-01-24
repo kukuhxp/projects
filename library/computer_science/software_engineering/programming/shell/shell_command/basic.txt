@@ -1,0 +1,31 @@
+------------------------------------------------------------------
+BASIC COMMANDS
+------------------------------------------------------------------
+> Checking Path Location:
+pwd
+
+> Check the List of Directories:
+ls
+
+> Move Location:
+cd /[directory name]
+
+> Back to Previous Location:
+cd ..
+
+> Delete a File or Folder:
+rm [file name]
+rm -rf /[folder name]
+
+> Move a File or Folder:
+mv [file name] [path]
+mv [folder name] [path]
+
+> Copy a File or Folder:
+cp [file name] [path]
+cp [folder name] [path]
+
+> Open a File or Folder:
+cat [file name].txt
+nano [file name].txt
+vim [file name].txt

@@ -1,0 +1,3 @@
+# EPISTEMOLOGICAL DECLARATION 01
+
+Ketidakseimbangan dunia, dalam perspektif epistemologi, bukan semata-mata realitas objektif yang berdiri sendiri, melainkan hasil dari cara pengetahuan diproduksi, didistribusikan, dan dilegitimasi. Ketimpangan ekonomi, politik, dan sosial bertahan karena akses terhadap pengetahuan tidak setara, sementara narasi yang dominan dibentuk oleh pihak yang memiliki kuasa epistemik. Dengan demikian, ketidakseimbangan dunia merupakan konsekuensi dari struktur pengetahuan yang bias, parsial, dan tidak inklusif.

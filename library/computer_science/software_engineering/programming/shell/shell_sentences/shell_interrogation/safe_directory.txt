@@ -1,0 +1,20 @@
+------------------------------------------------------------------
+EDIT THE SAFE DIRECTORY
+------------------------------------------------------------------
+1. nano ~/.gitconfig
+2. Edit by using direction button on Termux
+3. Shift -> CTRL -> o
+4. Shift -> CTRL -> m
+5. Shift -> CTRL -> x
+
+Safe Directory:
+
+[safe]
+        directory = /storage/emulated/0/c_plus_plus
+        directory = /storage/emulated/0/cascading_style_sheet
+        directory = /storage/emulated/0/database
+        directory = /storage/emulated/0/java
+        directory = /storage/emulated/0/javascript
+        directory = /storage/emulated/0/library
+        directory = /storage/emulated/0/projects
+        directory = /storage/emulated/0/python

@@ -1,0 +1,3 @@
+# SHELL COMPANY
+
+Shell company atau perusahaan cangkang adalah perusahaan yang berizin resmi secara hukum, tetapi tidak aktif dalam operasional perusahaan. Perusahaan ini hanya legal secara kasat mata di atas kertas, tetapi tempat usaha, para karyawan dan alat-alat operasional mereka bersifat fiktif. Umumnya, shell company digunakan oleh para pemangku kepentingan untuk menyembunyikan modus operandi mereka, seperti pencucian uang, penghindaran pajak dan manipulasi data.

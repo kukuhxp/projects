@@ -1,0 +1,34 @@
+------------------------------------------------------------------
+QUESTION & ANSWER
+------------------------------------------------------------------
+Q: Python itu lambat saat eksekusi, tapi kenapa chatGPT dapat merespon dengan cepat?
+
+A: Python memang lambat dibanding bahasa compiled. Python adalah bahasa interpreted dan dynamically typed. Artinya, kode Python dijalankan oleh interpreter, bukan langsung oleh CPU. Setiap operasi membutuhkan pengecekan tipe, lookup variabel, dsb.
+
+Contoh:
+
+Loop besar atau operasi numerik murni bisa 10–100x lebih lambat dibanding C/C++. Ini membuat Python kurang cocok untuk perhitungan berat secara langsung tanpa optimisasi.
+
+------------------------------------------------------------------
+
+Q: Kenapa ChatGPT bisa cepat meski menggunakan Python?
+
+A: ChatGPT tidak murni dijalankan di Python saat inference. 
+
+Penjelasan:
+
+1. Python Hanya Controller
+
+Framework seperti PyTorch atau TensorFlow biasanya ditulis sebagian besar dalam C++/CUDA. Python hanya mengirim instruksi ke backend yang sudah dioptimalkan. Jadi Python tidak mengeksekusi semua operasi sendiri.
+
+2. Model Dijalankan Di GPU / TPU
+
+Operasi tensor seperti matrix multiplication, dot product, dll, dijalankan massively parallel di GPU/TPU. Kecepatan backend ini jauh lebih tinggi daripada apa pun yang bisa dilakukan Python murni.
+
+3. Inference Teroptimasi
+
+Model besar seperti GPT biasanya sudah dioptimasi dengan quantization, batching, kernel khusus, dsb. Python hanya memanggil fungsi-fungsi ini. Bagian berat sudah di-handle native code.
+
+4. Caching & Pipeline
+
+Sebagian hasil bisa di-cache, model juga mengeksekusi token per token, bukan seluruh teks sekaligus, sehingga respons terlihat cepat.

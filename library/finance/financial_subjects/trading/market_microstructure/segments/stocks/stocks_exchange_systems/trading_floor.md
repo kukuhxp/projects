@@ -1,0 +1,3 @@
+# TRADING FLOOR
+
+Trading floor adalah area fisik di sebuah bursa di mana para trader dan broker melakukan transaksi jual-beli aset terutama saham. Sekarang banyak trading floor sudah digantikan oleh sistem elektronik, karena komputer bisa mengeksekusi order lebih cepat dan efisien. Beberapa bursa besar seperti NYSE masih mempertahankan floor untuk simbolik atau beberapa transaksi tertentu, tapi sebagian besar sudah digital.

@@ -1,0 +1,34 @@
+------------------------------------------------------------------
+HARDWARE DIAGNOSTICS COMMANDS
+------------------------------------------------------------------
+> Memeriksa dan memperbaiki kesalahan pada sebuah hard drive:
+chkdsk C:
+
+> Mengecek kesehatan dasar hard drive:
+wmic diskdrive get status
+
+> Menganalisis & mendefrag drive HDD:
+defrag C:
+
+> Memeriksa & memperbaiki file sistem Windows yang rusak:
+sfc /scannow
+
+> Memperbaiki file sistem dari image Windows:
+DISM /Online /Cleanup-Image /RestoreHealth
+------------------------------------------------------------------
+NETWORK DIAGNOSTICS COMMANDS
+------------------------------------------------------------------
+> Mengecek koneksi internet:
+ping google.com
+
+> Menampilkan semua info alamat jaringan seperti IP, DNS, dan MAC:
+ipconfig /all
+
+> Melacak jalur koneksi ke server:
+tracert google.com
+
+> Melihat port & koneksi aktif:
+netstat -ano
+
+> Tes DNS resolver:
+nslookup.

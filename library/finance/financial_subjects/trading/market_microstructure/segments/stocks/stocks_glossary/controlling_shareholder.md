@@ -1,0 +1,3 @@
+# CONTROLLING SHAREHOLDER
+
+Controlling Shareholder atau Pemegang Saham Pengendali (PSP) adalah istilah yang merujuk pada sebuah individu atau kelompok yang memiliki persentase bagian kepemilikan saham dengan jumlah terbanyak dari shareholder lainnya. Sebagai pemegang saham pengendali, mereka memiliki hak yang lebih untuk memberikan suaranya dalam mengambil kebijakan dan keputusan dari sebuah perusahaan.

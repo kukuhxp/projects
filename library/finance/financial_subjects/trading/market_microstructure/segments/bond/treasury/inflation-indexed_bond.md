@@ -1,0 +1,3 @@
+# INFLATION-INDEXED BOND
+
+Inflation-indexed bond atau inflation-linked bond atau inflation-indexed security adalah obligasi pemerintah atau korporasi yang nilai pokok dan/atau kuponnya disesuaikan dengan tingkat inflasi, biasanya mengacu pada indeks harga konsumen atau Consumer Price Index (CPI). Contohnya adalah Treasury Inflation-Protected Securities (TIPS) di Amerika Serikat dan UK Index-linked Gilts di Inggris.

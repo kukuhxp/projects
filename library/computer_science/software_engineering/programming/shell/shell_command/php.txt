@@ -1,0 +1,14 @@
+------------------------------------------------------------------
+PHP COMMANDS
+------------------------------------------------------------------
+> Checking The PHP Versiom:
+php -v
+
+> Getting Information of PHP Configuration:
+php -i
+
+> Running a PHP File:
+php [file name].php
+
+> Running The Web Server:
+php -S localhost:8080

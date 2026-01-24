@@ -1,0 +1,2 @@
+# DELISTING
+Sedangkan delisting adalah istilah yang merujuk pada sebuah saham yang dihapus dari daftar bursa saham. Ada 2 cara untuk sebuah emiten melakukan delisting, yang pertama adalah dengan cara sukarela (voluntary delisting) dan yang kedua adalah dengan cara paksa (forced delisting).

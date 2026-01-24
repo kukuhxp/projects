@@ -1,0 +1,3 @@
+# PLAZA ACCORD
+
+Plaza accord adalah perjanjian internasional yang ditandatangani pada tanggal 22 September 1985 di Plaza Hotel, New York, oleh lima negara dengan ekonomi terbesar saat itu: Amerika Serikat, Jepang, Jerman Barat, Prancis, dan Inggris. Tujuannya adalah untuk melemahkan nilai tukar dolar AS yang saat itu sangat kuat, karena hal ini merugikan ekspor negara-negara lain dan memperlebar defisit perdagangan Amerika Serikat.

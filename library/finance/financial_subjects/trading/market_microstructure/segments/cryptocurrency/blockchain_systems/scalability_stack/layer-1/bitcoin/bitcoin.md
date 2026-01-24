@@ -1,0 +1,3 @@
+# BITCOIN
+
+Bitcoin adalah sebuah mata uang digital berupa keamanan kriptografi (SHA-256) yang menggunakan ekosistem blockchain sebagai distribusi dan kemanan datanya. Pada tahun 2009, bitcoin pertama kali diciptakan oleh sebuah entitas anonim di Internet yang bernama Satoshi Nakamoto. Dengan diciptakannya bitcoin inilah, mata uang kriptografi menjadi unsur penting ekosistem Decentralized Finance (DeFi).

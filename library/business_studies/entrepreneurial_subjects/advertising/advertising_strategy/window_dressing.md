@@ -1,0 +1,3 @@
+# WINDOW DRESSING
+
+Window Dressing adalah strategi pemasaran yang dilakukan perusahaan untuk mempercantik laporan keuangan mereka agar menarik di mata para investor. Pada umumnya perusahaan akan mulai melakukan segala cara untuk mempercantik laporan keuangan mereka seperti menurunkan harga saham, mengurangi pengeluaran perusahaan atau menunda pembayaran hutang sampai tahun depan. Tapi, tidak semua usaha yang dilakukan oleh perusahaan pasti berhasil dan mereka akan memaksa laporan keuangan mereka agar tetap cantik.

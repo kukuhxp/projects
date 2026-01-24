@@ -1,0 +1,3 @@
+# QUANTITATIVE EASING (QE)
+
+Quantitative Easing (QE) atau pelonggaran kuantitatif adalah kebijakan moneter ekspansif yang dilakukan oleh bank sentral untuk menambah jumlah uang beredar dengan cara mencetak uang baru secara digital dan merangsang pertumbuhan ekonomi dengan cara membeli obligasi pemerintah, terutama saat suku bunga sudah sangat rendah (mendekati 0%) dan kebijakan moneter biasa tidak lagi efektif.

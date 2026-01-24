@@ -1,0 +1,32 @@
+------------------------------------------------------------------
+WINDOWS RUN COMMAND
+------------------------------------------------------------------
+1. Press the "Win + R", to open the run window.
+2. Insert the command to use the tools.
+
+> Menampilkan System Information lengkap seperti CPU, BIOS, RAM, driver, network:
+msinfo32
+
+> Membuka Microsoft System Configuration untuk mengatur sistem startup dan program yang sedang berjalan:
+msconfig
+
+> Diagnosa grafis, suara, dan input device:
+dxdiag
+
+> Membuka Windows Memory Diagnostic untuk tes RAM:
+mdsched
+
+> Membuka Resource Monitor untuk melihat penggunaan CPU, RAM, DISK, dan Network Real-time:
+resmon
+
+> Membuka Performance Monitor:
+perfmon
+
+> Membuka Event Viewer untuk melihat log error sistem:
+eventvwr
+
+> Membuka Task Manager untuk melihat program-program yang sedang berjalan di balik layar:
+taskmgr
+
+> Membuka Device Manager untuk cek driver dan perangkat yang terhubung:
+devmggmt.msc

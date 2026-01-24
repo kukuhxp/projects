@@ -1,0 +1,3 @@
+# BITCOIN HALVING
+
+Bitcoin Halving adalah suatu peristiwa di mana nilai imbalan yang akan diterima oleh validator atau miner pada blockchain bitcoin dipotong setengahnya. Peristiwa ini, umumnya terjadi karena mekanisme bawaan dari bitcoin blockchain untuk memangkas imbalan validator untuk setiap 210.000 blok yang telah tervalidasi. Bitcoin halving terjadi setiap 4 tahun sekali untuk mencegah inflasi dari bitcoin yang hanya tersedia 21 juta koin.

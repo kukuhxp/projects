@@ -1,0 +1,3 @@
+# PSYCHOLOGICAL DECLARATION 09
+
+Health > Ambition.

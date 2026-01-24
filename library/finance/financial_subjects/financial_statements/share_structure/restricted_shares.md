@@ -1,0 +1,3 @@
+# RESTRICTED SHARES
+
+Restricted shares adalah saham-saham yang tidak diizinkan untuk dijual di pasar saham. Pembatasan penjualan saham dibatasi karena terkait periode penguncian saham yang berguna untuk kestabilan harga saham. Umumnya, saham-saham ini diberikan kepada para karyawan perusahaan sebagai insentif. Selain karyawan, para dewan eksekutif dan para investor IPO juga memiliki saham-saham jenis ini.

@@ -1,0 +1,16 @@
+-------------------------------------------------------------------
+QUESTION & ANSWER
+-------------------------------------------------------------------
+Q: Dimana parameter model disimpan?
+
+A: Parameter model biasanya disimpan di server, seperti server OpenAI, Google Cloud, AWS, dll. Bentuk file model terkompresi seperti .bin, .pt, .ckpt, .onnx, .safetensors. File-file tersebut berisi jutaan hingga triliunan angka float.
+
+Contoh:
+
+weight_1 = 0.1432
+weight_2 = -0.9843
+bias_1   = 0.0056
+
+Kesimpulan:
+
+Angka-angka ini disusun menjadi matriks besar untuk tiap lapisan jaringan saraf. Itulah yang disebut parameter model, dan nilai-nilai itulah yang membuat AI ingat pola-pola dari hasil training.

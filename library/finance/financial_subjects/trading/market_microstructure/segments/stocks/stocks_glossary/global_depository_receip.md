@@ -1,0 +1,3 @@
+# GLOBAL DEPOSITORY RECEIPT (GDR)
+
+Global Depository Receipt (GDR) adalah sebuah instrumen keuangan yang digunakan untuk mewakili kepemilikan saham perusahaan yang berada di luar negeri. Perusahaan yang ingin menerbitkan GDR harus bekerja sama dengan bank depositori lokal untuk menerbitkan instrumen GDR di bursa luar negeri. Sehingga investor yang berada di luar negeri dapat membeli saham perusahaan tersebut tanpa perlu pergi ke negara dari perusahaan tersebut berasal.

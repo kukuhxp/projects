@@ -1,0 +1,3 @@
+# ON-CHAIN
+
+On-chain dalam konteks kripto merujuk pada seluruh aktivitas, data, dan transaksi yang dicatat secara langsung di blockchain dan diverifikasi oleh mekanisme konsensus jaringan. Dengan kata lain, setiap aktivitas on-chain akan tercatat permanen di ledger publik, dapat diverifikasi oleh siapa pun, tidak dapat diubah (immutable), dan bergantung pada keamanan kriptografi dan konsensus jaringan.

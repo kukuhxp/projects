@@ -1,0 +1,23 @@
+------------------------------------------------------------------
+QUESTION & ANSWER
+------------------------------------------------------------------
+Q: Jadi saat user sedang mengetik di GPT, AI langsung menangkap secara real-time dan menyiapkan jawabannya segara?
+
+A: Mari kita bahas lebih detail biar kamu paham apa yang benar-benar terjadi di balik layar saat kamu mengetik di GPT.
+
+1. Saat Mengetik Pesan
+
+Ketika kamu sedang mengetik, GPT belum memproses apapun. Semua pemrosesan baru dimulai setelah kamu mengirim pesan penuh. Jadi GPT tidak membaca input real-time per karakter, tapi per pesan.
+
+2. Setelah Mengirim Pesan
+
+A. Membaca seluruh pesan kamu dan juga konteks percakapan sebelumnya.
+B. Mengubah semua teks itu menjadi token.
+C. Memproses token-token itu lewat jutaan parameter.
+D. Menghasilkan probabilitas untuk token berikutnya.
+E. Memilih token dengan peluang tertinggi.
+F. Ulangi proses itu ratusan kali per detik untuk membentuk kalimat demi kalimat.
+
+3. Streaming Output
+
+Ketika GPT menampilkan jawaban secara mengalir, model tidak menulis seluruh jawaban dulu baru menampilkan. Melainkan menghasilkan token satu per satu, dan langsung dikirim ke layar begitu token tersebut diprediksi. Itulah sebabnya kamu bisa melihat kata demi kata muncul seperti seseorang sedang mengetik cepat.

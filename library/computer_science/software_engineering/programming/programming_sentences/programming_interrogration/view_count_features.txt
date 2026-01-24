@@ -1,0 +1,52 @@
+------------------------------------------------------------------
+QUESTION & ANSWER
+------------------------------------------------------------------
+Q: Bagaimana bisa sebuah website e-commerce dapat menampilkan jumlah pengunjung yang pernah melihat produk kita di e-commerce?
+
+A: Website e-commerce bisa menampilkan jumlah pengunjung yang pernah melihat produk karena mereka mencatat dan menyimpan setiap aktivitas pengunjung di server atau database mereka.
+
+Penjelasan:
+
+1. Setiap produk punya ID unik
+Ketika kamu membuka halaman produk, sistem tahu produk mana yang sedang dilihat berdasarkan product_id.
+
+Contoh:
+
+{
+  "product_id": 12345,
+  "name": "Sepatu Running XYZ"
+}
+
+
+2. Sistem mencatat “view” (kunjungan)
+
+Setiap kali halaman produk dibuka, e-commerce akan mencatatnya, misalnya siapa yang melihat, waktu kunjungan, produk yang dilihat. Biasanya disimpan di database atau analytics system, contoh tabel:
+
+user_id	product_id	viewed_at
+
+5678	12345	2025-10-30 10:25:00
+
+3. Menghitung total viewer unik
+Untuk mencegah spam view, sistem biasanya hanya menghitung pengunjung unik, misalnya jika user yang sama melihat produk 5 kali, dihitung 1 kali saja.
+
+Contoh:
+
+SELECT COUNT(DISTINCT user_id)
+FROM product_views
+WHERE product_id = 12345;
+
+4. Menampilkan jumlah di halaman produk
+Setelah dihitung, hasilnya bisa langsung ditampilkan. Biasanya ini diambil dari cache atau database agar tidak membebani server:
+
+Contoh:
+
+document.getElementById("viewerCount").innerText = "234 orang telah melihat produk ini";
+
+Alur:
+
+1. User membuka halaman produk.
+2. Frontend kirim request ke server POST /api/product/view { product_id: 12345 }.
+3. Server menyimpan atau memperbarui data view.
+4. Frontend memanggil GET /api/product/view-count?product_id=1234.
+5. Server mengembalikan hasil: { count: 234 }.
+6. Angka itu ditampilkan di halaman produk.

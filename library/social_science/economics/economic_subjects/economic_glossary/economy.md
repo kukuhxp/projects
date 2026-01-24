@@ -1,0 +1,3 @@
+# ECONOMY
+
+Economy atau ekonomi adalah ilmu sosial yang mempelajari produksi, distribusi, dan konsumsi barang dan jasa. Tenaga kerja adalah salah satu dari empat faktor produksi utama bersama tanah, modal, dan kewirausahaan yang digunakan untuk menciptakan barang dan jasa tersebut. Pasar tenaga kerja, upah, pengangguran, dan produktivitas tenaga kerja semuanya adalah topik sentral dalam studi ekonomi.
