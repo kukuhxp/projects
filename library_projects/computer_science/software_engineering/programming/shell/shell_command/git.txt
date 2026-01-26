@@ -15,7 +15,7 @@ Pastikan tidak ada folder .git (hidden) di sub-folder
 git add [file's name].[file format]
 git add --all
 git add -A
- git add *
+git add *
 git add .
 
 > Commiting All Staged Files:
