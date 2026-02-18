@@ -1,6 +1,4 @@
-# SMUGGLING STRATEGY
-
-## Re-export
+# RE-EXPORT STRATEGY
 
 Re-export strategy adalah strategi perdagangan di mana suatu negara atau perusahaan mengimpor barang dari negara lain, lalu mengekspornya kembali, biasanya setelah pemrosesan ringan, repackaging, atau tanpa perubahan sama sekali ke pasar lain.
 

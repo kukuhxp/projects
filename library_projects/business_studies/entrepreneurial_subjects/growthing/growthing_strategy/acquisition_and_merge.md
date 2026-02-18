@@ -1,0 +1,3 @@
+# ACQUISITION AND MERGER (A&M)
+
+Acquisition and Merger (A&M) adalah strategi pertumbuhan eksternal yang dilakukan perusahaan untuk memperluas bisnis, meningkatkan efisiensi atau memperkuat posisi pasar. Acquisition adalah proses ketika satu perusahaan membeli perusahaan lain dan mengambil alih kendali atas bisnis tersebut sedangkan merger adalah proses ketika dua perusahaan bergabung menjadi satu entitas baru demi menciptakan sinergi dan kekuatan pasar yang lebih besar.
