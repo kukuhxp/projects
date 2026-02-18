@@ -1,0 +1,3 @@
+# LOWER HIGHS (LH) & LOWER LOWS (LL)
+
+Lower Highs (LH) dan Lower Lows (LL) adalah konsep penting dalam analisis teknikal yang digunakan untuk mengidentifikasi dan mengonfirmasi tren turun (downtrend) dalam pergerakan harga suatu aset saham, forex, kripto, dll. Lower highs adlalat puncak harga yang terbentuk lebih rendah daripada puncak sebelumnya, sedangkan lower lows adalah lembah harga yang terbentuk lebih rendah daripada lembah sebelumnya.

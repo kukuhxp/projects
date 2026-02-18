@@ -1,0 +1,1 @@
+# FRUGAL LIVING

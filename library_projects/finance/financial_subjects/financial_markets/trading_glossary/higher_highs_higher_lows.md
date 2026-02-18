@@ -1,0 +1,3 @@
+# HIGHER HIGHS (HH) & HIGHER LOWS (HL)
+
+Higher Highs (HH) dan Higher Lows (HL) adalah istilah dalam analisis teknikal yang digunakan untuk mengidentifikasi tren naik (uptrend) dalam pergerakan harga suatu aset seperti saham, forex, atau kripto. Higher highs adalah titik puncak harga (high) yang lebih tinggi daripada puncak sebelumnya, sedangkan higher lows adalah titik lembah harga (low) yang lebih tinggi daripada lembah sebelumnya.
