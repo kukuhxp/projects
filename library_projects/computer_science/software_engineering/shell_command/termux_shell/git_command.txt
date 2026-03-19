@@ -134,9 +134,9 @@ EDIT THE SAFE DIRECTORY
 ------------------------------------------------------------------
 1. nano ~/.gitconfig
 2. Edit by using direction button on Termux
-3. Shift -> CTRL -> o
-4. Shift -> CTRL -> m
-5. Shift -> CTRL -> x
+3. Shift -> CTRL -> O
+4. Shift -> CTRL -> M
+5. Shift -> CTRL -> X
 
 Safe Directory:
 
