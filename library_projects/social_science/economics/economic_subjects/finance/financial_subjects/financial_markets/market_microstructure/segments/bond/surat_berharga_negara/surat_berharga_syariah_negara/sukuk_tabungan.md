@@ -1,1 +1,0 @@
-# SUKUK TABUNGAN (ST)
