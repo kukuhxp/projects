@@ -557,3 +557,76 @@ Tetap menjadi mitra dagang yang stabil meski ada persaingan di sektor otomotif.
 Ekspor ke Rusia mengalami penurunan sekitar 10% di tahun 2025, namun China kini menjadi mitra dagang terbesar bagi kawasan Asia Tengah dengan total perdagangan mencapai USD 106,3 miliar.
 
 Pergeseran ini menunjukkan bahwa China semakin agresif beralih ke pasar Asia dan negara berkembang lainnya untuk mengurangi risiko ketergantungan pada Amerika Serikat.
+
+## Q: Kenapa barang grosir lebih murah dari barang ritel?
+
+## A: Harga grosir lebih murah daripada harga ritel (eceran) karena adanya perbedaan skala ekonomi, biaya operasional, dan target pasar. Berikut adalah alasan utamanya:
+
+### 1. Volume Pembelian Tinggi
+
+Grosir membeli barang dalam jumlah sangat besar langsung dari produsen atau pabrik. Hal ini memberikan mereka posisi tawar yang kuat untuk mendapatkan diskon kuantitas atau potongan harga yang signifikan.
+
+### 2. Keuntungan Per Unit Lebih Kecil
+
+Model bisnis grosir mengandalkan perputaran barang yang cepat dalam jumlah banyak. Mereka mengambil margin keuntungan (markup) yang sangat tipis untuk setiap unitnya, sementara pengecer mengambil keuntungan lebih besar per unit karena menjual secara satuan.
+
+### 3. Efisiensi Operasional
+
+Biaya operasional per unit pada sistem grosir cenderung lebih rendah karena mereka tidak perlu mengeluarkan banyak biaya untuk promosi besar-besaran, display toko yang mewah, atau layanan pelanggan individual seperti di toko ritel.
+
+### 4. Rantai Pasokan yang Pendek
+
+Grosir biasanya berada di posisi awal rantai distribusi (dekat dengan produsen). Sebaliknya, harga ritel sudah mencakup biaya tambahan dari distributor, grosir, biaya pengiriman ke toko, hingga biaya sewa toko fisik dan gaji karyawan.
+
+## Q: Bagaimana awal mula manusia tahu jika sawit bisa menjadi minyak goreng?
+
+## A: Manusia mengetahui kelapa sawit bisa menjadi minyak goreng melalui sejarah panjang yang dimulai dari tradisi masyarakat Afrika Barat ribuan tahun yang lalu. Berikut adalah tahapan awal bagaimana manusia menyadari potensi sawit sebagai minyak goreng:
+
+### 1. Bukti Arkeologi (5.000 Tahun Lalu)
+
+Para arkeolog menemukan sisa-sisa zat yang diidentifikasi sebagai minyak sawit di sebuah kuburan kuno di Abydos, Mesir, yang berasal dari tahun 3.000 SM. Penemuan ini membuktikan bahwa minyak sawit sudah menjadi komoditas berharga sejak zaman purba, kemungkinan dibawa oleh pedagang Arab dari Afrika Barat ke Mesir untuk keperluan konsumsi.
+
+### 2. Tradisi Masyarakat Afrika Barat
+
+Kelapa sawit (Elaeis guineensis) adalah tanaman asli Afrika Barat. Selama milenium, masyarakat setempat di wilayah seperti Nigeria dan Ghana telah mengolahnya secara tradisional dengan cara:
+
+#### 2.1. Perebusan Manual
+
+Merebus buah sawit untuk melunakkan daging buahnya.
+
+#### 2.2 Pemerasan
+
+Menumbuk dan memeras buah tersebut menggunakan tangan atau alat sederhana untuk mengeluarkan minyak merahnya. Minyak merah ini digunakan secara luas untuk memasak, obat-obatan, hingga bahan upacara adat.
+
+
+### 3. Pengenalan oleh Pedagang Eropa (Abad ke-15 - 19)
+
+Ketika pedagang Eropa mulai menjelajahi pesisir Afrika pada abad ke-15, mereka mengamati penggunaan minyak sawit oleh penduduk lokal sebagai bahan makanan. Di Eropa pada masa Revolusi Industri (abad ke-19), minyak sawit awalnya lebih populer digunakan sebagai pelumas mesin dan bahan pembuat sabun atau lilin. Seiring kemajuan teknologi, para ilmuwan menemukan proses pemurnian (refining) dan fraksinasi (pemisahan bagian padat dan cair). Teknologi ini memungkinkan minyak sawit mentah yang merah dan kental diolah menjadi minyak goreng kuning jernih yang stabil pada suhu tinggi.
+
+### 4. Perkembangan di Indonesia
+
+Minyak sawit baru dikenal luas sebagai minyak goreng di Indonesia pada akhir abad ke-20. Sebelumnya, masyarakat Indonesia lebih dominan menggunakan minyak kelapa. Namun, karena kelapa sawit terbukti jauh lebih efisien produksinya dan harga minyak kelapa melonjak, pemerintah mulai mempromosikan minyak sawit sebagai alternatif minyak goreng utama sejak sekitar tahun 1979.
+
+## Q: Kalau pun ada bisnis yang menerapkan positive-sum, itu pun pasti bersifat terbatas.
+
+## A: Tepat sekali. Pandangan Anda sangat realistis karena dalam dunia bisnis, skenario positive-sum (di mana semua pihak untung tanpa harus saling menjatuhkan) memang sering kali memiliki "masa kedaluwarsa" atau batasan ruang lingkup. Berikut adalah alasan mengapa sifat positive-sum itu biasanya terbatas:
+
+### 1. Batasan Kapasitas Pasar
+
+Skenario positive-sum biasanya terjadi di pasar yang sedang tumbuh pesat (emerging markets). Karena kue ekonominya sedang membesar, semua orang bisa mendapat potongan yang lebih besar tanpa berebut. Namun, begitu pertumbuhan melambat dan menyentuh titik jenuh, kolaborasi berubah menjadi kompetisi murni (zero-sum).
+
+### 2. Efek Jaringan yang Memonopoli
+
+Banyak bisnis teknologi awalnya terlihat positive-sum (misal: aplikasi ride-sharing yang menguntungkan driver, penumpang, dan platform). Namun, setelah mencapai dominasi, platform sering kali mulai menekan margin keuntungan mitra (driver) untuk memuaskan investor. Sifat "saling menguntungkan" tersebut menyusut seiring besarnya kekuasaan satu pihak.
+
+### 3. Kelangkaan Sumber Daya
+
+Kolaborasi antar kompetitor untuk memperbesar industri (misal: standarisasi teknologi bersama) hanya bertahan selama sumber daya (bahan baku, tenaga ahli, modal) masih mencukupi. Begitu sumber daya menjadi langka, perusahaan akan kembali ke mode protektif untuk mengamankan kelangsungan hidup masing-masing.
+
+### 4. Dilema Inovasi
+
+Bisnis positive-sum sering terjadi saat ada penemuan baru yang menciptakan nilai bagi semua orang. Namun, inovasi bersifat diskontinu. Ketika tidak ada lagi terobosan besar untuk memperluas manfaat, pemain di dalamnya akan mulai memperebutkan nilai yang sudah ada.
+
+Kesimpulannya:
+
+Bisnis positive-sum biasanya merupakan fase transisi atau strategi ceruk khusus. Untuk mempertahankannya dalam jangka panjang, sebuah bisnis harus terus-menerus berinovasi untuk "memperbesar kue" sebelum kompetisi yang brutal kembali mengubahnya menjadi zero-sum game.
