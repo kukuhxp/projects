@@ -149,3 +149,25 @@ Di Cina, kapitalis bisa kaya selama mereka tidak menentang kepentingan politik p
 Di bawah Xi Jinping, Cina sedang mencoba menyeimbangkan kembali "kapitalisme liar" mereka. Pemerintah kini menuntut para konglomerat untuk melakukan redistribusi kekayaan dan lebih banyak berkontribusi pada masyarakat guna mengurangi kesenjangan sosial, sejalan dengan cita-cita dasar komunisme.
 
 Jadi, Cina menggunakan kapitalisme sebagai alat untuk memperkuat negara, namun tetap mempertahankan kontrol komunis agar para pemilik modal tidak menjadi lebih berkuasa daripada negara itu sendiri.
+
+## Q: Tuhan memberikan tanah itu gratis ke manusia, lalu kenapa sekarang kita harus membelinya?
+
+## A: Secara filosofis, argumen Anda benar—alam tidak memberikan label harga pada tanah. Namun, secara praktis dan historis, ada beberapa alasan mengapa sistem "gratis" itu berubah menjadi sistem jual-beli:
+
+### 1. Pertumbuhan Populasi dan Kelangkaan
+
+Dulu, jumlah manusia sedikit dan tanah sangat luas. Siapa pun bisa menempati lahan kosong. Sekarang, populasi manusia miliaran sementara jumlah tanah tetap sama. Ketika sesuatu menjadi langka namun sangat dibutuhkan, ia memiliki nilai ekonomi.
+
+### 2. Hak Kepemilikan (Property Rights)
+
+Untuk menghindari konflik, manusia menciptakan sistem hukum. Tanpa kepemilikan yang sah (sertifikat), orang bisa saling usir. Membeli tanah sebenarnya adalah membayar "hak eksklusif" yang diakui negara agar Anda bisa tinggal di sana dengan aman tanpa diganggu orang lain.
+
+### 3. Investasi Infrastruktur dan Layanan
+
+Tanah yang Anda beli sekarang biasanya bukan sekadar tanah mentah. Harganya mencakup akses jalan, listrik, air bersih, dan keamanan yang disediakan pemerintah atau pengembang. Anda membayar untuk fasilitas dan lokasi yang membuat tanah itu layak huni.
+
+### 4. Sistem Ekonomi Modern
+
+Dalam sistem kapitalisme dan ekonomi global, tanah dianggap sebagai aset atau komoditas. Tanah bisa digunakan untuk menghasilkan uang (pertanian, pabrik, sewa), sehingga nilai manfaat masa depan dari tanah tersebut diuangkan dalam bentuk harga jual.
+
+Singkatnya, kita tidak lagi membayar "tanah" sebagai ciptaan Tuhan, melainkan membayar sistem hukum, keamanan, dan fasilitas yang menyertai tanah tersebut di tengah dunia yang semakin padat.

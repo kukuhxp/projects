@@ -27,3 +27,23 @@ anpa korporasi, sebuah negara biasanya menghadapi masalah kurangnya Kompetisi: T
 Kesimpulannya:
 
 Sebuah negara bisa maju jika fungsi-fungsi korporasi (produksi, distribusi, inovasi) digantikan oleh sistem lain yang sama efektifnya, misalnya oleh negara yang sangat efisien atau jaringan koperasi yang masif. Namun, hingga saat ini, hampir semua negara maju di dunia menggunakan kombinasi antara korporasi yang kuat dan regulasi pemerintah yang ketat.
+
+## Q: Ekspansi perusahaan menciptakan lapangan kerja baru.
+
+## A: Ekspansi perusahaan secara langsung mendorong penciptaan lapangan kerja baru melalui peningkatan skala operasi, volume produksi, dan jangkauan pasar. Di Indonesia, sektor manufaktur tetap menjadi kontributor utama dalam penyerapan tenaga kerja melalui strategi perluasan usaha ini. Berikut adalah poin-poin utama mengenai hubungan ekspansi perusahaan dengan lapangan kerja:
+
+### 1. Peningkatan Kapasitas Produksi
+
+Perusahaan yang membangun pabrik baru atau menambah lini produksi membutuhkan tambahan operator, teknisi, dan staf pendukung. Sebagai contoh, investasi industri pada tahun 2026 diproyeksikan mampu menyerap sekitar 218 ribu tenaga kerja baru.
+
+### 2. Perluasan Jangkauan Pasar
+
+Pembukaan cabang baru atau ekspansi internasional memerlukan tim operasional lokal, staf pemasaran, hingga logistik di wilayah baru tersebut.
+
+### 3. Dampak Multiplier
+
+Ekspansi di sektor besar, seperti hilirisasi sawit oleh PalmCo, dilaporkan mampu menyerap hingga 70 ribu tenaga kerja. Selain itu, ekspansi bisnis membantu UMKM menyediakan peluang kerja bagi kelompok masyarakat yang sulit mengakses sektor formal.
+
+### 4. Kondisi Saat Ini
+
+Tantangan muncul ketika perusahaan menunda ekspansi karena ketidakpastian ekonomi, yang mengakibatkan peluang kerja baru menjadi terbatas. Berdasarkan survei dari Apindo, sekitar 67% pengusaha tidak melakukan rekrutmen karyawan baru karena melambatnya ekspansi usaha.
