@@ -157,3 +157,45 @@ Perusahaan berhenti mencari karyawan baru meskipun ada kebutuhan operasional, se
 #### 3.3. Penundaan Investasi
 
 Perusahaan lebih memilih menyimpan dana tunai daripada membangun pabrik atau membuka cabang baru karena tingginya biaya risiko investasi.
+
+## Q: Mempertahankan suku bunga tinggi dapat memperlemah nilai tukar mata uang negara berkembang terhadap dolar AS.
+
+## A: Suku bunga tinggi di Amerika Serikat menarik modal asing keluar dari negara berkembang, sehingga melemahkan mata uang lokal mereka. Berikut adalah mekanisme berantai bagaimana kebijakan suku bunga tinggi (oleh Bank Sentral AS/The Fed) secara langsung menekan mata uang negara berkembang:
+
+### 1. Fenomena Capital Outflow (Aliran Modal Keluar)
+
+#### 1.1. Daya Tarik Yield
+
+Saat AS menaikkan atau mempertahankan suku bunga tinggi, imbal hasil (yield) obligasi pemerintah AS menjadi sangat menarik dan minim risiko.
+
+#### 1.2. Eksodus Investor
+
+Investor global menarik dana mereka dari pasar saham dan obligasi negara berkembang (termasuk Indonesia) untuk dipindahkan kembali ke Amerika Serikat.
+
+#### 1.3. Konversi Mata Uang
+
+Proses penarikan dana ini mewajibkan investor menjual mata uang lokal (seperti Rupiah) dan membeli Dolar AS, yang langsung memicu pelemahan nilai tukar lokal.
+
+### 2. Hukum Permintaan dan Penawaran (Supply & Demand)
+
+#### 2.1. Kelangkaan Dolar
+
+Permintaan yang melonjak terhadap Dolar AS membuat mata uang tersebut menjadi sangat kuat (Super Dollar).
+
+#### 2.2. Banjir Mata Uang Lokal
+
+Sebaliknya, aksi jual massal mata uang negara berkembang membuat ketersediaannya di pasar berlebih, sehingga nilainya jatuh.
+
+### 3. Dampak Domino bagi Negara Berkembang
+
+#### 3.1. Inflasi Impor (Imported Inflation)
+
+Karena mayoritas transaksi internasional menggunakan Dolar AS, biaya impor bahan baku dan barang jadi menjadi jauh lebih mahal bagi negara berkembang.
+
+#### 3.2. Beban Utang Membengkak
+
+Negara berkembang yang memiliki utang luar negeri dalam denominasi Dolar AS harus membayar cicilan dan bunga jauh lebih besar dalam porsi mata uang lokal mereka.
+
+#### 3.3. Dilema Bank Sentral
+
+Untuk menahan kejatuhan mata uangnya, Bank Sentral negara berkembang (seperti Bank Indonesia) terpaksa ikut menaikkan suku bunga domestik, meskipun hal tersebut berisiko memperlambat pertumbuhan ekonomi nasional.

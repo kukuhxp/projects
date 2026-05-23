@@ -1,4 +1,4 @@
-# JOB MARKET
+# JOB MARKETS
 
 ## Q: Ketika seseorang terjebak tidak bisa menjadi pegawai swasta ataupun pegawai negeri, apa yang harus dilakukan orang tersebut?
 

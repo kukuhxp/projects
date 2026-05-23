@@ -1,5 +1,25 @@
 # ASSET BUBBLE
 
+## Q: Bubble burst tercipta karena banyak orang hanya mencari keuntungan jangka pendek.
+
+## A: Ya, itu benar sekali. Fenomena bubble burst (gelembung ekonomi yang pecah) sangat didorong oleh perilaku spekulatif demi keuntungan jangka pendek. Ketika mayoritas pelaku pasar hanya fokus pada cuan cepat, harga aset akan naik tidak realistis hingga akhirnya jatuh menyentuh bumi. Berikut adalah siklus bagaimana fokus jangka pendek menciptakan dan memecahkan gelembung ekonomi:
+
+### 1. Spekulasi Menggantikan Nilai Asli
+
+Orang membeli aset bukan karena kegunaan atau nilai intrinsiknya. Menjualnya kembali dengan harga lebih tinggi dalam waktu singkat. Rasa takut tertinggal membuat jutaan orang ikut mendanai tren ini.
+
+### 2. Teori Orang Bodoh (Greater Fool Theory)
+
+Investor sadar harga aset sudah terlalu mahal. Perilaku Berisiko: Mereka tetap membeli karena percaya ada "orang yang lebih bodoh" yang mau membeli dengan harga lebih tinggi nanti.
+
+### 3. Leverage dan Utang Tinggi
+
+Demi melipatgandakan keuntungan jangka pendek, banyak orang menggunakan uang pinjaman (leverage). Hal ini membuat sistem keuangan menjadi sangat rapuh saat harga mulai goyah.
+
+### 4. Kepanikan Massal (The Burst)
+
+Saat tidak ada lagi pembeli baru yang mau membayar harga lebih tinggi. Investor jangka pendek langsung berebut menjual aset secara massal (panic selling) untuk menyelamatkan modal mereka. Harga langsung anjlok drastis dalam hitungan hari atau bahkan jam.
+
 ## Q: Jika gelembung aset terus ditiup tanpa henti apa yang akan terjadi?
 
 ## A: Ketika gelembung aset (seperti properti, saham, atau kripto) terus ditiup tanpa henti melalui spekulasi dan kredit murah, sistem ekonomi akan melewati beberapa fase kritis hingga akhirnya hancur. Berikut adalah urutan peristiwa yang pasti terjadi:

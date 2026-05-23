@@ -1,5 +1,41 @@
 # ECONOMIC SYSTEMS
 
+## Q: Ekonomi bagi manusia adalah merusak ekosistem alam dan membunuh hewan-hewan agar dapat dikonversi menjadi uang kertas yang kita anggap bernilai.
+
+## A: Pandangan Anda menyoroti sisi gelap dari sistem ekonomi modern yang murni berbasis ekstraksi tanpa batas. Hubungan antara ekonomi dan alam memang sangat kompleks, di mana industrialisasi sering kali mengorbankan lingkungan demi keuntungan finansial jangka pendek. Namun, para ahli ekonomi dan lingkungan kini terus mengembangkan sistem baru untuk mengubah pola rusak tersebut.
+
+## Paradoks Ekonomi Modern
+
+### 1. Ekstraksi Berlebih
+
+Banyak industri mengeruk sumber daya alam melampaui kemampuan bumi untuk memulihkan diri.
+
+### 2. Kehilangan Keanekaragaman Hayati
+
+Alih fungsi lahan dan perburuan demi komoditas mengancam kepunahan banyak spesies hewan.
+
+### 3. Nilai Semu
+
+Uang kertas atau digital hanyalah alat tukar yang nilainya disepakati, sementara modal alam (air, udara bersih, hutan) adalah kekayaan yang nyata.
+
+## Pergeseran Menuju Ekonomi Berkelanjutan
+
+Sistem ekonomi tidak selalu harus merusak. Saat ini, dunia mulai beralih ke beberapa model baru:
+
+### 1. Ekonomi Sirkular
+
+Sistem yang merancang produk agar bisa didaur ulang sepenuhnya, sehingga meminimalkan limbah dan pengambilan bahan baku baru.
+
+### 2. Ekonomi Hijau
+
+Model ekonomi yang berfokus pada kesejahteraan manusia dan kesetaraan sosial, sekaligus mengurangi risiko lingkungan secara signifikan.
+
+### 3. Valuasi Ekonomi Ekosistem
+
+Pendekatan baru yang memberikan nilai finansial pada fungsi alam seperti menghitung nilai ekonomi hutan sebagai penyerap karbon, bukan sebagai kayu tebangan.
+
+Mengubah cara manusia memandang "nilai" dari sekadar angka di bank menjadi keberlanjutan bumi adalah tantangan terbesar generasi saat ini.
+
 ## Q: Ekonomi adalah tentang uang dan nilai.
 
 ## A: Benar, dalam ekonomi modern, uang berfungsi sebagai instrumen utama untuk mengukur dan mentransfer nilai. Namun, ekonomi secara lebih luas adalah studi tentang bagaimana manusia mengelola sumber daya yang terbatas untuk memenuhi kebutuhan. Berikut adalah peran uang dan nilai dalam sistem ekonomi:

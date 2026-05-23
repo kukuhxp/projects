@@ -1,4 +1,4 @@
-# MICRO MARKETS
+# MARKETS
 
 ## Q: Apa itu market share?
 
@@ -260,3 +260,39 @@ Jika tidak bisa menaikkan harga penjualan, maka cara mendapatkan profit adalah d
 ### 3. Niche Market
 
 Fokus pada kelompok kecil pelanggan yang kebutuhannya belum terpenuhi secara maksimal oleh pemain besar.
+
+## Q: Di mana harga terendah dari barang berasal?
+
+## A: Harga terendah dari suatu barang selalu berasal dari "Tangan Pertama", yaitu produsen utama atau pabrik pembuatnya. Dalam dunia perdagangan, harga barang akan terus meningkat seiring panjangnya rantai distribusi. Semakin dekat posisi Anda dengan sumber asli barang, semakin murah harga yang bisa Anda dapatkan. Secara berurutan, berikut adalah asal-usul tingkatan harga barang dari yang paling murah hingga ke konsumen akhir:
+
+### 1. Produsen Utama / Pabrik / Konveksi (Harga Termurah)
+
+Ini adalah hulu atau tempat barang pertama kali diciptakan. Harga di tingkat ini merupakan harga modal produksi dasar ditambah margin keuntungan tipis dari pabrik. Namun, pabrik biasanya hanya melayani pembelian dalam jumlah atau volume yang sangat besar (grosir skala besar).
+
+### 2. Distributor Utama / Agen Tunggal
+
+Pihak inilah yang membeli barang langsung dari pabrik dalam jumlah kontaineran. Mereka mendapatkan harga yang sangat murah dari pabrik karena jaminan pembelian volume besar. Distributor utama bertugas menyebarkan barang ke wilayah-wilayah yang lebih kecil.
+
+### 3. Grosir Tingkat Wilayah (Supplier Besar)
+
+Para grosir membeli barang dari distributor utama untuk dijual kembali kepada para pedagang eceran. Pembelian di tingkat grosir sudah bisa dilakukan dalam skala menengah (misalnya per lusin atau per dus), dan harganya masih tergolong murah dibanding toko ritel biasa.
+
+### 4. Ritel / Toko Eceran (Harga Tertinggi / Harga Pasar)
+
+Ini adalah ujung dari rantai distribusi, seperti minimarket, warung kelontong, atau pedagang eceran di marketplace. Mereka membeli dari grosir, menambahkan biaya operasional (sewa toko, listrik, gaji karyawan), dan mengambil margin keuntungan sebelum menjualnya secara satuan kepada Anda sebagai konsumen akhir.
+
+## Alasan Tambahan Mengapa Suatu Negara Bisa Menjadi Sumber Barang Terendah
+
+Jika skalanya adalah global, harga terendah biasanya berasal dari negara-negara dengan pusat manufaktur raksasa seperti China. Barang dari sana bisa sangat murah karena beberapa faktor:
+
+### 1. Skala Produksi Massal
+
+Pabrik memproduksi jutaan unit sekaligus, sehingga memangkas biaya per satu unit barang (economy of scale).
+
+### 2. Rantai Pasok Terintegrasi
+
+Pabrik bahan baku, pabrik komponen, hingga pelabuhan logistik berada di area yang berdekatan sehingga menghemat biaya transportasi.
+
+### 3. Efisiensi Teknologi
+
+Penggunaan otomatisasi mesin tingkat tinggi yang menekan biaya kegagalan produk dan mempercepat proses pembuatan.

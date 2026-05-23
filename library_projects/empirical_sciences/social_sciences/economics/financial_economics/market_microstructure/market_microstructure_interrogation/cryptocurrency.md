@@ -1,4 +1,4 @@
-# BITCOIN
+# CRYPTOCURRENCY
 
 ## Q: Bitcoin adalah sistem pembayaran berbasis blockchain.
 
@@ -128,3 +128,19 @@ Karena database-nya dibagikan, setiap orang bisa memverifikasi transaksi tanpa h
 Setiap kali ada transaksi baru, informasi tersebut disiarkan ke seluruh jaringan. Dalam hitungan detik, ribuan komputer di seluruh dunia memperbarui catatan mereka agar tetap sinkron.
 
 Jadi, kekuatannya bukan pada seberapa canggih satu server, tapi pada jumlah komputer yang saling memvalidasi satu sama lain.
+
+## Q: Kenapa blockchain membutuhkan lebih dari 1 block?
+
+## A: Blockchain membutuhkan lebih dari satu blok karena sistem ini berfungsi sebagai buku kas digital yang mencatat transaksi secara kronologis (berurutan). Berikut adalah alasan utama mengapa satu blok saja tidak akan pernah cukup:
+
+### 1. Kapasitas Penyimpanan Terbatas
+
+Setiap blok memiliki ukuran penyimpanan yang sangat terbatas (misalnya, blok Bitcoin hanya berukuran sekitar 1–4 Megabyte). Satu blok hanya bisa menampung beberapa ribu transaksi saja. Ketika transaksi baru terus bermunculan setiap detik, sistem wajib membuat blok baru untuk menampung transaksi berikutnya.
+
+### 2. Menjaga Urutan Waktu (Kronologi)
+
+Blok-blok yang saling menyambung membentuk rantai (chain) berdasarkan urutan waktu pembuatan yang pasti. Struktur ini mencegah terjadinya double-spending (satu saldo digital digunakan untuk dua transaksi berbeda di waktu bersamaan).
+
+### 3. Keamanan dari Peretasan (Imutabilitas)
+
+Setiap blok baru selalu mencatat "sidik jari digital" (hash) dari blok sebelumnya. Jika peretas ingin mengubah data di blok masa lalu, mereka harus mengubah data di blok tersebut dan semua blok setelahnya secara bersamaan. Semakin panjang rantai bloknya, semakin mustahil dan mahal biaya yang diperlukan untuk meretas sistem tersebut.

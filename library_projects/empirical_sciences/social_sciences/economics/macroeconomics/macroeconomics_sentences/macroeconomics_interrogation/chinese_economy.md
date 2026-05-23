@@ -69,3 +69,31 @@ Kota-kota ini membutuhkan waktu bertahun-tahun untuk bisa hidup secara alami. Ba
 Proyek megah yang sepi penonton atau pengguna tetap membutuhkan biaya perawatan yang sangat tinggi. Pemerintah daerah kini terjebak karena harus membayar bunga utang pembangunan sekaligus biaya operasional fasilitas "pameran" tersebut, di saat pendapatan dari pajak dan penjualan tanah lokal terus merosot.
 
 Meskipun infrastruktur utama di kota besar seperti Shanghai, Beijing, dan Shenzhen sangat fungsional untuk kehidupan sehari-hari, pembangunan di wilayah gelombang kedua dan ketiga memang cenderung bergeser menjadi komoditas visual dan politik penopang angka statistik.
+
+## Q: Mayoritas pertumbuhan ekonomi cina didorong oleh BUMN bukan swasta?
+
+## A: Secara struktural, perusahaan swasta tetap menjadi penyumbang terbesar (sekitar 60%) terhadap total PDB Tiongkok. Namun, jika berbicara mengenai motor penggerak pertumbuhan baru (growth driver) baru-baru ini, porsinya memang bergeser berat ke arah investasi BUMN akibat lesunya sektor swasta domestik. Ekonomi Tiongkok memiliki rumus informal yang sangat terkenal untuk menggambarkan peran sektor swasta, yaitu "Aturan 60/70/80/90", yaitu 60% berkontribusi terhadap total PDB, 70% menggerakkan inovasi dan hak paten teknologi, 80% menyerap tenaga kerja perkotaan, 90% menciptakan lapangan pekerjaan baru.
+
+Meskipun secara angka kumulatif sektor swasta unggul, dinamika beberapa tahun terakhir menunjukkan fenomena yang disebut para ekonom sebagai "Guo Jin Min Tui" (Negara Maju, Swasta Mundur). Berikut adalah alasan mengapa kontribusi pertumbuhan saat ini tampak didominasi oleh negara (BUMN):
+
+## Mengapa Angka Pertumbuhan Baru Didominasi BUMN?
+
+### 1. "State-led Investment" (Investasi yang Dipicu Negara)
+
+Ketika ekonomi melambat akibat krisis properti, konsumsi rumah tangga melemah tajam. Untuk mengejar target PDB tahunan yang ditetapkan sebesar 5%, pemerintah Tiongkok menyuntikkan dana stimulus masif berupa proyek infrastruktur, jaringan listrik, dan transportasi kereta cepat. Seluruh proyek raksasa ini diserahkan dan dieksekusi oleh BUMN, sehingga angka pertumbuhan dari sektor investasi (capital formation) murni digerakkan oleh negara.
+ 
+### 2. Sektor Swasta Sedang Mengalami Trauma Regulasi
+
+Tindakan keras Beijing terhadap raksasa teknologi swasta (seperti Alibaba dan Tencent) serta industri gaming beberapa tahun lalu memicu kecemasan mendalam bagi para pengusaha swasta. Akibatnya, alih-alih melakukan ekspansi atau membangun pabrik baru, perusahaan swasta memilih bermain aman dengan menahan uang tunai mereka atau melakukan efisiensi tenaga kerja.
+
+### 3. Akses Pendanaan yang Tidak Adil (Credit Asymmetry)
+
+Bank-bank besar di Tiongkok adalah milik negara. Ketika memberikan pinjaman, mereka jauh lebih memprioritaskan BUMN karena adanya jaminan implisit dari pemerintah (pasti tidak akan bangkrut). Sebaliknya, perusahaan swasta terutama skala kecil dan menengah (UMKM) sangat kesulitan mendapatkan kredit modal kerja untuk tumbuh.
+
+## Titik Terang Akhir-Akhir Ini (Tren 2025–2026)
+
+Melihat lesunya sektor swasta menghambat target pertumbuhan jangka panjang, pemerintah Tiongkok mulai melonggarkan tekanan regulasi. Berdasarkan analisis pelacak kapitalisasi pasar dari Peterson Institute for International Economics (PIIE), porsi sektor swasta dalam 100 perusahaan top di Tiongkok merangkak naik kembali menjadi 40,0%. Pemulihan ini didorong oleh sektor swasta berbasis "ekonomi baru" (new economy), seperti kendaraan listrik (EV), raksasa swasta seperti BYD berhasil memimpin pasar global dan kecerdasan buatan (AI) & robotika, perusahaan swasta seperti iFlyTech dan Unitree Robotics mencatat lonjakan pengiriman produk robot humanoid secara masif.
+
+## Kesimpulan
+
+Secara total kue ekonomi, swasta masih mendominasi PDB. Namun, karena swasta sempat "tiarap" akibat pengetatan regulasi, pemerintah terpaksa menggunakan mesin BUMN sebagai penopang utama untuk memompa angka pertumbuhan ekonomi agar tidak merosot tajam.
