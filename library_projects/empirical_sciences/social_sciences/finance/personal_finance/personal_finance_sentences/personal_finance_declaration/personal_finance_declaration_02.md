@@ -1,0 +1,4 @@
+# PERSONAL FINANCE DECLARATION 02
+
+
+Trend is friend.

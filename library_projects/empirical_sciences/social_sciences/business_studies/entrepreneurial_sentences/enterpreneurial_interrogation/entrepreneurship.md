@@ -1,5 +1,69 @@
 # ENTREPRENEURSHIP
 
+## Q: Model bisnis dari kita yang membuat masalah dan kita yang memperbaiki masalah.
+
+## A: Model bisnis di mana sebuah perusahaan menciptakan masalah lalu menawarkan solusi untuk memperbaikinya sering disebut sebagai "Problem-Reaction-Solution" (Masalah-Reaksi-Solusi) atau secara peyoratif dikenal sebagai "Create the Problem, Sell the Cure" (Ciptakan Masalah, Jual Obatnya). Dalam dunia bisnis legal dan strategi korporasi, konsep ini dimanifestasikan melalui beberapa model bisnis turunan berikut:
+
+### 1. Planned Obsolescence (Keusangan Terencana)
+
+Perusahaan sengaja merancang produk agar cepat rusak atau tidak berfungsi setelah jangka waktu tertentu. Tujuannya adalah memaksa konsumen membeli produk baru atau suku cadang pengganti dari mereka.
+
+Contoh:
+
+Produsen smartphone yang memperlambat kinerja baterai lewat pembaruan perangkat lunak, atau printer yang mendeteksi katrid "habis" padahal masih ada sisa tinta.
+
+### 2. Model Pisau Cukur (Razor and Blades Model)
+
+Perusahaan menjual produk utama dengan harga sangat murah atau rugi, yang kemudian menciptakan "masalah" berupa ketergantungan pada produk pelengkap. Tujuannya adalah mengunci konsumen untuk terus membeli produk pelengkap yang mahal demi menjaga produk utama tetap berfungsi.
+
+Contoh:
+
+Menjual gagang pisau cukur murah, tetapi harga saringan/mata pisau penggantinya sangat mahal. Sama halnya dengan mesin kopi kapsul murah dan kapsul kopinya.
+
+### 3. Ekosistem Tertutup (Vendor Lock-in)
+
+Perusahaan membuat produk yang sengaja dibuat tidak kompatibel dengan perangkat atau kabel dari merek lain. Tujuannya adalah menciptakan masalah bagi pengguna jika mereka mencoba keluar dari ekosistem, lalu menjual adaptor atau aksesori khusus sebagai solusinya.
+
+Contoh:
+
+Penggunaan jenis lubang kabel pengisi daya (charger) unik yang hanya diproduksi oleh merek tersebut.
+
+### 4. Industri Keamanan dan Antivirus (Celah Sengaja/Kritik Etis)
+
+Secara historis dan dalam teori konspirasi ekonomi, model ini sering dikaitkan dengan perusahaan antivirus yang dicurigai (meski jarang terbukti secara hukum) membuat virus agar program pembersih mereka laku. Perusahaan teknologi sengaja merilis perangkat lunak versi Beta yang masih memiliki banyak masalah (bug), lalu menjual jasa pemeliharaan (maintenance contract) untuk memperbaikinya secara berkala.
+
+## Q: Inti dari bisnis adalah menjual solusi.
+
+## A: Tepat sekali. Inti dari setiap bisnis yang sukses memang terletak pada kemampuan menyediakan solusi bagi masalah pelanggan. Jika tidak ada masalah yang diselesaikan, pelanggan tidak memiliki alasan untuk membeli. Berikut adalah breakdown mengapa bisnis adalah penyedia solusi:
+
+## 3 Alasan Utama Bisnis Adalah Solusi
+
+### 1. Pelanggan Membeli Hasil
+
+Konsumen tidak membeli produk, mereka membeli kemudahan. Contohnya, orang membeli mesin cuci bukan karena ingin mesinnya, melainkan karena ingin baju bersih tanpa lelah.
+
+### 2. Dasar Inovasi
+
+Bisnis yang bertahan lama selalu berfokus pada masalah baru yang muncul. Netflix menyelesaikan masalah kebosanan dan antrean rental DVD fisik.
+
+### 3. Penentu Harga
+
+Semakin besar atau mendesak masalah yang Anda selesaikan, semakin tinggi nilai ekonomi yang bersedia dibayar oleh pasar.
+
+## Cara Menerapkan Pola Pikir Ini
+
+### 1. Ubah Gaya Jualan
+
+Jangan fokus pada fitur produk, melainkan fokus pada manfaat langsung bagi konsumen.
+
+### 2. Riset Masalah
+
+Selalu mulai riset pasar dengan bertanya, "Apa kesulitan terbesar yang dihadapi target pasar saya saat ini?"
+
+### 3. Evaluasi Rutin
+
+Pastikan produk Anda tetap relevan karena masalah manusia selalu berubah seiring perkembangan zaman.
+
 ## Q: Dalam perdagangan tidak semua  pihak diuntungkan, hal ini dikarenakan adanya lawan transaksi dan margin keuntungan. Jika pihak pembeli ingin untung diluar variabel harga, pembeli harus mendapatkan variabel nilai dari apa yang ia beli.
 
 ## A: Betul sekali. Dalam kacamata ekonomi murni, perdagangan sering dilihat sebagai permainan di mana selisih harga menjadi penentu siapa yang mendapat "potongan kue" lebih besar. Ketika pembeli ingin merasa "untung" tanpa mengandalkan penurunan harga, fokusnya bergeser dari biaya ke utilitas atau nilai tambah. Berikut adalah beberapa variabel nilai yang biasanya dicari pembeli:
