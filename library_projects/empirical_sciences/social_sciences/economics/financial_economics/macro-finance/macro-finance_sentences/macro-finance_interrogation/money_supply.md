@@ -48,11 +48,19 @@ Ketika sebuah negara mengekspor barang lebih banyak daripada impor, negara terse
 
 Investor asing yang membawa modal masuk ke dalam negeri untuk membangun pabrik, membeli saham, atau mendirikan bisnis harus menukarkan mata uang mereka ke mata uang lokal. Proses ini menambah jumlah uang beredar di dalam negeri tanpa melibatkan penambahan utang oleh pemerintah maupun masyarakat lokal.
 
-### 3. Pencetakan Uang Fisik Langsung (Seigniorage)
+### 3. Kunjungan Wisata oleh Turis Asing
+
+Devisa dari sektor pariwisata merupakan sumber pendapatan negara yang langsung mengalir ke masyarakat tanpa menambah beban utang luar negeri pemerintah. Uang yang dibawa oleh wisatawan asing langsung masuk ke berbagai lapisan ekosistem ekonomi lokal.
+
+### 4. Remintasi dari TKI/TKW (Remittance)
+
+Transfer uang tunai atau dana yang dikirim oleh seseorang yang bekerja di luar negeri kembali ke negara asalnya. Biasanya, uang ini dikirimkan oleh pekerja migran untuk menghidupi keluarga yang mereka tinggalkan di kampung halaman.
+
+### 5. Pencetakan Uang Fisik Langsung (Seigniorage)
 
 Sebagian kecil uang diciptakan langsung oleh pemerintah atau Bank Sentral sebagai uang kartal (uang kertas dan logam) untuk mengganti uang rusak atau memenuhi kebutuhan likuiditas dasar. Keuntungan dari selisih biaya cetak dan nilai nominal uang ini (seigniorage) menjadi pendapatan langsung negara tanpa jalur utang.
 
-### 4. Stimulus Helikopter (Helicopter Money)
+### 6. Stimulus Helikopter (Helicopter Money)
 
 Dalam kondisi krisis ekstrem, Bank Sentral bisa mencetak uang dan membagikannya secara gratis langsung ke rekening masyarakat tanpa perlu dikembalikan (bukan pinjaman/utang). Meskipun sangat jarang dilakukan karena risiko inflasi yang tinggi, ini adalah mekanisme legal penciptaan uang non-utang.
 
