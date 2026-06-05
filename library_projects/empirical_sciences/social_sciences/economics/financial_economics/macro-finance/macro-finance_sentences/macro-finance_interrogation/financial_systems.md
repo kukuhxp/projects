@@ -1,6 +1,6 @@
 # FINANCIAL SYSTEMS
 
-## Q: Siapa penerima pertama dari uang yang dicetak bank sentral?
+## Q: Siapa penerima pertama dari uang yang dicetak oleh bank sentral?
 
 ## A: Penerima pertama dari uang baru yang dicetak oleh bank sentral adalah pemerintah dan bank-bank komersial (swasta maupun pemerintah), bukan masyarakat umum. Proses ini terjadi melalui mekanisme pasar keuangan, bukan dengan membagikan uang tunai secara langsung. Berikut adalah jalur bagaimana uang tersebut pertama kali didistribusikan:
 
@@ -855,3 +855,35 @@ Menarik pajak lebih tinggi dari orang kaya untuk mendanai bantuan sosial bagi ma
 ### 2. Kebijakan Upah Minimum
 
 Memastikan pekerja memiliki pendapatan yang cukup untuk menjaga daya beli mereka tetap hidup.
+
+## Q: Uang besar ada di tangan pemerintah dan investor.
+
+## A: Uang besar dalam ekosistem ekonomi global memang dikuasai oleh pemerintah dan investor, karena kedua entitas ini memiliki kapasitas fiskal, regulasi, dan modal likuid terbesar untuk menggerakkan roda perekonomian nasional maupun internasional. Pemerintah memegang kendali atas dana publik melalui anggaran negara, sedangkan investor menguasai kapital privat yang siap dialokasikan demi mencari keuntungan. Hubungan dan distribusi modal di antara keduanya dapat dipetakan sebagai berikut:
+
+### 1. Pemerintah sebagai Pemilik Fiskal dan Regulasi
+
+Pemerintah mengelola perputaran uang dalam skala raksasa untuk membiayai infrastruktur, pelayanan publik, dan menjaga stabilitas ekonomi. Sumber kekuatan keuangan pemerintah meliputi:
+
+#### 1.1. Anggaran Negara (APBN/APBD)
+
+Dana ribuan triliun yang dikumpulkan melalui instrumen pajak, Penerimaan Negara Bukan Pajak (PNBP), serta dividen dari Badan Usaha Milik Negara (BUMN).
+
+#### 1.2. Sovereign Wealth Fund (SWF)
+
+Lembaga investasi milik negara yang mengelola dana abadi untuk diinvestasikan kembali ke berbagai aset global maupun domestik demi keuntungan jangka panjang.
+
+#### 1.3. Otoritas Moneter
+
+Melalui bank sentral, pemerintah mengendalikan jumlah uang yang beredar, suku bunga, dan kebijakan pencetakan uang kartal untuk mengarahkan laju inflasi.
+
+### 2. Investor sebagai Penggerak Kapital Privat
+
+Investor—baik ritel, institusional, modal ventura (venture capital), hingga investor asing—memiliki likuiditas tinggi yang krusial untuk mendanai sektor-sektor produktif yang tidak tersentuh anggaran pemerintah.
+
+#### 2.1. Efisiensi Alokasi Modal
+
+Investor menyalurkan dana ke perusahaan yang memiliki potensi pertumbuhan tinggi, mendorong inovasi, dan membuka lapangan kerja baru.
+
+#### 2.2. Pembiayaan Proyek Strategis
+
+Saat anggaran pemerintah terbatas, investor masuk melalui skema kerja sama pemerintah dan badan usaha (KPBU) untuk mendanai pembangunan infrastruktur besar seperti jalan tol, bandara, dan energi terbarukan.
