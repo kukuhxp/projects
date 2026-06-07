@@ -1,5 +1,43 @@
 # MONEY SUPPLY
 
+## Q: Jika semua orang mempunyai banyak uang, maka negara tersebut akan mengalami Inflasi.
+
+## A: Benar sekali, fenomena yang Anda sebutkan adalah salah satu hukum dasar dalam ekonomi. Ketika semua orang memiliki terlalu banyak uang, nilai uang itu sendiri justru akan menurun.
+
+## Mengapa Hal Ini Terjadi?
+
+### Jumlah Barang Terbatas
+
+Produksi barang dan jasa tidak bisa bertambah secara instan mengikuti jumlah uang.
+
+### Permintaan Melonjak
+
+Semua orang berebut membeli barang yang sama karena mereka punya uang.
+
+### Harga Naik
+
+Penjual akan menaikkan harga karena stok barang menipis sedangkan peminatnya sangat banyak.
+
+### Nilai Mata Uang Jatuh
+
+Uang yang banyak tersebut akhirnya kehilangan daya belinya (inflasi jenis Demand-Pull Inflation).
+
+## Contoh Nyata dalam Sejarah
+
+### 1. Jerman (1923)
+
+Negara mencetak uang massal untuk bayar utang perang, membuat uang kertas tidak berharga hingga dipakai mainan oleh anak-anak.
+
+### 2. Zimbabwe (2008)
+
+Inflasi ekstrem membuat negara mencetak uang kertas pecahan 100 triliun dolar Zimbabwe yang bahkan tidak cukup untuk membeli sepotong roti.
+
+### 3. Venezuela (1983)
+
+Pencetakan uang tanpa kendali membuat warga harus membawa sekarung uang hanya untuk membeli kebutuhan pokok sehari-hari.
+
+Kesimpulannya, kekayaan sebuah negara tidak diukur dari seberapa banyak uang fisik yang beredar, melainkan dari seberapa banyak barang, jasa, dan produktivitas yang mampu dihasilkan oleh negara tersebut.
+
 ## Q: Uang yang beredar di sebuah negara adalah hasil hutang pemerintah dan masyarakat.
 
 ## A: Ya, sebagian besar uang yang beredar di suatu negara tercipta melalui mekanisme utang, baik oleh pemerintah maupun masyarakat (sektor swasta). Dalam sistem keuangan modern yang menggunakan fiat money dan sistem perbankan cadangan fraksional (fractional reserve banking), uang baru tidak lagi dicetak berdasarkan cadangan emas, melainkan diciptakan melalui penerbitan kredit atau pinjaman. Berikut adalah penjelasan mekanismenya secara terstruktur:
