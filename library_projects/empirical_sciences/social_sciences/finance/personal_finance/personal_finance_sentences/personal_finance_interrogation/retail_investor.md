@@ -1,4 +1,4 @@
-# INVESTOR
+# RETAIL INVESTOR
 
 ## Q: Tugas investor adalah menganalisa masa depan bukan masa kini.
 

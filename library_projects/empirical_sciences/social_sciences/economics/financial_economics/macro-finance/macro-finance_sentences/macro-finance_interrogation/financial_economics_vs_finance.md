@@ -1,8 +1,12 @@
 # FINANCIAL ECONOMICS VS FINANCE
 
+## Q: Financial economics adalah ilmu yang mempelajari keuangan dengan pendekatan ekonomi.
+
+## A: Ya, definisi itu pada dasarnya benar. Financial Economics adalah cabang dari Economics yang menerapkan teori dan metode ekonomi untuk memahami bagaimana individu, perusahaan, dan pasar membuat keputusan keuangan.
+
 ## Q: Financial economics lebih ke analisa sedangkan finance lebih ke mengelola.
 
-## A: Tepat sekali. Kesimpulan Anda sangat akurat dan menyentuh inti perbedaan fundamental kedua bidang tersebut. Untuk merangkum perbedaan esensial tersebut ke dalam satu baris kalimat: Finance (Keuangan) adalah ilmu tentang bagaimana bertindak (mengelola, mengalokasikan, dan mengeksekusi). Financial Economics (Ekonomi Keuangan) adalah ilmu tentang bagaimana berpikir (menganalisis, memodelkan, dan menguji). Berikut adalah penajaman dari formula kesimpulan Anda:
+## A: Tepat sekali. Kesimpulan Anda sangat akurat dan menyentuh inti perbedaan fundamental kedua bidang tersebut. Untuk merangkum perbedaan esensial tersebut ke dalam satu baris kalimat. Finance (Keuangan) adalah ilmu tentang bagaimana bertindak (mengelola, mengalokasikan, dan mengeksekusi). Financial Economics (Ekonomi Keuangan) adalah ilmu tentang bagaimana berpikir (menganalisis, memodelkan, dan menguji). Berikut adalah penajaman dari formula kesimpulan Anda:
 
 ## Financial Economics = Ilmu Menganalisis
 
