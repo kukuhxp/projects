@@ -1,6 +1,6 @@
-# SHIRT
+# SHIRT PRODUCTION
 
-## Q: Kenapa di koas ada bagian logo yang tempelan dan bukannya menyatu dengan kaos?
+## Q: Kenapa di kaos ada bagian logo yang tempelan dan bukannya menyatu dengan kaos?
 
 ## A: Bagian logo yang terasa seperti "tempelan" pada kaos terjadi karena metode cetak yang digunakan berada di atas permukaan kain, bukan mewarnai serat benangnya secara langsung. Teknik penempelan ini sengaja dipilih oleh produsen pakaian karena beberapa alasan teknis, estetika, dan efisiensi produksi berikut:
 
