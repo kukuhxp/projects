@@ -1,4 +1,4 @@
-# FINANCIAL SYSTEMS
+# GLOBAL FINANCIAL SYSTEMS
 
 ## Q: Siapa penerima pertama dari uang yang dicetak oleh bank sentral?
 

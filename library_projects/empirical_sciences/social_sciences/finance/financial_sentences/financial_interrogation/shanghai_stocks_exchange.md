@@ -1,5 +1,4 @@
-# CHINESE FINANCIAL ECONOMICS
-
+# SHANGHAI STOCKS EXCHANGE (SSE)
 ## Q: Bursa saham cina stagnan bertahun-tahun.
 
 ## A: Stagnasi bursa saham Cina selama bertahun-tahun (terlihat pada indeks Shanghai Composite yang bergerak mendatar lama) dipicu oleh krisis sektor properti, tekanan deflasi domestik, intervensi ketat regulasi pemerintah, serta peralihan struktur ekonomi dari berbasis utang/investasi masif ke konsumsi dan inovasi. Meskipun pertumbuhan ekonomi Cina sempat mencatat pemulihan berkala atau lonjakan akibat stimulus pemerintah, performa pasar sahamnya cenderung tertinggal dibanding bursa global seperti Amerika Serikat karena masalah struktural yang mendalam. Berikut adalah analisis mendalam mengenai faktor utama penyebab stagnasi tersebut:
