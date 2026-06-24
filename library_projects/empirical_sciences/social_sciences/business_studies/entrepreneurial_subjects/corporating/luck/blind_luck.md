@@ -1,3 +1,0 @@
-# LU
-
-# BLIND LUCK
