@@ -71,3 +71,25 @@ Sistem sosial tradisional Jepang masih membebankan urusan domestik sepenuhnya ke
 ### 3. Fenomena "Konkatsu" (Berburu Pernikahan)
 
 Karena selektifnya pencarian pasangan, industri kencan buta formal yang disebut Konkatsu (aktivitas berburu pernikahan) sangat populer di Jepang. Dalam acara Konkatsu, wanita Jepang akan secara blak-blakan menyaring pria berdasarkan slip gaji terbaru, status kepegawaian (karyawan tetap atau bukan), serta kerelaan pria untuk ikut mengasuh anak. Jika seorang pria tidak lolos verifikasi finansial dasar ini, ia akan langsung dieliminasi.
+
+## Q: Amerika menyelamatkan Yen Jepang yang sedang melemah saat ini (2026), tapi bukankah saat Yen menguat pasca plaza accord malah merugikan Jepang?
+
+## A: Ya, dan justru di situlah letak paradoksnya. Amerika Serikat tidak menginginkan yen yang terlalu lemah, tetapi juga tidak menginginkan yen yang terlalu kuat. Yang diinginkan adalah nilai tukar yang relatif stabil dan sesuai dengan kondisi ekonomi.
+
+### 1985 – Plaza Accord
+
+Saat itu dolar AS sangat kuat sehingga ekspor Amerika kalah bersaing dengan Jepang dan Jerman. Melalui kesepakatan Plaza Accord, Amerika dan negara-negara lain mendorong dolar melemah sehingga yen menguat. Akibatnya, ekspor Jepang terpukul karena produknya menjadi lebih mahal di pasar internasional. Dampaknya bagi Jepang, untuk mengimbangi perlambatan ekonomi akibat yen yang menguat, bank sentral Jepang menurunkan suku bunga. Kredit menjadi murah, sehingga muncul gelembung harga saham dan properti. Ketika gelembung itu pecah pada awal 1990-an, Jepang memasuki periode panjang pertumbuhan rendah yang sering disebut "Lost Decades."
+
+### Situasi Sekarang (2026)
+
+Yen yang terlalu lemah juga menimbulkan masalah. Jepang mengimpor banyak energi, pangan, dan bahan baku. Ketika yen melemah tajam, biaya impor melonjak sehingga inflasi meningkat dan daya beli masyarakat menurun. Karena itu, Amerika dan negara-negara lain dapat mendukung stabilisasi yen agar pelemahannya tidak terlalu ekstrem.
+
+Jadi, Amerika bukan sedang "menyelamatkan Jepang" dalam arti ingin membuat yen sekuat mungkin. Yang lebih tepat adalah menjaga agar pasar valuta asing tetap stabil. Yen yang terlalu kuat maupun terlalu lemah sama-sama dapat menimbulkan masalah, baik bagi Jepang maupun bagi ekonomi global.
+
+Singkatnya:
+
+Yen terlalu kuat → ekspor Jepang melemah, seperti setelah Plaza Accord.
+
+Yen terlalu lemah → impor Jepang menjadi mahal, inflasi naik, dan stabilitas pasar keuangan dapat terganggu.
+
+Dengan kata lain, tujuan utamanya bukan mengejar yen kuat atau yen lemah, melainkan menghindari pergerakan nilai tukar yang ekstrem.
