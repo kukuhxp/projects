@@ -88,7 +88,7 @@ _"Tanpa inovasi, jumlah barang yang diproduksi (kekayaan riil) suatu negara just
 
 Oleh karena itu, fokus ekonomi modern saat ini bukan membuat semua orang memiliki kekayaan yang sama rata, melainkan memastikan adanya kesamaan kesempatan (equity of opportunity) dan batas bawah yang layak (jaring pengaman sosial) agar orang yang miskin tetap bisa hidup manusiawi dan memiliki akses untuk naik kelas.
 
-## Q: Seharusnya orang terkaya saat ini adalah Thoma Alfa Edison
+## Q: Seharusnya orang terkaya saat ini adalah Thomas Alfa Edison
 
 ## A: Pikiran Anda sangat logis: sebagai penemu lampu pijar komersial, sistem tenaga listrik, hingga fonograf yang mengubah peradaban, Thomas Alva Edison secara teori memegang pondasi industri modern yang nilainya triliunan dolar. Namun, dalam kenyataan sejarah ekonomi, ia bukanlah orang terkaya di dunia, bahkan saat ia masih hidup. Ketika ia meninggal pada tahun 1931, kekayaannya "hanya" berkisar di angka 12 juta dolar AS (setara sekitar 170 juta dolar AS jika disesuaikan dengan inflasi saat ini). Angka ini jauh di bawah miliarder zaman sekarang seperti Elon Musk atau Jeff Bezos. Mengapa pencipta teknologi sepenting lampu listrik tidak menjadi orang terkaya? Berikut adalah 4 alasan utamanya:
 
@@ -149,3 +149,35 @@ Contoh Nyata:
 Tokoh seperti Warren Buffett atau Bill Gates berkomitmen mendonasikan sebagian besar kekayaan mereka (lewat gerakan The Giving Pledge) untuk kesehatan, pendidikan, dan pengentasan kemiskinan di dunia. Mereka sadar uang tersebut harus berputar kembali ke masyarakat yang telah membesarkan bisnis mereka.
 
 Kesimpulannya, kekayaan di dalam sistem ekonomi modern hanyalah sebuah aliran. Orang kaya yang bijaksana akan memandang konsumen bukan sebagai objek untuk dikuras uangnya, melainkan sebagai mitra utama yang harus dihormati dan dilayani dengan baik.
+
+## Q: Kenapa uang selalu lari ke orang yang salah, bukan ke orang yang membutuhkan? Kenapa Tuhan hanya diam dan membiarkan hal ini terjadi?
+
+## A: Pertanyaan yang Anda ajukan sangat mendalam dan mencerminkan kegelisahan emosional serta ketidakadilan yang sering kita lihat di dunia nyata. Distribusi kekayaan di dunia memang tidak merata, dan secara kasat mata sering kali terlihat tidak adil karena faktor sistem ekonomi, hak istimewa (privilege), serta struktur sosial yang ada, bukan berdasarkan tingkat kebutuhan atau kebaikan moral seseorang. Terkait mengapa Tuhan terkesan "diam", berbagai perspektif iman dan filsafat memiliki sudut pandang tersendiri untuk menjelaskan teodisi (keadilan Tuhan di tengah penderitaan) ini.
+
+### 1. Perspektif Hukum Alam dan Sistem Manusia
+
+Secara objektif, uang dan kekayaan berputar mengikuti hukum ekonomi buatan manusia, bukan hukum keadilan moral.
+
+#### 1.1. Akumulasi Kapital
+
+Uang cenderung menghasilkan uang. Orang yang sudah memiliki modal besar (atau lahir di keluarga kaya) memiliki akses lebih mudah untuk melipatgandakannya melalui investasi dan bisnis.
+
+#### 1.2. Akses dan Peluang
+
+Orang yang membutuhkan sering kali terjebak dalam lingkaran kemiskinan karena kurangnya akses ke pendidikan berkualitas, jaringan, atau modal awal, bukan karena mereka tidak bekerja keras.
+
+### 2. Perspektif Ujian dan Peran Manusia
+
+Banyak ajaran agama dan spiritual melihat bahwa dunia ini bukanlah tempat keadilan mutlak, melainkan tempat ujian.
+
+#### 2.1. Ujian Kekayaan dan Kemiskinan
+
+Kekayaan dianggap sebagai ujian tanggung jawab (apakah pemiliknya akan menjadi serakah atau berbagi), sementara kemiskinan adalah ujian kesabaran dan keteguhan hati.
+
+#### 2.2. Tanggung Jawab Manusia
+
+Diamnya Tuhan sering kali diartikan sebagai pemberian kehendak bebas (free will) kepada manusia. Tuhan memberikan instruksi (melalui ajaran agama/moral) agar si kaya membantu si miskin. Ketimpangan terjadi karena manusia yang diberi kelimpahan sering kali gagal menjalankan tanggung jawab sosial tersebut.
+
+### 3. Perspektif Keadilan yang Tertunda
+
+Bagi banyak orang, kedamaian atas ketidakadilan ini ditemukan dalam keyakinan akan adanya kehidupan setelah kematian atau balasan kosmik (seperti karma). Dipercaya bahwa setiap perbuatan, sekecil apa pun, akan mendapatkan perhitungan yang adil di akhirat, di mana kekayaan materi duniawi tidak lagi memiliki nilai. Wajar sekali jika Anda merasa marah atau kecewa melihat ketimpangan ini. Rasa ketidakadilan ini menunjukkan bahwa Anda memiliki empati yang besar terhadap mereka yang sedang kesulitan.
