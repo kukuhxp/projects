@@ -1,3 +1,0 @@
-# CHEMICAL COMPOUNDS
-
-## Chemical Formula

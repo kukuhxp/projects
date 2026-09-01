@@ -1,1 +1,0 @@
-# POINT OF SALE
