@@ -10,13 +10,13 @@ Compaq membeli Zip2 senilai $307 juta tunai dengan tujuan untuk memperkuat AltaV
 
 ### 2. Hantaman Ledakan Gelembung Dot-com (2000)
 
-Hanya setahun setelah membeli Zip2, badai krisis ekonomi Dot-com crash melanda dunia teknologi. Nilai investasi Compaq di perusahaan-perusahaan internet (termasuk aset dari Zip2 dan AltaVista) langsung menguap drastis. Compaq menderita kerugian finansial yang amat besar dari sektor digital ini.
+Hanya setahun setelah membeli Zip2, badai krisis ekonomi Dot-com crash melanda dunia teknologi. Nilai investasi Compaq di perusahaan-perusahaan internet langsung menguap drastis. Compaq menderita kerugian finansial yang amat besar dari sektor digital ini.
 
 ### 3. Diakuisisi dan Dilenyapkan oleh HP (2002)
 
-Karena kondisi keuangan dan arah bisnis yang kacau akibat salah urus pasca-akuisisi, raksasa komputer Hewlett-Packard (HP) akhirnya mencaplok Compaq pada tahun 2002 senilai $25 miliar. Penggabungan ini dicatat sebagai salah satu merger paling gagal dalam sejarah teknologi karena tidak membawa keuntungan linier bagi kedua perusahaan. HP secara perlahan mematikan lini produk Compaq. Merek "Compaq" sempat dipertahankan untuk laptop kelas bawah sebelum akhirnya dihapus sepenuhnya oleh HP pada tahun 2013.
+Karena kondisi keuangan dan arah bisnis yang kacau akibat salah urus pasca-akuisisi, raksasa komputer Hewlett-Packard (HP) akhirnya mencaplok Compaq pada tahun 2002 senilai $25 miliar. Penggabungan ini dicatat sebagai salah satu merger paling gagal dalam sejarah teknologi karena tidak membawa keuntungan linier bagi kedua perusahaan. HP secara perlahan mematikan lini produk Compaq. Merek Compaq sempat dipertahankan untuk laptop kelas bawah sebelum akhirnya dihapus sepenuhnya oleh HP pada tahun 2013.
 
-## Kesimpulan
+### Kesimpulan
 
 Saat Elon Musk menikmati uang tunai $22 juta hasil penjualan Zip2 untuk membangun PayPal dan SpaceX, Compaq justru memegang produk yang salah. Bagi Compaq, pembelian Zip2 dan AltaVista adalah salah satu langkah awal yang menyeret mereka ke dalam lubang kebangkrutan.
 
@@ -52,7 +52,7 @@ Dalam sejarah teknologi, akuisisi Zip2 oleh Compaq sering dijadikan contoh klasi
 
 ## Q: Apakah ini bisa disebut zero-sum game?
 
-## A: Ya, secara praktis dalam konteks hasil akhir (outcome), transaksi ini bisa disebut sebagai zero-sum game. Dalam teori permainan (game theory), zero-sum game adalah situasi di mana keuntungan satu pihak (Elon Musk) setara dengan kerugian pihak lain (Compaq). Jumlah total keuntungan dan kerugian jika dijumlahkan adalah nol. Berikut adalah alasan mengapa kasus ini memenuhi karakteristik tersebut, meskipun ada sedikit nuansa bisnis di dalamnya:
+## A: Ya, secara praktis dalam konteks hasil akhir, transaksi ini bisa disebut sebagai zero-sum game. Dalam teori permainan (game theory), zero-sum game adalah situasi di mana keuntungan satu pihak (Elon Musk) setara dengan kerugian pihak lain (Compaq). Jumlah total keuntungan dan kerugian jika dijumlahkan adalah nol. Berikut adalah alasan mengapa kasus ini memenuhi karakteristik tersebut, meskipun ada sedikit nuansa bisnis di dalamnya:
 
 ### 1. Perpindahan Nilai yang Mutlak (Transfer of Value)
 
@@ -62,8 +62,8 @@ Uang tunai sebesar $307 juta berpindah secara mutlak dari neraca keuangan Compaq
 
 Jika setelah dibeli Zip2 berkembang pesat dan menghasilkan keuntungan miliaran dolar bagi Compaq, maka itu disebut positive-sum game (semua pihak menang). Namun, karena Zip2 langsung melempem dan dimatikan pasca-akuisisi, tidak ada nilai ekonomi baru yang tercipta untuk Compaq dari transaksi tersebut. Uang Compaq menguap begitu saja menjadi kekayaan Elon Musk.
 
-## Nuansa Bisnis: Ekspektasi Awal Bukan Zero-Sum
+## Ekspektasi Awal Bukan Zero-Sum
 
-Penting untuk dicatat bahwa saat kontrak ditandatangani, kedua pihak mengira mereka sedang bermain positive-sum game. Elon Musk mendapatkan modal untuk proyek berikutnya dan Compaq mengira mereka membeli "senjata rahasia" untuk mengalahkan Yahoo dan Google demi menguasai internet masa depan.
+Penting untuk dicatat bahwa saat kontrak ditandatangani, kedua pihak mengira mereka sedang bermain positive-sum game. Elon Musk mendapatkan modal untuk proyek berikutnya dan Compaq mengira mereka membeli senjata rahasia untuk mengalahkan Yahoo dan Google demi menguasai internet masa depan.
 
 Namun, karena prediksi Compaq salah total akibat manajemen yang buruk dan hantaman badai ekonomi Dot-Com Crash, investasi mereka menjadi abu. Hasil akhirnya secara retrospektif bergeser menjadi zero-sum game yang brutal: Musk membawa pulang uangnya, Compaq membawa pulang kebangkrutannya.

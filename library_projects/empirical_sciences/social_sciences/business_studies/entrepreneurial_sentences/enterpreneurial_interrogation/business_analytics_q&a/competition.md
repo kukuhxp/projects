@@ -2,35 +2,29 @@
 
 ## Q: Bisnis adalah perang.
 
-## A: Ungkapan itu sangat populer karena dunia bisnis memang memiliki elemen yang mirip dengan medan tempur, persaingan memperebutkan wilayah (pangsa pasar), perebutan sumber daya, dan strategi untuk mengalahkan lawan. Jika kita melihat bisnis sebagai "perang", maka ada beberapa prinsip dari ahli strategi perang (seperti Sun Tzu dalam The Art of War) yang sangat relevan.
+## A: Ungkapan itu sangat populer karena dunia bisnis memang memiliki elemen yang mirip dengan medan tempur, persaingan memperebutkan pangsa pasar, perebutan sumber daya, dan strategi untuk mengalahkan lawan. Jika kita melihat bisnis sebagai perang, maka ada beberapa prinsip dari ahli strategi perang seperti Sun Tzu dalam The Art of War yang sangat relevan.
 
 ### 1. Intelijen Pemasaran (Kenali Lawan dan Dirimu)
 
-Dalam perang, informasi adalah segalanya. Dalam bisnis, Anda harus tahu persis siapa kompetitor Anda, apa kelemahan mereka, dan apa keunggulan unik yang Anda miliki. Jika Anda tidak tahu kekuatan lawan, Anda akan "hancur" di pasar.
+Dalam perang, informasi adalah segalanya. Dalam bisnis, Anda harus tahu persis siapa kompetitor Anda, apa kelemahan mereka, dan apa keunggulan unik yang Anda miliki. Jika Anda tidak tahu kekuatan lawan, Anda akan hancur di pasar.
 
 ### 2. Perebutan Pangsa Pasar (Market Share)
 
-Sama seperti memperebutkan wilayah kekuasaan, pebisnis bertarung untuk mendapatkan loyalitas konsumen. Jika konsumen memilih produk lawan, berarti Anda kehilangan "wilayah" pendapatan.
+Sama seperti memperebutkan wilayah kekuasaan, pebisnis bertarung untuk mendapatkan loyalitas konsumen. Jika konsumen memilih produk lawan, berarti Anda kehilangan wilayah pendapatan.
 
 ### 3. Strategi dan Taktik
 
 Bisnis bukan hanya soal kerja keras, tapi soal posisi.
 
-#### 3a.Serangan Langsung
+* Serangan langsung: Perang harga atau diskon besar-besaran.
 
-Perang harga (diskon besar-besaran).
+* Gerilya: Masuk ke celah pasar kecil (niche) yang tidak dilirik pemain besar.
 
-#### 3b. Gerilya
-
-Masuk ke celah pasar kecil (niche) yang tidak dilirik pemain besar.
-
-#### 3c. Aliansi
-
-Melakukan kolaborasi atau merger untuk memperkuat posisi.
+* Aliansi: Melakukan kolaborasi atau merger untuk memperkuat posisi.
 
 ### 4. Logistik dan Ketahanan
 
-Perang sering kali dimenangkan oleh pihak yang memiliki logistik paling kuat. Dalam bisnis, ini adalah arus kas (cash flow). Sehebat apa pun produknya, jika uang habis sebelum menang di pasar, bisnis akan "gugur".
+Perang sering kali dimenangkan oleh pihak yang memiliki logistik paling kuat. Dalam bisnis, ini adalah arus kas (cash flow). Sehebat apa pun produknya, jika uang habis sebelum menang di pasar, bisnis akan gugur.
 
 Namun, ada satu perbedaan mendasar. Dalam perang fisik, satu pihak harus hancur agar yang lain menang (zero-sum game). Dalam bisnis, terkadang ada ruang untuk kolaborasi atau menciptakan pasar baru di mana semua pihak bisa untung (win-win solution).
 

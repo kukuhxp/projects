@@ -4,7 +4,7 @@
 
 ## A: Manusia mengetahui kelapa sawit bisa menjadi minyak goreng melalui sejarah panjang yang dimulai dari tradisi masyarakat Afrika Barat ribuan tahun yang lalu. Berikut adalah tahapan awal bagaimana manusia menyadari potensi sawit sebagai minyak goreng:
 
-### 1. Bukti Arkeologi (5.000 Tahun Lalu)
+### 1. Bukti Arkeologi
 
 Para arkeolog menemukan sisa-sisa zat yang diidentifikasi sebagai minyak sawit di sebuah kuburan kuno di Abydos, Mesir, yang berasal dari tahun 3.000 SM. Penemuan ini membuktikan bahwa minyak sawit sudah menjadi komoditas berharga sejak zaman purba, kemungkinan dibawa oleh pedagang Arab dari Afrika Barat ke Mesir untuk keperluan konsumsi.
 
@@ -16,12 +16,12 @@ Kelapa sawit (Elaeis guineensis) adalah tanaman asli Afrika Barat. Selama mileni
 
 Merebus buah sawit untuk melunakkan daging buahnya.
 
-#### 2.2 Pemerasan
+#### 2.2. Pemerasan
 
 Menumbuk dan memeras buah tersebut menggunakan tangan atau alat sederhana untuk mengeluarkan minyak merahnya. Minyak merah ini digunakan secara luas untuk memasak, obat-obatan, hingga bahan upacara adat.
 
 
-### 3. Pengenalan oleh Pedagang Eropa (Abad ke-15 - 19)
+### 3. Pengenalan oleh Pedagang Eropa
 
 Ketika pedagang Eropa mulai menjelajahi pesisir Afrika pada abad ke-15, mereka mengamati penggunaan minyak sawit oleh penduduk lokal sebagai bahan makanan. Di Eropa pada masa Revolusi Industri (abad ke-19), minyak sawit awalnya lebih populer digunakan sebagai pelumas mesin dan bahan pembuat sabun atau lilin. Seiring kemajuan teknologi, para ilmuwan menemukan proses pemurnian (refining) dan fraksinasi (pemisahan bagian padat dan cair). Teknologi ini memungkinkan minyak sawit mentah yang merah dan kental diolah menjadi minyak goreng kuning jernih yang stabil pada suhu tinggi.
 

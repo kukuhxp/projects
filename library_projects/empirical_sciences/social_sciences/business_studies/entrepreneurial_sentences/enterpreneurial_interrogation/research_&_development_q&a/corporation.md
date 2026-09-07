@@ -10,9 +10,9 @@ Korporasi umumnya memiliki struktur organisasi berbentuk piramida. Semakin tingg
 
 ### 2. Standarisasi vs. Kreativitas Radikal
 
-Korporasi mengandalkan sistem, prosedur operasi standar (SOP), dan prediktabilitas untuk menjaga skala bisnis. Orang yang "sangat hebat" sering kali memiliki cara berpikir yang mendisrupsi atau terlalu progresif, yang terkadang sulit diselaraskan dengan kekakuan birokrasi perusahaan besar.
+Korporasi mengandalkan sistem, prosedur operasi standar (SOP), dan prediktabilitas untuk menjaga skala bisnis. Orang yang sangat hebat sering kali memiliki cara berpikir yang mendisrupsi atau terlalu progresif, yang terkadang sulit diselaraskan dengan kekakuan birokrasi perusahaan besar.
 
-### 3. Fenomena "Outlier" dan Kewirausahaan
+### 3. Fenomena Outlier dan Kewirausahaan
 
 Banyak orang hebat adalah outlier yang memiliki visi untuk membangun sesuatu dari nol. Lingkungan korporasi yang fokus pada optimasi bisnis yang sudah ada sering kali terasa mengekang bagi mereka. Inilah sebabnya banyak talenta terbaik akhirnya keluar untuk mendirikan startup atau menjadi konsultan independen.
 
@@ -22,7 +22,7 @@ Terkadang, kesuksesan di korporasi tidak hanya ditentukan oleh kehebatan teknis,
 
 ### 5. Efisiensi vs. Eksplorasi
 
-Korporasi harus efisien untuk menghasilkan profit bagi pemegang saham. Menampung terlalu banyak orang hebat dengan gaji tinggi tanpa adanya peran strategis yang sepadan akan membebani pengeluaran perusahaan. Perusahaan cenderung mencari "orang yang tepat untuk pekerjaan tersebut" daripada sekadar mengumpulkan orang hebat tanpa tujuan yang spesifik.
+Korporasi harus efisien untuk menghasilkan profit bagi pemegang saham. Menampung terlalu banyak orang hebat dengan gaji tinggi tanpa adanya peran strategis yang sepadan akan membebani pengeluaran perusahaan. Perusahaan cenderung mencari orang yang tepat untuk pekerjaan tersebut daripada sekadar mengumpulkan orang hebat tanpa tujuan yang spesifik.
 
 Kesimpulan:
 

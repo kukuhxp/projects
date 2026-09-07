@@ -115,7 +115,7 @@ Pengalaman pahit hampir kehabisan uang dan menghadapi kebangkrutan berulang kali
 
 ### 1. Kontrak Besar untuk Konsol Baru
 
-Pada pertengahan tahun 1990-an, Sega adalah raksasa industri game yang sedang merencanakan konsol masa depan (yang nantinya menjadi Sega Dreamcast). Sega memberikan kontrak senilai $5 juta kepada Nvidia—yang saat itu masih berupa perusahaan rintisan (startup) kecil—untuk mengembangkan chip grafis bernama NV2. Bagi Nvidia, uang ini adalah penyambung hidup utama mereka.
+Pada pertengahan tahun 1990-an, Sega adalah raksasa industri game yang sedang merencanakan konsol masa depan (yang nantinya menjadi Sega Dreamcast). Sega memberikan kontrak senilai $5 juta kepada Nvidia yang saat itu masih berupa perusahaan rintisan (startup) kecil untuk mengembangkan chip grafis bernama NV2. Bagi Nvidia, uang ini adalah penyambung hidup utama mereka.
 
 ### 2. Kesalahan Fatal Teknologi Nvidia
 
@@ -139,7 +139,7 @@ Mendengar kejujuran luar biasa dari pemuda berusia 33 tahun tersebut, Shoichiro 
 
 Uang $5 juta dari Sega tersebut memberi Nvidia napas tambahan selama sekitar 6 bulan. Waktu berharga ini digunakan Nvidia untuk membuang seluruh arsitektur lama mereka, beralih ke standar segitiga, dan menciptakan chip RIVA 128 yang sukses besar di pasaran. RIVA 128 menjadi fondasi utama kesuksesan Nvidia hingga melahirkan GPU pertama di dunia.
 
-## Nasib Saham Sega
+### Nasib Saham Sega
 
 Sega akhirnya menjual seluruh kepemilikan saham mereka di Nvidia beberapa saat setelah Nvidia meluncur di bursa saham (IPO) pada tahun 1999 dengan keuntungan $15 juta (untung 3 kali lipat). Dalam wawancaranya baru-baru ini, Jensen Huang berguyon bahwa jika Sega menahan saham $5 juta pemberian mereka tersebut dan tidak menjualnya, nilai saham tersebut saat ini sudah menembus $1 triliun ($1,000 miliar).
 
@@ -147,22 +147,22 @@ Sega akhirnya menjual seluruh kepemilikan saham mereka di Nvidia beberapa saat s
 
 ## A: Hubungan Jensen Huang dan Shoichiro Irimajiri saat ini adalah sebagai teman lama yang saling menghormati, setelah sempat kehilangan kontak selama 20 tahun. Meskipun Irimajiri (kini berusia 86 tahun) sudah lama pensiun dari Sega dan menjalankan bisnis konsultasi pribadi di Tokyo, keduanya terhubung kembali berkat pertumbuhan industri AI. Berikut adalah detail hubungan mereka saat ini:
 
-## Sempat Kehilangan Kontak Selama 20 Tahun
+### Sempat Kehilangan Kontak Selama 20 Tahun
 
-Setelah Sega menjual seluruh saham Nvidia pada tahun 1999, hubungan bisnis keduanya berakhir. Karena kesibukan masing-masing—Irimajiri keluar dari Sega dan Huang fokus membesarkan Nvidia—mereka benar-benar putus kontak selama dua dekade.
+Setelah Sega menjual seluruh saham Nvidia pada tahun 1999, hubungan bisnis keduanya berakhir. Karena kesibukan masing-masing, Irimajiri keluar dari Sega dan Huang fokus membesarkan Nvidia, mereka benar-benar putus kontak selama dua dekade.
 
-## Terhubung Kembali Lewat Email "Teman Lama" pada Tahun 2017
+### Terhubung Kembali Lewat Email Teman Lama pada Tahun 2017
 
 Pada tahun 2017, Irimajiri diminta untuk mengatur sebuah seminar tentang kecerdasan buatan (Artificial Intelligence) di Jepang. Saat mencari materi, ia menyadari bahwa perusahaan milik pemuda yang dulu ia selamatkan (Nvidia) telah menjadi motor penggerak utama teknologi AI dunia.
 
 ### Email dari Irimajiri
 
-Irimajiri berusaha mencari alamat email pribadi Huang dan mengirimkan sebuah pesan singkat dalam bahasa Inggris dengan subjek "From old friend" (Dari teman lama).
+Irimajiri berusaha mencari alamat email pribadi Huang dan mengirimkan sebuah pesan singkat dalam bahasa Inggris dengan subjek From old friend.
 
-### Isi Pesan
+Isi Pesan:
 
-"Hai Jensen-san, ini Shoichiro Irimajiri, salah satu rekan bismismu di tahun 1990-an. Kamu mungkin ingat saat kita berjuang bersama mengembangkan chip grafis untuk Sega Dreamcast. Itu adalah salah satu kenangan paling bahagia dalam hidupku."
+_"Hai Jensen-san, ini Shoichiro Irimajiri, salah satu rekan bismismu di tahun 1990-an. Kamu mungkin ingat saat kita berjuang bersama mengembangkan chip grafis untuk Sega Dreamcast. Itu adalah salah satu kenangan paling bahagia dalam hidupku."_
 
-## Jensen Huang Terus Menghormatinya sebagai "Pahlawan"
+### Jensen Huang Terus Menghormatinya sebagai Pahlawan
 
-Jensen Huang menyambut hangat kembalinya sang penyelamat ke dalam hidupnya. Hingga saat ini, di berbagai wawancara besar (seperti di podcast Joe Rogan maupun acara dokumenter Computer History Museum), Huang tidak pernah absen menyebut nama "Irimajiri-san" dengan penuh rasa hormat. Bagi Huang, Irimajiri bukan sekadar mantan rekan bisnis, melainkan simbol kejujuran, integritas, dan kebaikan hati yang membuat Nvidia bisa bernilai triliunan dolar seperti sekarang.
+Jensen Huang menyambut hangat kembalinya sang penyelamat ke dalam hidupnya. Hingga saat ini, di berbagai wawancara besar (seperti di podcast Joe Rogan maupun acara dokumenter Computer History Museum), Huang tidak pernah absen menyebut nama Irimajiri-san dengan penuh rasa hormat. Bagi Huang, Irimajiri bukan sekadar mantan rekan bisnis, melainkan simbol kejujuran, integritas, dan kebaikan hati yang membuat Nvidia bisa bernilai triliunan dolar seperti sekarang.
