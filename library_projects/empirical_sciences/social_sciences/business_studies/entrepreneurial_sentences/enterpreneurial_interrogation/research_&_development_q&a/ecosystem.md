@@ -1,4 +1,4 @@
-# ECOSYSTEM & DEPENDENCY
+# ECOSYSTEM
 
 ## Q: Bisnis yang kuat adalah bisnis yang menciptakan ekosistem dan ketergantungan.
 

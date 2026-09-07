@@ -1,6 +1,6 @@
-# BE BILLIONAIRE
+# BILLIONAIRE
 
-## Q: Awal kekayaannya karena menjual perusahaan.
+## Q: Awal kekayaan Elon Musk adalah menjual perusahaan.
 
 ## A: Ya, itu 100% benar. Awal mula atau fondasi kekayaan Elon Musk memang berasal dari hasil menjual perusahaan. Tanpa uang tunai dari penjualan perusahaan-perusahaan pertamanya, ia tidak akan pernah memiliki modal untuk membangun SpaceX maupun Tesla. Berikut adalah dua momen penjualan perusahaan yang menjadi penentu awal kekayaannya:
 
@@ -18,19 +18,19 @@ Strategi finansial Elon Musk bisa diringkas menjadi dua tahap berikut:
 
 ### 1. Masa Lalu (Cari Modal)
 
-Membuat perusahaan → Membesarkannya → Menjualnya untuk mendapatkan tumpukan uang tunai (Zip2 dan PayPal).
+> Membuat perusahaan → Membesarkannya → Menjualnya untuk mendapatkan tumpukan uang tunai (Zip2 dan PayPal).
 
 ### 2. Masa Kini (Timbun Saham)
 
-Menggunakan uang tunai tersebut sebagai modal nekat → Membangun perusahaan baru (SpaceX & Tesla) → Menolak menjualnya agar nilai kekayaannya terus berlipat ganda lewat kepemilikan saham.
+> Menggunakan uang tunai tersebut sebagai modal nekat → Membangun perusahaan baru (SpaceX & Tesla) → Menolak menjualnya agar nilai kekayaannya terus berlipat ganda lewat kepemilikan saham.
 
-Jadi, Anda sangat tepat. Menjual perusahaan adalah "pintu pembuka" yang memberikan Musk modal awal yang sangat masif.
+Jadi, Anda sangat tepat. Menjual perusahaan adalah pintu pembuka" yang memberikan Musk modal awal yang sangat masi.
 
 ## Q: Titik di mana Elon Musk mulai punya banyak uang.
 
 ## A: Ada empat titik balik utama dalam hidup Elon Musk di mana ia mulai memiliki uang dalam jumlah besar, beralih dari seorang imigran yang tidur di lantai kantor hingga menjadi salah satu manusia terkaya di dunia:
 
-### 1. Titik Multi-Jutawan (Tahun 1999)
+### 1. Titik Multi-jutawan (Tahun 1999)
 
 Elon Musk pertama kali memegang uang dalam jumlah besar pada usia 27 tahun ketika perusahaan pertamanya, Zip2 (sebuah platform direktori bisnis dan peta daring), dibeli oleh raksasa komputer Compaq senilai $307 juta.
 
@@ -54,7 +54,7 @@ Musk menerima $165 juta hingga $180 juta (sekitar Rp2,6 triliun – Rp2,8 triliu
 
 Uang inilah yang menjadi modal tunggal utama bagi Musk untuk mendirikan SpaceX secara mandiri pada tahun 2002 dan mendanai tahap awal pabrik mobil listrik Tesla pada tahun 2004.
 
-### 3. Titik Miliarder / "Three-Comma Club" (Tahun 2012)
+### 3. Titik Miliarder / Three-Comma Club (Tahun 2012)
 
 Meskipun sudah kaya raya sejak 2002, Musk baru resmi masuk ke dalam daftar Forbes Billionaires List (orang dengan kekayaan di atas $1 miliar) pada Maret 2012.
 

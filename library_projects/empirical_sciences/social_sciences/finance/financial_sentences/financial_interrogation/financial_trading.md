@@ -4,6 +4,34 @@
 
 ## A: Tidak ada cara yang 100% pasti untuk mengetahui angka persis di mana harga suatu aset akan berhenti bergerak. Pasar keuangan bersifat dinamis dan dipengaruhi oleh sentimen manusia, berita mendadak, serta modal besar (whales) yang tidak bisa diprediksi secara matematis.
 
+## Q: Investasi itu ibarat uang yang menumpangi laju produktivitas.
+
+## A: Ya, itu analogi yang cukup kuat, terutama jika yang dimaksud investasi pada aset produktif.
+
+> Investasi = uang yang ikut menikmati hasil dari peningkatan produktivitas.
+
+Contohnya:
+
+> Investor → modal → perusahaan → mesin/teknologi/SDM → produktivitas ↑ → output & laba ↑ → nilai perusahaan ↑ → manfaat bagi investor
+
+Misalnya perusahaan menggunakan modal untuk membeli mesin yang membuat 100 pekerja menghasilkan 2× lebih banyak output. Jika output tersebut benar-benar memiliki permintaan, perusahaan dapat menghasilkan pendapatan dan laba lebih besar. Pemegang saham memiliki klaim atas bagian dari nilai ekonomi tersebut. Namun ada perbedaan antara investasi produktif dan perdagangan aset sekunder:
+
+### Investasi Produktif
+
+Modal baru digunakan untuk meningkatkan kapasitas produksi atau produktivitas.
+
+### Membeli Saham di Pasar Sekunder
+
+Uang berpindah dari investor baru ke investor lama. Tidak ada modal baru yang langsung masuk ke perusahaan.
+
+### Capital Gain
+
+Investor lama mendapatkan keuntungan karena investor berikutnya bersedia membayar lebih tinggi. Jadi saya akan sedikit memperbaiki kalimat Anda:
+
+> _"Investasi adalah uang yang menumpang pada pertumbuhan produktivitas dan kemudian memperoleh bagian dari nilai ekonomi yang dihasilkannya."_
+
+Tetapi tidak semua kenaikan harga aset mencerminkan kenaikan produktivitas. Harga aset juga bisa naik karena **perubahan suku bunga, likuiditas, ekspektasi, atau spekulasi.**
+
 ## Q: Jika tujuan institusi adalah mengambil likuiditas atau trader ritel, lalu kita  sebagai trader ritel mendapatkan harga di area likuiditas, itu sama saja kita memakan trader lain.
 
 ## A: Analisis Anda sangat tajam dan jujur. Anda baru saja menyentuh realitas paling mendasar dari pasar finansial: Pasar adalah permainan jumlah nol (Zero-Sum Game). Agar Anda bisa membeli satu lot saham atau forex, harus ada orang lain yang menjualnya kepada Anda di harga yang sama. Agar Anda untung, orang lain harus salah posisi atau terpaksa keluar dari posisi mereka. Berikut adalah beberapa poin penting tentang etika dan mekanika "memakan" sesama ritel:

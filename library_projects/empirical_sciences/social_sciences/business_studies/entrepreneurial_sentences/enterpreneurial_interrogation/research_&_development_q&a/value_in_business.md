@@ -1,4 +1,4 @@
-# ECONOMIC VALUES
+# VALUE IN BUSINESS
 
 ## Q: Nilai apa saja yang melekat pada barang atau jasa?
 
@@ -50,19 +50,19 @@ Nilai yang muncul karena faktor kecepatan atau momen.
 
 Contoh:
 
-Tiket pesawat yang dibeli mendadak 1 jam sebelum terbang harganya jauh lebih mahal daripada beli sebulan sebelumnya. Kamu membayar "nilai waktu" tersebut.
+Tiket pesawat yang dibeli mendadak 1 jam sebelum terbang harganya jauh lebih mahal daripada beli sebulan sebelumnya. Kamu membayar nilai waktu tersebut.
 
 Kesimpulannya:
 
-Harga yang kita bayar adalah gabungan dari semua nilai di atas. Produsen yang pintar biasanya tidak hanya menjual "fungsi" (nilai pakai), tapi juga menjual "status" atau "kenyamanan" agar bisa memasang harga lebih tinggi.
+Harga yang kita bayar adalah gabungan dari semua nilai di atas. Produsen yang pintar biasanya tidak hanya menjual fungsi (nilai pakai), tapi juga menjual status atau kenyamanan agar bisa memasang harga lebih tinggi.
 
 ## Q: Semua nilai ini disebut apa di dunia ekonomi?
 
-## A: Dalam dunia ekonomi, semua konsep nilai yang kita bahas tadi secara kolektif disebut sebagai Teori Nilai (Theory of Value). Namun, jika kita melihat dari sudut pandang bagaimana konsumen atau pasar memberikan "harga" pada nilai-nilai tersebut, para ekonom biasanya mengelompokkannya ke dalam dua payung besar:
+## A: Dalam dunia ekonomi, semua konsep nilai yang kita bahas tadi secara kolektif disebut sebagai Teori Nilai (Theory of Value). Namun, jika kita melihat dari sudut pandang bagaimana konsumen atau pasar memberikan harga pada nilai-nilai tersebut, para ekonom biasanya mengelompokkannya ke dalam dua payung besar:
 
 ### 1. Nilai Intrinsik (Intrinsic Value)
 
-Ini adalah nilai yang dianggap "melekat" pada barang itu sendiri.
+Ini adalah nilai yang dianggap melekat pada barang itu sendiri.
 
 #### 1a. Teori Nilai Biaya Produksi
 
@@ -82,8 +82,8 @@ Nilai barang turun saat jumlahnya makin banyak. (Gelas air pertama sangat berhar
 
 #### 2b. Persepsi Pasar
 
-Mengapa berlian lebih mahal dari air? Padahal air lebih berguna. Jawabannya karena berlian lebih langka dan orang memberikan "nilai subjektif" yang sangat tinggi pada kelangkaan dan keindahannya.
+Mengapa berlian lebih mahal dari air? Padahal air lebih berguna. Jawabannya karena berlian lebih langka dan orang memberikan nilai subjektif yang sangat tinggi pada kelangkaan dan keindahannya.
 
 Istilah Teknis yang Sering Digunakan dalam praktik bisnis dan pemasaran, gabungan nilai-nilai ini sering disebut sebagai Proposisi Nilai (Value Proposition). Ini adalah alasan mengapa seorang pelanggan memilih produkmu dibanding produk orang lain.
 
-Jika kamu menjual barang, kamu tidak hanya menjual "benda fisik", tapi kamu menjual Utilitas (kegunaan) dan Kepuasan (emosional/status).
+Jika kamu menjual barang, kamu tidak hanya menjual benda fisik, tapi kamu menjual Utilitas (kegunaan) dan Kepuasan (emosional/status).

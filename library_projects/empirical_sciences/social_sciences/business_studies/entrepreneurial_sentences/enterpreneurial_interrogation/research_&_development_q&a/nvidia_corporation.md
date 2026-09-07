@@ -1,4 +1,4 @@
-# SEGA SAVE NVIDIA
+# NVIDIA CORPORATION
 
 ## Q: Jensen Huang pernah kehabisan uang?
 

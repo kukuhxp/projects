@@ -1,4 +1,4 @@
-# ZERO-SUM GAME
+# COMPAQ CORPORATION
 
 ## Q: Bagaimana nasib Compaq setelah membeli Zip2?
 

@@ -15,7 +15,7 @@
 
 Misalnya Anda sebenarnya bersedia membayar Rp500.000. Jangan langsung berkata:
 
-> “Rp500.000 boleh?”
+> _“Rp500.000 boleh?”_
 
 Mulailah sedikit lebih rendah, misalnya Rp400.000–Rp450.000, tergantung ruang negosiasinya.
 
@@ -23,11 +23,11 @@ Mulailah sedikit lebih rendah, misalnya Rp400.000–Rp450.000, tergantung ruang 
 
 Negosiasi lebih kuat jika ada dasar:
 
-> “Ada sedikit lecet dan saya perlu mengganti bagian ini. Kalau Rp450.000 saya ambil sekarang.”
+> _“Ada sedikit lecet dan saya perlu mengganti bagian ini. Kalau Rp450.000 saya ambil sekarang.”_
 
 Ini jauh lebih efektif daripada hanya:
 
-> “Kurang dong, Bang.”
+> _“Kurang dong, Bang.”_
 
 ### 4. Gunakan Kepastian Transaksi
 
@@ -35,7 +35,7 @@ Penjual biasanya menghargai pembeli yang serius dan cepat membayar.
 
 Contoh:
 
-> “Kalau Rp450.000, saya bayar sekarang dan langsung ambil.”
+> _“Kalau Rp450.000, saya bayar sekarang dan langsung ambil.”_
 
 Anda menukar harga dengan kepastian transaksi.
 
@@ -43,11 +43,11 @@ Anda menukar harga dengan kepastian transaksi.
 
 Jika harga penjual Rp500.000, Anda bisa mulai:
 
-> “Rp425.000 bagaimana?”
+>_“Rp425.000 bagaimana?”_
 
 Jika ditolak:
 
-> “Rp450.000 terakhir saya ambil sekarang.”
+> _“Rp450.000 terakhir saya ambil sekarang.”_
 
 Jangan menaikkan tawaran terlalu cepat.
 
@@ -55,13 +55,13 @@ Jangan menaikkan tawaran terlalu cepat.
 
 Setelah mengajukan harga, diam dan tunggu respons. Banyak pembeli justru melemahkan posisi sendiri karena terus berbicara:
 
-> “Rp450 ya… kalau nggak bisa Rp475… atau Rp480 deh…”
+> _“Rp450 ya… kalau nggak bisa Rp475… atau Rp480 deh…”_
 
 ### 7. Siapkan Alternatif
 
 Kekuatan negosiasi terbesar adalah kemampuan mengatakan:
 
-> “Kalau belum bisa di harga itu, tidak apa-apa. Saya cari yang lain dulu.”
+> _“Kalau belum bisa di harga itu, tidak apa-apa. Saya cari yang lain dulu.”_
 
 Contoh:
 
@@ -72,8 +72,9 @@ Contoh:
 - Batas maksimum: misalnya Rp475.000
 - Jika penjual tidak turun di bawah itu, tinggalkan transaksi.
 
-Pembeli yang jago nego biasanya punya tiga hal:
-
-Informasi + batas harga + alternatif.
+Pembeli yang jago nego biasanya punya tiga hal, yaitu:
+1. Informasi
+2. Batas harga
+3. Alternatif
 
 Tanpa tiga hal tersebut, negosiasi mudah berubah menjadi sekadar meminta diskon.

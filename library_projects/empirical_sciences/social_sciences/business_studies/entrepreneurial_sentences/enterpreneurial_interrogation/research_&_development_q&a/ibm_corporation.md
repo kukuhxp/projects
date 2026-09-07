@@ -1,4 +1,4 @@
-# CORPORATION
+# IBM CORPORATION
 
 ## Q: Kenapa IBM masih eksis, bukanlah produk mereka adalah komputer jadul?
 
