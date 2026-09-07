@@ -1,4 +1,4 @@
-# COMPAQ CORPORATION
+# ACQUISITION
 
 ## Q: Bagaimana nasib Compaq setelah membeli Zip2?
 

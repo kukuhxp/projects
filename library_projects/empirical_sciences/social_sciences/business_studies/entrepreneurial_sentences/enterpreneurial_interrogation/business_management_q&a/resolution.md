@@ -1,4 +1,4 @@
-# NVIDIA CORPORATION
+# RESOLUTION
 
 ## Q: Jensen Huang pernah kehabisan uang?
 

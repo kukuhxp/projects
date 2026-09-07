@@ -1,4 +1,4 @@
-# PROFIT
+# CALCULATION
 
 ## Q: Jika semua orang menargetkan profit margin tinggi, apakah akan berdampak ke ekonomi?
 

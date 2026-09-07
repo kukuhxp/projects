@@ -1,4 +1,4 @@
-# VALUE IN BUSINESS
+# VALUATION
 
 ## Q: Nilai apa saja yang melekat pada barang atau jasa?
 
@@ -87,3 +87,37 @@ Mengapa berlian lebih mahal dari air? Padahal air lebih berguna. Jawabannya kare
 Istilah Teknis yang Sering Digunakan dalam praktik bisnis dan pemasaran, gabungan nilai-nilai ini sering disebut sebagai Proposisi Nilai (Value Proposition). Ini adalah alasan mengapa seorang pelanggan memilih produkmu dibanding produk orang lain.
 
 Jika kamu menjual barang, kamu tidak hanya menjual benda fisik, tapi kamu menjual Utilitas (kegunaan) dan Kepuasan (emosional/status).
+
+## Q: Apakah adiksi termasuk ke nilai produk?
+
+## A: Secara teknis dalam strategi bisnis modern, adiksi (ketergantungan) sering dianggap sebagai bentuk ekstrem dari Nilai Pengalaman (Experience Utility) atau Nilai Psikologis, tetapi dengan catatan etika yang besar. Dalam kacamata bisnis yang murni mengejar profit, adiksi sering kali disamarkan sebagai nilai-nilai berikut:
+
+### 1. Nilai Kemudahan (Convenience)
+
+Bisnis yang menciptakan adiksi biasanya membuang semua hambatan. Ketika sebuah aplikasi atau produk sangat mudah digunakan sampai Anda melakukannya tanpa berpikir (refleks), itu dianggap memberikan nilai praktis.
+
+Contoh:
+
+Fitur infinite scroll di media sosial yang membuat orang terus melihat konten tanpa henti.
+
+### 2. Nilai Dopamin (Imbalan Instan)
+
+Produk yang adiktif memberikan hadiah cepat ke otak. Dalam bisnis, ini disebut nilai hiburan atau pemenuhan emosional yang intens.
+
+Contoh:
+
+Bunyi notifikasi atau animasi menang pada game yang membuat pengguna merasa puas dan ingin kembali lagi.
+
+### 3. Nilai Retensi (Loyalitas Ekstrem)
+
+Pebisnis melihat adiksi sebagai cara untuk mengunci pelanggan (lock-in effect). Jika pelanggan merasa tidak bisa hidup tanpa produk tersebut, maka nilai kelangsungan bisnis menjadi sangat tinggi karena biaya untuk pindah ke kompetitor terasa sangat berat bagi konsumen. Namun, ada perbedaan besar antara Nilai (Value) dan Manipulasi:
+
+#### 3.1. Nilai Sejati
+
+Membantu konsumen menyelesaikan masalah atau mencapai tujuan misalnya aplikasi belajar bahasa yang membuat Anda ketagihan belajar.
+
+#### 3.2. Manipulasi (Dark Patterns)
+
+Memanfaatkan kelemahan psikologis manusia hanya untuk menyerap waktu atau uang mereka tanpa memberikan manfaat nyata (misal: judi online).
+
+Dalam perang bisnis yang kita bahas tadi, menciptakan adiksi sering kali menjadi senjata paling mematikan untuk menguasai pasar, tetapi risikonya adalah hancurnya reputasi jika konsumen merasa dirugikan.

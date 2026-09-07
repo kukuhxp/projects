@@ -1,4 +1,4 @@
-# RESALE
+# BUSINESS STRATEGIES
 
 ## Q: Cara menjual barang dengan cepat.
 
