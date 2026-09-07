@@ -1,8 +1,8 @@
-# TRADE
+# DISTRIBUTION
 
 ## Q: Dalam perdagangan tidak semua  pihak diuntungkan, hal ini dikarenakan adanya lawan transaksi dan margin keuntungan. Jika pihak pembeli ingin untung diluar variabel harga, pembeli harus mendapatkan variabel nilai dari apa yang ia beli.
 
-## A: Betul sekali. Dalam kacamata ekonomi murni, perdagangan sering dilihat sebagai permainan di mana selisih harga menjadi penentu siapa yang mendapat "potongan kue" lebih besar. Ketika pembeli ingin merasa "untung" tanpa mengandalkan penurunan harga, fokusnya bergeser dari biaya ke utilitas atau nilai tambah. Berikut adalah beberapa variabel nilai yang biasanya dicari pembeli:
+## A: Betul sekali. Dalam kacamata ekonomi murni, perdagangan sering dilihat sebagai permainan di mana selisih harga menjadi penentu siapa yang mendapat potongan kue lebih besar. Ketika pembeli ingin merasa untung tanpa mengandalkan penurunan harga, fokusnya bergeser dari biaya ke utilitas atau nilai tambah. Berikut adalah beberapa variabel nilai yang biasanya dicari pembeli:
 
 ### 1. Efisiensi Waktu
 

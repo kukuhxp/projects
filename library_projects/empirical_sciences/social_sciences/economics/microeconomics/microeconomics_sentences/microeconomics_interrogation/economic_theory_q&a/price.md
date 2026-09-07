@@ -10,9 +10,9 @@ Barang mentah seperti bijih besi, batu bara, minyak mentah, minyak sawit, gandum
 
 Contoh:
 
-Jika negara Indonesia menaikkan harga nikel, maka pembeli akan berpindah ke Filipina atau Rusia.
+* Jika negara Indonesia menaikkan harga nikel, maka pembeli akan berpindah ke Filipina atau Rusia.
 
-Jika negara Brasil menaikkan harga gula, maka pembeli akan berpindah ke Thailand.
+* Jika negara Brasil menaikkan harga gula, maka pembeli akan berpindah ke Thailand.
 
 Kesimpulan:
 
@@ -36,13 +36,13 @@ Bahan mentah itu murah karena tidak ada teknologi, tidak ada brand, tidak ada in
 
 Contoh:
 
-Nikel diubah menjadi baterai EV, dan terakhir menjadi mobil listrik.
+* Nikel diubah menjadi baterai EV, dan terakhir menjadi mobil listrik.
 
-Kelapa sawit diubah menjadi cooking oil, lalu menjadi cosmetics, dan terakhir menjadi biodiesel.
+* Kelapa sawit diubah menjadi cooking oil, lalu menjadi cosmetics, dan terakhir menjadi biodiesel.
 
-Bauxite diubah menjadi alumunium, dan terakhir menjadi komponen pesawat.
+* Bauxite diubah menjadi alumunium, dan terakhir menjadi komponen pesawat.
 
-Silikon diubah menjadi chip, dan terakhir menjadi smartphone.
+* Silikon diubah menjadi chip, dan terakhir menjadi smartphone.
 
 Semakin panjang manufaktur, maka semakin mahal harganya. Negara yang hanya menjual bahan mentah pasti selalu kalah.
 
@@ -52,15 +52,19 @@ Perusahaan raksasa seperti Apple, Samsung, Tesla, Foxconn, Nestle, Coca-Cola, da
 
 Kesimpulan;
 
-- Komoditas itu mudah diganti, banyak negara lain yang jual.
-- Harga ditentukan oleh pasar global, bukan negara produsen.
-- Produsen barang mentah bukan monopoli, jadi tidak bisa atur harga.
-- Barang mentah tidak punya nilai tambah, jadi margin kecil.
-- Pembeli global lebih kuat daripada penjual komoditas.
+* Komoditas itu mudah diganti, banyak negara lain yang jual.
+
+* Harga ditentukan oleh pasar global, bukan negara produsen.
+
+* Produsen barang mentah bukan monopoli, jadi tidak bisa atur harga.
+
+* Barang mentah tidak punya nilai tambah, jadi margin kecil.
+
+* Pembeli global lebih kuat daripada penjual komoditas.
 
 ## Q: Kenapa barang grosir lebih murah dari barang ritel?
 
-## A: Harga grosir lebih murah daripada harga ritel (eceran) karena adanya perbedaan skala ekonomi, biaya operasional, dan target pasar. Berikut adalah alasan utamanya:
+## A: Harga grosir lebih murah daripada harga ritel karena adanya perbedaan skala ekonomi, biaya operasional, dan target pasar. Berikut adalah alasan utamanya:
 
 ### 1. Volume Pembelian Tinggi
 
