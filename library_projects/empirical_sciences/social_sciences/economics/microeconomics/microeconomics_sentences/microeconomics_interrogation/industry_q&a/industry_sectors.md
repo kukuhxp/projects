@@ -1,4 +1,4 @@
-# ECONOMIC SECTORS
+# INDUSTRY SECTORS
 
 ## Q: Sektor ekonomi apa yang dapat menampung banyak pengangguran tanpa batas?
 

@@ -1,4 +1,4 @@
-# LEARNING
+# FAST LEARNING
 
 ## Q: Cara menyerap ilmu dengan cepat dan mudah.
 

@@ -1,4 +1,4 @@
-# SOLUTION
+# PROBLEM SOLVING
 
 ## Q: Solusi itu sebenarnya hal yang ada tapi tidak kita ketahui, atau memang belum ada dan harus dibuat sendiri?
 
