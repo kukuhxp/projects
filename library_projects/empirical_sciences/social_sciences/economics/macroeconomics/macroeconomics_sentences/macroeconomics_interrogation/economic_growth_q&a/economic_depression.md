@@ -1,4 +1,4 @@
-# GLOBAL ECONOMIC CRISIS
+# ECONOMIC DEPRESSION
 
 ## Q: Krisis ekonomi global ini dipicu karena ekonomi global saling membutuhkan.
 

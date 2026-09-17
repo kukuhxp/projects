@@ -1,4 +1,4 @@
-# LOST DECADE
+# ECONOMIC STAGNATION
 
 ## Q: Sepertinya yang membuat ekonomi jepang stagnan adalah traumanya masyarakat jepang untuk mengambil kredit.
 

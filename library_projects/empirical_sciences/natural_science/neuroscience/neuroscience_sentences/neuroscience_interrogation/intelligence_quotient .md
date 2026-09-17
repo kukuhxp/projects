@@ -1,18 +1,18 @@
 # INTELLIGENCE QUOTIENT (IQ)
 
-## Q: Apakah iq bisa bertambah atau berkembang?
+## Q: Apakah IQ bisa bertambah atau berkembang?
 
-## A: Secara saintifik, jawabannya adalah ya, IQ bisa bertambah dan berkembang, meskipun ada bagian yang cenderung lebih stabil. Kecerdasan manusia biasanya dibagi menjadi dua jenis utama yang memiliki pola perkembangan berbeda: [4, 5] 
+## A: Secara saintifik, jawabannya adalah ya, IQ bisa bertambah dan berkembang, meskipun ada bagian yang cenderung lebih stabil. Kecerdasan manusia biasanya dibagi menjadi dua jenis utama yang memiliki pola perkembangan berbeda:
 
 ### 1. Jenis Kecerdasan yang Berkembang
 
-#### 1.1 Crystallized Intelligence (Kecerdasan Kristal)
+#### 1.1  Kecerdasan Kristal (Crystallized Intelligence)
 
 Ini adalah kumpulan pengetahuan, kosakata, dan keterampilan yang Anda peroleh melalui pendidikan dan pengalaman hidup. Jenis kecerdasan ini terus meningkat seiring bertambahnya usia selama Anda terus belajar.
 
-#### 1.2. Fluid Intelligence (Kecerdasan Cair)
+#### 1.2. Kecerdasan Cair (Fluid Intelligence)
 
-Kemampuan untuk berpikir logis dan memecahkan masalah baru tanpa bergantung pada pengetahuan sebelumnya. Jenis ini biasanya memuncak di usia muda (sekitar 20-an) dan cenderung menurun perlahan setelahnya, namun riset terbaru menunjukkan bahwa latihan kognitif tertentu dapat membantu menjaganya tetap tajam.
+Kemampuan untuk berpikir logis dan memecahkan masalah baru tanpa bergantung pada pengetahuan sebelumnya. Jenis ini biasanya memuncak di usia muda sekitar 20-an dan cenderung menurun perlahan setelahnya, namun riset terbaru menunjukkan bahwa latihan kognitif tertentu dapat membantu menjaganya tetap tajam.
 
 ### 2. Faktor yang Mengubah Skor IQ
 
@@ -30,4 +30,4 @@ Kemampuan otak untuk membentuk koneksi baru memungkinkan peningkatan fungsi kogn
 
 Nutrisi yang baik, olahraga rutin, dan tidur yang cukup sangat krusial untuk menjaga fungsi otak tetap optimal agar hasil tes IQ tidak menurun.
 
-Ringkasnya: Meskipun potensi genetik berperan, lingkungan dan kebiasaan belajar Anda memiliki pengaruh besar dalam "menaikkan" kecerdasan riil Anda.
+Meskipun potensi genetik berperan, lingkungan dan kebiasaan belajar Anda memiliki pengaruh besar dalam menaikkan kecerdasan riil Anda.

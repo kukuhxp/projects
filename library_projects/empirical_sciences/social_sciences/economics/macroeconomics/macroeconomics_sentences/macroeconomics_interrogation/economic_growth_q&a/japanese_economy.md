@@ -4,7 +4,7 @@
 
 ## A: Ya, keengganan generasi muda Jepang untuk bekerja di sektor manufaktur dan konstruksi adalah salah satu pemicu utama, tetapi akar masalah sebenarnya jauh lebih kritis: jumlah anak muda di Jepang memang sudah tidak cukup lagi untuk mengisi semua sektor pekerjaan. Kondisi ini disebabkan oleh kombinasi krisis demografi nasional dan pergeseran preferensi kerja anak muda setempat, yang dijabarkan melalui poin-poin berikut:
 
-### 1. Istilah "3K" dan Stigma Pekerjaan Fisik
+### 1. Istilah 3K dan Stigma Pekerjaan Fisik
 
 Generasi muda Jepang modern sangat menghindari industri manufaktur, konstruksi, dan pertanian. Sektor-sektor ini diberi label negatif sebagai pekerjaan 3K:
 
@@ -28,7 +28,7 @@ Faktor paling mendasar adalah penurunan angka kelahiran (resesi seks) yang ekstr
 
 Menanggapi situasi darurat ini, Pemerintah Jepang secara khusus menerbitkan visa Specified Skilled Worker (SSW / Tokutei Ginou) sejak tahun 2019. Visa ini sengaja dirancang untuk mendatangkan pekerja asing tingkat menengah tanpa syarat akademik tinggi. Fokus utamanya ditujukan langsung untuk mengisi sektor-sektor yang ditinggalkan anak muda lokal, seperti konstruksi, pengolahan makanan, pabrik manufaktur, dan perawat lansia.
 
-## Q: kenapa mereka tidak pakai robot saja?
+## Q: Kenapa mereka tidak pakai robot saja?
 
 ## A: Jepang sebenarnya sudah menjadi salah satu negara dengan kepadatan robot industri tertinggi di dunia, namun robot belum bisa menggantikan seluruh pekerjaan manusia secara total akibat keterbatasan teknologi, biaya, dan sifat pekerjaan itu sendiri. Berikut adalah alasan utama mengapa Jepang tidak bisa mengandalkan robot sepenuhnya dan tetap membutuhkan imigran:
 
@@ -50,15 +50,15 @@ Jepang tidak memilih salah satu, melainkan menggunakan keduanya untuk bertahan d
 
 ## Q: Apakah wanita jepang sangat pilih-pilih dalam mencari pasangan?
 
-## A: Ya, dalam konteks sosial modern, wanita Jepang dinilai sangat selektif dan realistis dalam mencari pasangan. Namun, sikap "pilih-pilih" ini bukan karena sifat manja, melainkan mekanisme bertahan hidup (survival) akibat struktur sosial dan sistem pernikahan tradisional di Jepang yang dinilai merugikan karier perempuan. Kriteria seleksi yang ketat ini dipengaruhi oleh evolusi standar hidup dan tekanan sosial yang mereka hadapi:
+## A: Ya, dalam konteks sosial modern, wanita Jepang dinilai sangat selektif dan realistis dalam mencari pasangan. Namun, sikap pilih-pilih ini bukan karena sifat manja, melainkan mekanisme bertahan hidup (survival) akibat struktur sosial dan sistem pernikahan tradisional di Jepang yang dinilai merugikan karier perempuan. Kriteria seleksi yang ketat ini dipengaruhi oleh evolusi standar hidup dan tekanan sosial yang mereka hadapi:
 
-### 1. Evolusi Standar Pasangan (Dari "3H" ke "3K")
+### 1. Evolusi Standar Pasangan (Dari 3H ke 3K)
 
 Kriteria wanita Jepang dalam memilih suami mengalami pergeseran besar seiring kondisi ekonomi negara:
 
 #### 1.1. Era 1980-an (Kriteria 3H)
 
-Saat ekonomi Jepang sedang jaya, wanita mencari pria yang memenuhi standar High education (pendidikan tinggi), High income (gaji tinggi), dan High stature (fisik tinggi).
+Saat ekonomi Jepang sedang jaya, wanita mencari pria yang memenuhi standar pendidikan tinggi, gaji tinggi, dan fisik tinggi.
 
 #### 1.2. Era Modern (Kriteria 3K Baru)
 
@@ -66,25 +66,25 @@ Standar bergeser menjadi lebih realistis, yaitu Kachikan (kesamaan nilai/pandang
 
 ### 2. Risiko Kehilangan Karier dan Kebebasan
 
-Sistem sosial tradisional Jepang masih membebankan urusan domestik sepenuhnya kepada istri. Saat seorang wanita Jepang menikah dan memiliki anak, ada tekanan sosial yang kuat bagi mereka untuk keluar dari pekerjaan (resign) demi mengurus rumah tangga dan merawat lansia. Oleh karena itu, wanita Jepang yang sudah memiliki karier mapan dan mandiri secara finansial akan sangat "pilih-pilih". Mereka tidak akan mau menikah dengan pria berpenghasilan rendah atau pria yang tidak mau berbagi tugas rumah tangga, karena pernikahan tersebut hanya akan menurunkan kualitas hidup dan merenggut kebebasan mereka.
+Sistem sosial tradisional Jepang masih membebankan urusan domestik sepenuhnya kepada istri. Saat seorang wanita Jepang menikah dan memiliki anak, ada tekanan sosial yang kuat bagi mereka untuk keluar dari pekerjaan  demi mengurus rumah tangga dan merawat lansia. Oleh karena itu, wanita Jepang yang sudah memiliki karier mapan dan mandiri secara finansial akan sangat pilih-pilih. Mereka tidak akan mau menikah dengan pria berpenghasilan rendah atau pria yang tidak mau berbagi tugas rumah tangga, karena pernikahan tersebut hanya akan menurunkan kualitas hidup dan merenggut kebebasan mereka.
 
-### 3. Fenomena "Konkatsu" (Berburu Pernikahan)
+### 3. Fenomena Konkatsu (Berburu Pernikahan)
 
-Karena selektifnya pencarian pasangan, industri kencan buta formal yang disebut Konkatsu (aktivitas berburu pernikahan) sangat populer di Jepang. Dalam acara Konkatsu, wanita Jepang akan secara blak-blakan menyaring pria berdasarkan slip gaji terbaru, status kepegawaian (karyawan tetap atau bukan), serta kerelaan pria untuk ikut mengasuh anak. Jika seorang pria tidak lolos verifikasi finansial dasar ini, ia akan langsung dieliminasi.
+Karena selektifnya pencarian pasangan, industri kencan buta formal yang disebut Konkatsu sangat populer di Jepang. Dalam acara Konkatsu, wanita Jepang akan secara blak-blakan menyaring pria berdasarkan slip gaji terbaru, status kepegawaian, serta kerelaan pria untuk ikut mengasuh anak. Jika seorang pria tidak lolos verifikasi finansial dasar ini, ia akan langsung dieliminasi.
 
 ## Q: Amerika menyelamatkan Yen Jepang yang sedang melemah saat ini (2026), tapi bukankah saat Yen menguat pasca plaza accord malah merugikan Jepang?
 
 ## A: Ya, dan justru di situlah letak paradoksnya. Amerika Serikat tidak menginginkan yen yang terlalu lemah, tetapi juga tidak menginginkan yen yang terlalu kuat. Yang diinginkan adalah nilai tukar yang relatif stabil dan sesuai dengan kondisi ekonomi.
 
-### 1985 – Plaza Accord
+### Plaza Accord (1985)
 
-Saat itu dolar AS sangat kuat sehingga ekspor Amerika kalah bersaing dengan Jepang dan Jerman. Melalui kesepakatan Plaza Accord, Amerika dan negara-negara lain mendorong dolar melemah sehingga yen menguat. Akibatnya, ekspor Jepang terpukul karena produknya menjadi lebih mahal di pasar internasional. Dampaknya bagi Jepang, untuk mengimbangi perlambatan ekonomi akibat yen yang menguat, bank sentral Jepang menurunkan suku bunga. Kredit menjadi murah, sehingga muncul gelembung harga saham dan properti. Ketika gelembung itu pecah pada awal 1990-an, Jepang memasuki periode panjang pertumbuhan rendah yang sering disebut "Lost Decades."
+Saat itu dolar AS sangat kuat sehingga ekspor Amerika kalah bersaing dengan Jepang dan Jerman. Melalui kesepakatan Plaza Accord, Amerika dan negara-negara lain mendorong dolar melemah sehingga yen menguat. Akibatnya, ekspor Jepang terpukul karena produknya menjadi lebih mahal di pasar internasional. Dampaknya bagi Jepang, untuk mengimbangi perlambatan ekonomi akibat yen yang menguat, bank sentral Jepang menurunkan suku bunga. Kredit menjadi murah, sehingga muncul gelembung harga saham dan properti. Ketika gelembung itu pecah pada awal 1990-an, Jepang memasuki periode panjang pertumbuhan rendah yang sering disebut **Lost Decades**.
 
 ### Situasi Sekarang (2026)
 
 Yen yang terlalu lemah juga menimbulkan masalah. Jepang mengimpor banyak energi, pangan, dan bahan baku. Ketika yen melemah tajam, biaya impor melonjak sehingga inflasi meningkat dan daya beli masyarakat menurun. Karena itu, Amerika dan negara-negara lain dapat mendukung stabilisasi yen agar pelemahannya tidak terlalu ekstrem.
 
-Jadi, Amerika bukan sedang "menyelamatkan Jepang" dalam arti ingin membuat yen sekuat mungkin. Yang lebih tepat adalah menjaga agar pasar valuta asing tetap stabil. Yen yang terlalu kuat maupun terlalu lemah sama-sama dapat menimbulkan masalah, baik bagi Jepang maupun bagi ekonomi global.
+Jadi, Amerika bukan sedang menyelamatkan Jepang dalam arti ingin membuat yen sekuat mungkin. Yang lebih tepat adalah menjaga agar pasar valuta asing tetap stabil. Yen yang terlalu kuat maupun terlalu lemah sama-sama dapat menimbulkan masalah, baik bagi Jepang maupun bagi ekonomi global.
 
 Singkatnya:
 

@@ -4,7 +4,7 @@
 
 ## A: Pengetahuan orang dahulu tentang tanaman obat tidak hanya murni kebetulan, melainkan hasil dari kombinasi beberapa metode selama ribuan tahun. Berikut adalah cara mereka mengetahuinya:
 
-### 1. Metode Trial and Error (Uji Coba)
+### 1. Metode Uji Coba (Trial and Error)
 
 Ini adalah cara yang paling mendasar. Manusia purba mencoba berbagai tumbuhan untuk bertahan hidup. Jika ada yang memakan tanaman tertentu lalu merasa sakit perutnya sembuh, informasi itu akan diingat. Sebaliknya, jika ada yang mati setelah makan buah tertentu, tanaman itu akan ditandai sebagai racun.
 
@@ -20,7 +20,7 @@ Manusia kemudian meniru perilaku tersebut untuk melihat apakah efeknya sama pada
 
 ### 3. Teori Signature (Doctrine of Signatures)
 
-Banyak kebudayaan kuno percaya bahwa bentuk fisik tanaman adalah "petunjuk" dari alam tentang kegunaannya.
+Banyak kebudayaan kuno percaya bahwa bentuk fisik tanaman adalah petunjuk dari alam tentang kegunaannya.
 
 Contoh:
 
@@ -31,9 +31,10 @@ Meskipun tidak selalu akurat secara medis modern, metode ini membantu mereka men
 
 ### 4. Akumulasi Pengetahuan Lintas Generasi
 
-Informasi ini tidak hilang begitu saja. Pengetahuan tentang mana tanaman yang menyembuhkan dan mana yang membunuh diwariskan secara lisan, lalu kemudian dicatat dalam naskah kuno (seperti Papirus Ebers di Mesir atau Serat Centhini di Jawa). Inilah yang menjadi cikal bakal farmakologi modern.
+Informasi ini tidak hilang begitu saja. Pengetahuan tentang mana tanaman yang menyembuhkan dan mana yang membunuh diwariskan secara lisan, lalu kemudian dicatat dalam naskah kuno seperti Papirus Ebers di Mesir atau Serat Centhini di Jawa. Inilah yang menjadi cikal bakal farmakologi modern.
 
 ### 5. Intuisi dan Eksperimen Terarah
 
-Beberapa peradaban besar seperti di Tiongkok (TCM) dan India (Ayurveda) melakukan eksperimen yang lebih sistematis. Mereka mencatat dosis, bagian tanaman yang digunakan (akar, daun, atau kulit), dan cara mengolahnya (direbus atau ditumbuk).
+Beberapa peradaban besar seperti di Tiongkok (TCM) dan India (Ayurveda) melakukan eksperimen yang lebih sistematis. Mereka mencatat dosis, bagian tanaman yang digunakan seperti akar, daun, atau kulit, dan cara mengolahnya.
+
 Jadi, meski berawal dari ketidaksengajaan atau kebutuhan mendesak untuk makan, keberlanjutan ilmu obat herbal adalah hasil dari pengamatan tajam dan daya ingat manusia terhadap alam.

@@ -1,4 +1,4 @@
-# ECONOMIC GROWTH
+# ECONOMIC EXPANSION
 
 ## Q: Semakin banyak barang yang diproduksi dan semakin banyak jumlah konsumen akan membuat ekonomi tumbuh.
 

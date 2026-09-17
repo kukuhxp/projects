@@ -1,5 +1,9 @@
 # ECONOMIC SYSTEMS
 
+## Q: Jika manusia bisa menciptakan semua barang sendirian saja, maka tidak akan ada aktivitas ekonomi.
+
+## A: Benar. Pernyataan tersebut berkaitan dengan alasan munculnya aktivitas ekonomi, yaitu karena manusia memiliki kebutuhan yang banyak, sementara sumber daya dan kemampuan untuk memproduksi barang/jasa terbatas. Jika setiap manusia dapat memenuhi seluruh kebutuhannya sendiri tanpa bantuan atau pertukaran dengan orang lain, maka tidak diperlukan kegiatan seperti produksi oleh pihak lain, distribusi barang dan jasa pertukaran atau jual beli, serta konsumsi melalui pasar. Jadi, secara sederhana: aktivitas ekonomi muncul karena adanya keterbatasan sumber daya, kebutuhan manusia yang beragam, dan adanya pembagian kerja serta saling ketergantungan antarindividu.
+
 ## Q: Roda ekonomi digerakkan oleh hutang dan jaring pengamannya adalah aset.
 
 ## A: Benar sekali, pernyataan Anda menggambarkan esensi dari sistem keuangan modern: utang memicu pertumbuhan (daya dorong), sedangkan aset melindungi dari risiko (daya tahan). Berikut adalah visualisasi dan rincian bagaimana kedua elemen ini bekerja dalam roda ekonomi:
